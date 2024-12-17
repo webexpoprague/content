@@ -1,6 +1,6 @@
 # WebExpo Content
 
-WebExpo Content extraction from website in MD format. Simple python 3.13 script to get WebExpo data in MD format for broader use.
+WebExpo program content extraction from webexpo,net in MD format. Simple Python 3.13 script to get WebExpo data for broader use.
 
 ## Install
 
