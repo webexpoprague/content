@@ -50,10 +50,10 @@ def process_pages(pages_file, output_file):
     print(f"Site pages data written to {output_file}")
 
 def main():
-    sessions_file = 'sessions.txt'
-    pages_file = 'pages.txt'
-    sessions_output = 'sessions-data.md'
-    pages_output = 'site-data.md'
+    sessions_file = 'input/sessions.txt'
+    pages_file = 'input/pages.txt'
+    sessions_output = 'output/sessions-data.md'
+    pages_output = 'output/site-data.md'
 
     process_sessions(sessions_file, sessions_output)
     process_pages(pages_file, pages_output)

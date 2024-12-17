@@ -532,7 +532,7 @@ Conference Talk
 
 ## Talk Description
 
-Every week of my life, in one-on-one consults with UXers and product designers at all levels — in addition to those serving on teams of the clients I work with as a consultant — I hear the same refrains over and over:
+Every week, working with UXers and product designers at all levels — in addition to those serving on teams of the clients he consults with — Joe Natoli hears the same refrains over and over:
 
 
 
@@ -568,31 +568,23 @@ They don’t care.
 
 
 
-It hurts my heart to hear this, because I know — after 30+ years in this industry — just how true all of it is. I know just how much UXers and Product Designers are disrespected and marginalized, even in organizations who publicly trumpet themselves as design- or UX-centric. And I know how much all that hurts, how&nbsp;personally&nbsp;we take it.
+After 30+ years in this industry, Joe knows how true all of it is. He knows just how often UXers and Product Designers are marginalised, ignored and left out of critical decisions, even in organisations who publicly trumpet themselves as design- or UX-centric.&nbsp;
 
 
 
-And also, after all this time, I know that sometimes, there truly is nothing you can do about that. So I’m also going to talk about those scenarios and how to deal with them at the end of our time together.
+And Joe know how much all that hurts, how&nbsp;personally&nbsp;we take it.
 
 
 
-In many cases I come across, however,&nbsp;there IS something you can do, provided you take a&nbsp;very&nbsp;different approach to overcoming these obstacles and change your thinking, from both a personal and professional standpoint.
+And after all this time, he also knows that sometimes, there truly is nothing you can do about that. Sometimes your proposals for UX improvement — additional user research, more design iteration cycles, or user testing — are shot down by folks on the business side of the house whom&nbsp;you’ve never met.
 
 
 
-Provided you find the courage to work through your fear and take the first step.
+Here’s the thing: almost all of this stems from a lack of&nbsp;leadership; a lack of&nbsp;influence. And what you may not realise is that you actually have more power and influence than you think. And even if you don’t have influence, you are absolutely capable of&nbsp;gaining it&nbsp;— no matter what your job title is.
 
 
 
-Provided you can recognize the power you don’t realize you hold — and begin using it.
-
-
-
-This talk is a practical guide to help UX researchers, designers, and product professionals not just survive but thrive by thinking like a leader — even when leadership isn’t in your job title. You’ll walk away with actionable strategies to start breaking through barriers and creating the impact you were hired to deliver.
-
-
-
-
+In this talk, Joe’s going to show you why all that is true. He’ll also give you concrete ways you can overcome&nbsp;these obstacles, change your thinking and recognise the power you don’t realise you hold —&nbsp;and begin&nbsp;using&nbsp;it.
 
 ## Tags
 
@@ -608,7 +600,7 @@ Joe Natoli
 
 ## Session Presenter Bio
 
-Joe Natoli is a UX consultant, author and speaker. Everything he does is born from nearly three decades of consulting with and training the UX, design and product development teams of some of the world’s largest organizations. Joe delivers practical advice in jargon-free language. Methods and advice that work in the messy reality of the real world, where we don’t always have the time, budget, or approval we’d like.
+Joe is a UX consultant, author, and speaker. Everything he does is born from nearly three decades of consulting with and training UX, design, and product development teams at some of the world’s largest organisations. Joe delivers practical advice in jargon-free language, sharing methods and advice that work in the messy reality of the real world, where we don’t always have the time, budget, or the approval we’d like.
 
 ## Session Details
 
@@ -808,7 +800,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-PREMIUM WORKSHOP: React in patterns
+Premium Workshop: React in patterns
 
 ## Session URL
 
@@ -945,7 +937,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Talk focus on UX Research
+Hidden risks of surveys
 
 ## Session URL
 
@@ -957,7 +949,7 @@ Conference Talk
 
 ## Talk Description
 
-More details will be announced soon.
+Surveys are quite a popular yet very dangerous research tool. Though surveys have been used successfully in scientific studies for a very long time, they can still be rather risky when it comes to fast pace learning about our users. It’s easy to think that surveys are really easy to do, but in fact, if done wrong, they can falsely prove all your hypotheses while providing the illusion of doing research. In this talk, Zsuzsa will walk you through the main risks of surveys and explain in detail what can go wrong.
 
 
 
@@ -965,11 +957,11 @@ More details will be announced soon.
 
 ## Tags
 
-Content, Design Thinking &amp; UX, Research, Service Design &amp; CX
+Design Thinking &amp; UX, Marketing, Research
 
 ## Session Focused on
 
-Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 40%
+Web Development: 0%, Design & UX: 80%, Marketing: 80%, Business: 60%
 
 ## Session Presenter
 
@@ -977,7 +969,7 @@ Zsuzsa Kovács
 
 ## Session Presenter Bio
 
-Zsuzsa is a Product freelance lead UX researcher. She has worked in UX since 2008 and tried many different roles around building products, but her main focus was always on how to involve users in the process early on and keep them close. She enjoys talking to people, seeing products through their eyes, and understanding their points of view. She is interested in psychology, especially areas that affect UX research. She is also a co-organiser of the Amuse UX Conference.
+Zsuzsa is a UX Researcher, who has worked in UX since 2008. She’s had many different roles around building products but in every one, her main focus was involving users in the process early on and keeping them close. She enjoys talking to users, seeing products through their eyes, and understanding their point of view. Zsuzsa is interested in psychology, especially areas that affect research. She is also a co-organiser of the Amuse UX Conference.
 
 ## Session Details
 
@@ -1908,6 +1900,65 @@ George is a distributed systems expert and a hands-on engineering leader. He is 
 ### Duration
 
 40 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+The future is built, not bought: Rewiring organisations for continuous innovation
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/the-future-is-built-not-bought-rewiring-organisations-for-continuous-innovation/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Many companies are consumed by carefully crafted roadmaps, diligently solving known important problems. Yet, this approach may leave us vulnerable to the rapid shifts happening around us and failing to adapt can pose an existential threat.
+
+
+
+In this session, we’ll explore the critical question: Are you an innovator? How can you recognise the traits of innovation within your organisation? Drawing on research into successful innovators, we’ll uncover the patterns and mindsets that drive lasting change. Whether your organisation has lost its innovative edge or is striving to build it from scratch, we’ll discuss how to rewire a company for continuous innovation. Start building the future, rather than just responding to the present.
+
+
+
+
+
+## Tags
+
+Automation, Business &amp; Growth, Future of Work, Research
+
+## Session Focused on
+
+Web Development: 40%, Design & UX: 0%, Marketing: 0%, Business: 100%
+
+## Session Presenter
+
+Martin Cízler
+
+## Session Presenter Bio
+
+Martin is a seasoned tech executive with over 20 years of experience building, growing and transforming engineering teams in the SaaS space. Currently at Make, Martin drives the mission of empowering the non-developers of the world to innovate by building software and automating work through the transformative power of visual no-code and AI. Before moving to the startup scene about 5 years ago, he played a pivotal role in the establishment and growth of the Microsoft Development Center in Prague. He is passionate about inspiring creativity in people so that they can experience the joy of continuous innovation.
+
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+20 Minutes
 
 ### Specific Location
 
@@ -2929,6 +2980,128 @@ Martina is a CX Manager at ČSOB with a passion for creating seamless customer e
 ### Date
 
 May 29, 2025 11:00 am
+
+### Duration
+
+110 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Free Workshop: React Compiler in action!
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/free-workshop-react-compiler-in-action/
+
+## Session Type
+
+Free Workshop
+
+## Talk Description
+
+
+
+.workshopScheduled_label {
+    padding-left: 0.25rem;
+}
+#session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(1){
+    border-left: 1px solid var(--webx-ice-50);
+    border-right: 1px solid var(--webx-ice-50);
+}
+@media screen and (min-width: 782px) {
+    .grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 {
+        left: 12.5%;
+        position: relative;
+        border-left: 1px solid var(--webx-ice-50);
+    }
+}
+    #session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(3){
+        display:none;
+    }
+
+
+
+#session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(1) > div.workshopScheduled_detail.px-2 > p::after {
+    content: "TBC";
+}
+
+
+
+
+
+
+The React Compiler is meant to make developers' lives easier, allowing them to write business logic in applications and stop dealing with manual performance optimisation techniques like memoisation. But is this really the case? Does the React Compiler solve all problems and, if so, at what cost? Is it truly a game changer, or just a fad?
+
+
+
+In this hands-on workshop, Martin will explore how the React Compiler operates and what to expect from it. He’ll answer these questions using real-world examples. He’ll also show you how to integrate the compiler into an existing project and measure its impact.
+
+
+
+
+
+
+
+What will attendees learn?
+
+
+
+How to integrate and use the React Compiler and measure its impact.
+
+
+
+Who is the workshop for?
+
+
+
+React developers, JavaScript developers, and tech leaders.
+
+
+
+What are the attendee requirements?
+
+
+
+A computer and at least basic React knowledge.
+
+
+
+How to register for this workshop?
+
+
+
+This workshop is included in the conference ticket. The registration is on first come, first served basis (maximum capacity of 12 people).
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Frontend Dev, Performance
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 40%
+
+## Session Presenter
+
+Martin Krištof
+
+## Session Presenter Bio
+
+Martin is a team lead and full-stack JavaScript developer specialising in React. He is trying to advance Heureka as a front-end group leader. Outside of his main job, he passes on his React and testing experience through trainings or online courses.
+
+## Session Details
+
+### Date
+
+
 
 ### Duration
 

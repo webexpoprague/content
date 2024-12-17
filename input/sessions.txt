@@ -1,4 +1,3 @@
-https://webexpo.net/
 https://webexpo.net/prague2025/sessions/turn-curiosity-into-data-gold-with-tedw-questions/
 https://webexpo.net/prague2025/sessions/from-genai-to-genui-codify-your-ui-on-the-fly/
 https://webexpo.net/prague2025/sessions/creating-an-effective-beautiful-data-visualisation-from-scratch/
@@ -29,6 +28,7 @@ https://webexpo.net/prague2025/sessions/i-need-to-slow-it-down-how-process-orien
 https://webexpo.net/prague2025/sessions/future-proof-your-ui-building-with-web-components/
 https://webexpo.net/prague2025/sessions/building-identity-solutions-with-privacy-sandbox-apis/
 https://webexpo.net/prague2025/sessions/evolving-user-interfaces-voice-gesture-and-beyond/
+https://webexpo.net/prague2025/sessions/the-future-is-built-not-bought-rewiring-organisations-for-continuous-innovation/
 https://webexpo.net/prague2025/sessions/what-is-jobs-to-be-done-and-why-should-you-care-a-framework-to-build-empathy-and-drive-alignment/
 https://webexpo.net/prague2025/sessions/how-the-wordpress-ecosystem-handles-security-and-what-you-can-learn-from-it/
 https://webexpo.net/prague2025/sessions/from-badges-to-value-designing-meaningful-gamified-experiences/
@@ -45,4 +45,5 @@ https://webexpo.net/prague2025/sessions/premium-workshop-accessibility-for-desig
 https://webexpo.net/prague2025/sessions/improving-your-pm-skillset-with-web-scraping-ai/
 https://webexpo.net/prague2025/sessions/ai-webxr-and-the-future-of-immersive-web/
 https://webexpo.net/prague2025/sessions/free-workshop-the-art-of-nailing-the-job-crafting-jobs-to-be-done-that-work/
+https://webexpo.net/prague2025/sessions/free-workshop-react-compiler-in-action/
 https://webexpo.net/prague2025/sessions/2025-morning-body-update-rise-and-shine-with-sun-salutations/
