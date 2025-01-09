@@ -1,10 +1,10 @@
 # Session title
 
-Turn curiosity into data gold with TEDW questions
+Keynote: Strategic thinking for everyone
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/turn-curiosity-into-data-gold-with-tedw-questions/
+https://webexpo.net/prague2025/sessions/opening-keynote-by-mark-pollard/
 
 ## Session Type
 
@@ -12,23 +12,82 @@ Conference Talk
 
 ## Talk Description
 
-In this talk, Nikki will share the best formula for asking open-ended unbiased questions, regardless of what you are trying to learn. Although this is a tactic for user research, the TEDW model can help you ask deep and meaningful questions throughout your entire career (and even life!).
+In this talk, Mark will teach you frameworks and tools that strategists use to think through problems. However, he'll apply the techniques on issues facing people in the audience.
+
+
+
+You'll learn:1. Ideas - linear and lateral thinking2. Insights - what they are and how to have them3. Problems - why they're useful4. The Four Points Framework - and how to apply it to your life
+
+
+
+
 
 ## Tags
 
-Design Thinking &amp; UX, Research
+Business &amp; Growth, Content, Future of Work, Marketing
 
 ## Session Focused on
 
-Web Development: 20%, Design & UX: 100%, Marketing: 20%, Business: 60%
+Web Development: 60%, Design & UX: 60%, Marketing: 100%, Business: 100%
 
 ## Session Presenter
 
-Nikki Anderson
+Mark Pollard
 
 ## Session Presenter Bio
 
-Nikki,  also known as "The User Research Resource Queen," is a blogger, podcaster, and founder of the User Research Academy, where she publishes weekly Substack content dedicated to helping user researchers conduct research more creatively and confidently.
+Mark Pollard is a strategist, author, and podcast host who founded the Southern Hemisphere’s first full-color hip hop magazine, Stealth, at age 20. He hosts the Sweathead podcast (1.6M listens) and has consulted for top brands like Meta, Twitter, and The Economist. His book, Strategy Is Your Words, raised $37k on Kickstarter and sold 8,000 copies. With 25+ countries taught, his work reaches hundreds of thousands of people every month.
+
+## Session Details
+
+### Date
+
+May 28, 2025 9:00 am
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Designing beyond the happy path
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/designing-beyond-the-happy-path/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Mockups reflect an idealised version of the product: the perfect text size and faultless content, all taken during a perfect user journey. However, they often fall apart once confronted with real content, technical limitations, and the vast diversity of user needs. We call those scenarios “edge cases”. However, these aren't exceptions but an essential part of the user experience. This talk aims to redefine our approach to design by incorporating edge cases into the design process from the start. In doing so, we can build more robust, inclusive, and scalable products.
+
+## Tags
+
+Design Systems, Design Thinking &amp; UX, Frontend Dev, Research, Service Design &amp; CX
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 100%, Marketing: 20%, Business: 40%
+
+## Session Presenter
+
+Stéphanie Walter
+
+## Session Presenter Bio
+
+Stéphanie is a UX researcher and strategist based in Luxembourg with over 13 years of experience, specialised in enterprise UX, inclusive design, and accessibility. She teaches, speaks, and writes about design, UX research, cognitive biases, and the design-dev relationship, among other topics. She enjoys good tea, bike rides, and drawing illustrations. Her D&amp;D alignment is chaotic neutral, and she is better at keeping her teammates alive in video games than her plants, though she makes an effort. 🌱 Feel free to reach out to her with your research and design questions!
 
 ## Session Details
 
@@ -357,11 +416,144 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Talk focus on web performance
+Strategy Masterclass: Learn and practice the most fun parts of advertising strategy
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/tim-kadlec-web-performance-2025/
+https://webexpo.net/prague2025/sessions/strategy-masterclass-learn-and-practice-the-most-fun-parts-of-advertising-strategy/
+
+## Session Type
+
+Premium Workshop
+
+## Talk Description
+
+How are you going to help make an advertising campaign get inside people’s heads if you struggle to write words that get into your colleagues’ heads?
+
+
+
+Words are a strategist’s currency but too many strategies are written in spite of their audience, not for their audience.
+
+
+
+
+
+
+
+In this masterclass, you will:
+
+
+
+
+Work a problem into a creative brief,
+
+
+
+Write insights,
+
+
+
+Write strategies that get into heads.
+
+
+
+
+What will attendees learn?
+
+
+
+
+The Four Points framework,
+
+
+
+Ideas–linear and lateral thinking,
+
+
+
+Insights–how to have and write them,
+
+
+
+Strategy–how to write it, and
+
+
+
+Why brands need you to use words better.
+
+
+
+
+You’ll run through over 10 exercises and make your own Four Points for a brand.
+
+
+
+Who is the workshop for?
+
+
+
+
+Advertising and marketing strategists – Professionals responsible for crafting and communicating strategies that drive campaigns.
+
+
+
+Brand managers – Individuals ensuring strategic alignment while shaping a brand’s identity and messaging.
+
+
+
+Creative professionals (designers, art directors, creative leads) – Those who benefit from understanding the strategic foundation behind campaign briefs.
+
+
+
+Entrepreneurs and small business owners – People building brands who need to develop and articulate strategic insights clearly.d senior designers, product leads, UX leads.
+
+
+
+
+
+
+## Tags
+
+Business &amp; Growth, Content, Future of Work, Marketing
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 40%, Marketing: 100%, Business: 100%
+
+## Session Presenter
+
+Mark Pollard
+
+## Session Presenter Bio
+
+Mark Pollard is a strategist, author, and podcast host who founded the Southern Hemisphere’s first full-color hip hop magazine, Stealth, at age 20. He hosts the Sweathead podcast (1.6M listens) and has consulted for top brands like Meta, Twitter, and The Economist. His book, Strategy Is Your Words, raised $37k on Kickstarter and sold 8,000 copies. With 25+ countries taught, his work reaches hundreds of thousands of people every month.
+
+## Session Details
+
+### Date
+
+May 30, 2025 9:00 am
+
+### Duration
+
+240 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+TBA: Founder Story
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/jan-rezab-talk-2025/
 
 ## Session Type
 
@@ -369,25 +561,84 @@ Conference Talk
 
 ## Talk Description
 
-More details will be announced soon.
-
 ## Tags
 
-Backend Dev, Frontend Dev, Performance
+Business &amp; Growth, Data, Future of Work, Marketing
 
 ## Session Focused on
 
-Web Development: 100%, Design & UX: 40%, Marketing: 0%, Business: 40%
+Web Development: 20%, Design & UX: 20%, Marketing: 80%, Business: 100%
 
 ## Session Presenter
 
-Tim Kadlec
+Jan Řežáb
 
 ## Session Presenter Bio
 
-Tim is a web performance consultant and trainer focused on building a web everyone can use.
+Jan is a serial entrepreneur with 19 years of experience, known for founding Socialbakers, a global leader in social media analytics that served brands like Microsoft and Nestlé. He later launched Time is Ltd., focusing on corporate productivity analytics, and recently founded Ravineo, achieving $1M ARR within seven months. A Forbes “30 Under 30” honoree, Jan has shared his expertise at institutions like NATO and Harvard Business School, becoming a recognised authority in digital analytics and innovation.
 
-He is the author of High Performance Images (O'Reilly, 2016) and Implementing Responsive Design: Building sites for an anywhere, everywhere web (New Riders, 2012). He writes about all things web at timkadlec.com.
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Whispers and shouts: Ensuring safety amidst LLM noise
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/daniel-cuthbert-web-security-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Robocop (1987) introduced us to a vision of the future where humanity and technology combined to serve, protect, and uphold justice. Murphy embodied what we strive for in AI today: precision, ethics, and a mission to protect.
+
+
+
+But ED-209? A cautionary tale of what happens when we prioritise power over control and ambition over accountability.
+
+
+
+We stand at a crossroads. AI can be our Murphy: protective, ethical, and safe. Or it can become ED-209: unchecked and dangerous. The choice is ours, and this talk offers a roadmap to ensure we march towards the former.
+
+
+
+
+
+## Tags
+
+AI &amp; ML &amp; Bots, Design Systems, Research, Security
+
+## Session Focused on
+
+Web Development: 80%, Design & UX: 60%, Marketing: 40%, Business: 40%
+
+## Session Presenter
+
+Daniel Cuthbert
+
+## Session Presenter Bio
+
+Daniel has been on a relentless quest to build software so secure that even he might struggle to hack it (but don't count on it). Self-diagnosed with an obsession for bugs and offensive operations, he's turned his penchant for poking holes into a crusade for making vendors shape up. By channelling his mischief into the OWASP ASVS and other cunning initiatives, he's been plotting to save the software world—one responsible vendor at a time.
 
 ## Session Details
 
@@ -410,11 +661,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Designing beyond the happy path
+Turn curiosity into data gold with TEDW questions
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/designing-beyond-the-happy-path/
+https://webexpo.net/prague2025/sessions/turn-curiosity-into-data-gold-with-tedw-questions/
 
 ## Session Type
 
@@ -422,23 +673,23 @@ Conference Talk
 
 ## Talk Description
 
-Mockups reflect an idealised version of the product: the perfect text size and faultless content, all taken during a perfect user journey. However, they often fall apart once confronted with real content, technical limitations, and the vast diversity of user needs. We call those scenarios “edge cases”. However, these aren't exceptions but an essential part of the user experience. This talk aims to redefine our approach to design by incorporating edge cases into the design process from the start. In doing so, we can build more robust, inclusive, and scalable products.
+In this talk, Nikki will share the best formula for asking open-ended unbiased questions, regardless of what you are trying to learn. Although this is a tactic for user research, the TEDW model can help you ask deep and meaningful questions throughout your entire career (and even life!).
 
 ## Tags
 
-Design Systems, Design Thinking &amp; UX, Frontend Dev, Research, Service Design &amp; CX
+Design Thinking &amp; UX, Research
 
 ## Session Focused on
 
-Web Development: 60%, Design & UX: 100%, Marketing: 20%, Business: 40%
+Web Development: 20%, Design & UX: 100%, Marketing: 20%, Business: 60%
 
 ## Session Presenter
 
-Stéphanie Walter
+Nikki Anderson
 
 ## Session Presenter Bio
 
-Stéphanie is a UX researcher and strategist based in Luxembourg with over 13 years of experience, specialised in enterprise UX, inclusive design, and accessibility. She teaches, speaks, and writes about design, UX research, cognitive biases, and the design-dev relationship, among other topics. She enjoys good tea, bike rides, and drawing illustrations. Her D&amp;D alignment is chaotic neutral, and she is better at keeping her teammates alive in video games than her plants, though she makes an effort. 🌱 Feel free to reach out to her with your research and design questions!
+Nikki,  also known as "The User Research Resource Queen," is a blogger, podcaster, and founder of the User Research Academy, where she publishes weekly Substack content dedicated to helping user researchers conduct research more creatively and confidently.
 
 ## Session Details
 
@@ -623,69 +874,6 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Whispers and shouts: Ensuring safety amidst LLM noise
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/daniel-cuthbert-web-security-2025/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-Robocop (1987) introduced us to a vision of the future where humanity and technology combined to serve, protect, and uphold justice. Murphy embodied what we strive for in AI today: precision, ethics, and a mission to protect.
-
-
-
-But ED-209? A cautionary tale of what happens when we prioritise power over control and ambition over accountability.
-
-
-
-We stand at a crossroads. AI can be our Murphy: protective, ethical, and safe. Or it can become ED-209: unchecked and dangerous. The choice is ours, and this talk offers a roadmap to ensure we march towards the former.
-
-
-
-
-
-## Tags
-
-AI &amp; ML &amp; Bots, Design Systems, Research, Security
-
-## Session Focused on
-
-Web Development: 80%, Design & UX: 60%, Marketing: 40%, Business: 40%
-
-## Session Presenter
-
-Daniel Cuthbert
-
-## Session Presenter Bio
-
-Daniel has been on a relentless quest to build software so secure that even he might struggle to hack it (but don't count on it). Self-diagnosed with an obsession for bugs and offensive operations, he's turned his penchant for poking holes into a crusade for making vendors shape up. By channelling his mischief into the OWASP ASVS and other cunning initiatives, he's been plotting to save the software world—one responsible vendor at a time.
-
-## Session Details
-
-### Date
-
-
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Not specified
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
 Connecting the dots between site speed, user happiness, and business success
 
 ## Session URL
@@ -733,6 +921,173 @@ Tammy has spent more than twenty years studying how people use the web. She’s 
 ### Duration
 
 40 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Talk focus on web performance
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/tim-kadlec-web-performance-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+More details will be announced soon.
+
+## Tags
+
+Backend Dev, Frontend Dev, Performance
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 40%, Marketing: 0%, Business: 40%
+
+## Session Presenter
+
+Tim Kadlec
+
+## Session Presenter Bio
+
+Tim is a web performance consultant and trainer focused on building a web everyone can use.
+
+He is the author of High Performance Images (O'Reilly, 2016) and Implementing Responsive Design: Building sites for an anywhere, everywhere web (New Riders, 2012). He writes about all things web at timkadlec.com.
+
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Digital intimacy: Feeling human in an artificial world
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/lutz-schmitt-ux-design-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+We easily recognise the people we’re closest to – our partners, friends, family – the ones we seek true intimacy with. The internet helps us "stay in touch" even when apart, but it also raises doubts about authenticity nowadays and has us questioning if the other person is even human. Can an interaction with a robot feel just as intimate? And aren’t the challenges you face when building trust with your users similar?
+
+
+
+Join Lutz’s thought-provoking talk on intimacy, human connection, digital interaction, and what it all means for your work.
+
+## Tags
+
+Business &amp; Growth, Design Thinking &amp; UX, Service Design &amp; CX, Sustainability &amp; Ethics
+
+## Session Focused on
+
+Web Development: 40%, Design & UX: 100%, Marketing: 60%, Business: 80%
+
+## Session Presenter
+
+Lutz Schmitt
+
+## Session Presenter Bio
+
+Lutz lives with his family in Cologne, Germany. In the early 2000s, he graduated as a designer and became an information architect. Today, he’s an independent consultant for UX and service design, with a knack for privacy. He’s the author of the book “The Perception of Time and the Influence of Design”.
+
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Untangling your dependencies: A pattern for a well-knit JavaScript project
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/untangling-your-dependencies-a-pattern-for-a-well-knit-javascript-project/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+“Alright, I’ll just upgrade Typescript — aaaaaand everything is broken now.”
+
+
+
+Building a complex JavaScript project can feel like a tangled mess of yarn. Fear not, fellow developer! In this talk, Carmen will provide you with the tools and techniques to gently untangle your dependencies and knit a well-structured, maintainable codebase. Your basket of tools includes using the npm-why tool as your yarn needle, breaking down tasks into manageable stitches, strategically upgrading for progress, utilising branching techniques to keep your project from unravelling, and much more!
+
+
+
+Join Carmen as she unravels the secrets of dependency management, leaving you with a project that’s not only functional but beautifully maintainable, stitch by stitch.
+
+## Tags
+
+Backend Dev, Frontend Dev, Security
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 20%
+
+## Session Presenter
+
+Carmen Huidobro
+
+## Session Presenter Bio
+
+Carmen Huidobro is a developer advocate and DevEd enthusiast. She thrives on lifting others up in their tech careers and loves a good CSS challenge. She’s always excited to talk about teaching tech, especialmente en Español, oder auf Deutsch.
+
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+35 Minutes
 
 ### Specific Location
 
@@ -1047,11 +1402,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Digital intimacy: Feeling human in an artificial world
+12 core design skills
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/lutz-schmitt-ux-design-2025/
+https://webexpo.net/prague2025/sessions/12-core-design-skills/
 
 ## Session Type
 
@@ -1059,27 +1414,27 @@ Conference Talk
 
 ## Talk Description
 
-We easily recognise the people we’re closest to – our partners, friends, family – the ones we seek true intimacy with. The internet helps us "stay in touch" even when apart, but it also raises doubts about authenticity nowadays and has us questioning if the other person is even human. Can an interaction with a robot feel just as intimate? And aren’t the challenges you face when building trust with your users similar?
+A lot of people call themselves designer generalists. Let's talk about what it really means. Design is not drawing pretty pictures. Design is solving complex problems.
 
 
 
-Join Lutz’s thought-provoking talk on intimacy, human connection, digital interaction, and what it all means for your work.
+
 
 ## Tags
 
-Business &amp; Growth, Design Thinking &amp; UX, Service Design &amp; CX, Sustainability &amp; Ethics
+Design Thinking &amp; UX, Future of Work, Research, Service Design &amp; CX
 
 ## Session Focused on
 
-Web Development: 40%, Design & UX: 100%, Marketing: 60%, Business: 80%
+Web Development: 0%, Design & UX: 100%, Marketing: 60%, Business: 60%
 
 ## Session Presenter
 
-Lutz Schmitt
+Jan Řezáč
 
 ## Session Presenter Bio
 
-Lutz lives with his family in Cologne, Germany. In the early 2000s, he graduated as a designer and became an information architect. Today, he’s an independent consultant for UX and service design, with a knack for privacy. He’s the author of the book “The Perception of Time and the Influence of Design”.
+Jan wrote the first Czech bestseller about design process, has over 20 years of design experience, and leads the design consulting company House of Řezáč.
 
 ## Session Details
 
@@ -1090,65 +1445,6 @@ Lutz lives with his family in Cologne, Germany. In the early 2000s, he graduated
 ### Duration
 
 40 Minutes
-
-### Specific Location
-
-Not specified
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Untangling your dependencies: A pattern for a well-knit JavaScript project
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/untangling-your-dependencies-a-pattern-for-a-well-knit-javascript-project/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-“Alright, I’ll just upgrade Typescript — aaaaaand everything is broken now.”
-
-
-
-Building a complex JavaScript project can feel like a tangled mess of yarn. Fear not, fellow developer! In this talk, Carmen will provide you with the tools and techniques to gently untangle your dependencies and knit a well-structured, maintainable codebase. Your basket of tools includes using the npm-why tool as your yarn needle, breaking down tasks into manageable stitches, strategically upgrading for progress, utilising branching techniques to keep your project from unravelling, and much more!
-
-
-
-Join Carmen as she unravels the secrets of dependency management, leaving you with a project that’s not only functional but beautifully maintainable, stitch by stitch.
-
-## Tags
-
-Backend Dev, Frontend Dev, Security
-
-## Session Focused on
-
-Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 20%
-
-## Session Presenter
-
-Carmen Huidobro
-
-## Session Presenter Bio
-
-Carmen Huidobro is a developer advocate and DevEd enthusiast. She thrives on lifting others up in their tech careers and loves a good CSS challenge. She’s always excited to talk about teaching tech, especialmente en Español, oder auf Deutsch.
-
-## Session Details
-
-### Date
-
-
-
-### Duration
-
-35 Minutes
 
 ### Specific Location
 
@@ -1271,6 +1567,61 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
+Flex, Grid, and beyond: Mastering layouts with Tailwind CSS
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/mastering-layouts-with-tailwind-css-flex-grid-and-beyond/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Explore advanced layout techniques using Tailwind CSS, focusing on Flexbox, Grid, and other modern layout tools. In this talk, Shruti will demonstrate how to build complex, responsive designs efficiently with Tailwind’s utility-first classes. Learn practical tips for painlessly creating everyday layouts with ease — all while making them responsive.
+
+
+
+
+
+## Tags
+
+Design Systems, Design Thinking &amp; UX, Frontend Dev
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 80%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Shruti Balasa
+
+## Session Presenter Bio
+
+Shruti Balasa is a full stack web developer and a tech educator from India. She likes to make web development simple for beginners through her courses, Youtube tutorials, and ebooks. She’s currently co-building VoxPop — the simplest website builder ever. Shruti chooses to work only four to five hours a day so she can cook healthy meals and spend quality time with her family.
+
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
 Payments: How to design payment applications in Python
 
 ## Session URL
@@ -1332,11 +1683,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Flex, Grid, and beyond: Mastering layouts with Tailwind CSS
+&#8220;I need to slow it down!&#8221;: How process-oriented facilitation can improve your leadership skills
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/mastering-layouts-with-tailwind-css-flex-grid-and-beyond/
+https://webexpo.net/prague2025/sessions/i-need-to-slow-it-down-how-process-oriented-facilitation-can-improve-your-leadership-skills/
 
 ## Session Type
 
@@ -1344,27 +1695,27 @@ Conference Talk
 
 ## Talk Description
 
-Explore advanced layout techniques using Tailwind CSS, focusing on Flexbox, Grid, and other modern layout tools. In this talk, Shruti will demonstrate how to build complex, responsive designs efficiently with Tailwind’s utility-first classes. Learn practical tips for painlessly creating everyday layouts with ease — all while making them responsive.
+Get ready to take a dive with Tereza into the facilitation and communication skills designers, leaders, and facilitators use every day. Whether you’re in the middle of a design sprint, running a workshop, leading a 1:1, or navigating an agile ceremony, process-oriented facilitation can help you be more supportive and effective — even when the road gets rough. Tereza will look at how these skills help you navigate uncertainty, conflict, and change (Think: Covid, layoffs, team burnout, and more.).
 
 
 
-
+With practical examples and straightforward techniques, Tereza will show you how to bring a bit of "slow leadership" into every interaction — not by pushing for quick wins but by creating a space where your team can genuinely thrive. This talk is for those in design, UX, product management, or anyone who wants to make a real impact. Not by "failing fast" or “breaking things,” but by building spaces where teams feel valued and work is made to last.
 
 ## Tags
 
-Design Systems, Design Thinking &amp; UX, Frontend Dev
+Business &amp; Growth, Design Thinking &amp; UX, Service Design &amp; CX, Sustainability &amp; Ethics
 
 ## Session Focused on
 
-Web Development: 100%, Design & UX: 80%, Marketing: 0%, Business: 0%
+Web Development: 0%, Design & UX: 100%, Marketing: 0%, Business: 100%
 
 ## Session Presenter
 
-Shruti Balasa
+Tereza Kosnarová
 
 ## Session Presenter Bio
 
-Shruti Balasa is a full stack web developer and a tech educator from India. She likes to make web development simple for beginners through her courses, Youtube tutorials, and ebooks. She’s currently co-building VoxPop — the simplest website builder ever. Shruti chooses to work only four to five hours a day so she can cook healthy meals and spend quality time with her family.
+Tereza Kosnarová is a service designer, facilitator, and certified accessibility specialist who approaches projects with a thoughtful, slow leadership style. Grounded in research and a deep understanding of user needs, she brings patience, empathy, and inclusivity to everything she does. Tereza’s workshops are built around active participation and open dialogue, making space for every voice and valuing quality over speed. Clients appreciate her strategic mindset and hands-on methods, as she creates spaces where teams feel supported, engaged, and empowered to make a real impact.
 
 ## Session Details
 
@@ -1387,11 +1738,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-12 core design skills
+The future is built, not bought: Rewiring organisations for continuous innovation
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/12-core-design-skills/
+https://webexpo.net/prague2025/sessions/the-future-is-built-not-bought-rewiring-organisations-for-continuous-innovation/
 
 ## Session Type
 
@@ -1399,7 +1750,11 @@ Conference Talk
 
 ## Talk Description
 
-A lot of people call themselves designer generalists. Let's talk about what it really means. Design is not drawing pretty pictures. Design is solving complex problems.
+Many companies are consumed by carefully crafted roadmaps, diligently solving known important problems. Yet, this approach may leave us vulnerable to the rapid shifts happening around us and failing to adapt can pose an existential threat.
+
+
+
+In this session, we’ll explore the critical question: Are you an innovator? How can you recognise the traits of innovation within your organisation? Drawing on research into successful innovators, we’ll uncover the patterns and mindsets that drive lasting change. Whether your organisation has lost its innovative edge or is striving to build it from scratch, we’ll discuss how to rewire a company for continuous innovation. Start building the future, rather than just responding to the present.
 
 
 
@@ -1407,19 +1762,70 @@ A lot of people call themselves designer generalists. Let's talk about what it r
 
 ## Tags
 
-Design Thinking &amp; UX, Future of Work, Research, Service Design &amp; CX
+Automation, Business &amp; Growth, Future of Work, Research
 
 ## Session Focused on
 
-Web Development: 0%, Design & UX: 100%, Marketing: 60%, Business: 60%
+Web Development: 40%, Design & UX: 0%, Marketing: 0%, Business: 100%
 
 ## Session Presenter
 
-Jan Řezáč
+Martin Cízler
 
 ## Session Presenter Bio
 
-Jan wrote the first Czech bestseller about design process, has over 20 years of design experience, and leads the design consulting company House of Řezáč.
+Martin is a seasoned tech executive with over 20 years of experience building, growing and transforming engineering teams in the SaaS space. Currently at Make, Martin drives the mission of empowering the non-developers of the world to innovate by building software and automating work through the transformative power of visual no-code and AI. Before moving to the startup scene about 5 years ago, he played a pivotal role in the establishment and growth of the Microsoft Development Center in Prague. He is passionate about inspiring creativity in people so that they can experience the joy of continuous innovation.
+
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Creativity and coding: From invented problems to dependable solutions
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/creativity-and-coding-from-invented-problems-to-dependable-solutions/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+To build, or not to build? When do you decide to make something if a partial solution exists? Let’s explore small tasks to big projects with live coding, practical and frankly impractical examples. From Python to Puppeteer, printable PDFs to responsive web animations, and home-grown video production tools using AI and web tech, Steven will lift the lid on the methods behind much of what you see at WebExpo. This talk is designed for creative minds, welcoming to both developers and non-developers alike. Join Steven in embracing a bit of creativity, chaos, and inspired problem-solving.
+
+## Tags
+
+Backend Dev, Content, Frontend Dev, Future of Work, Marketing
+
+## Session Focused on
+
+Web Development: 80%, Design & UX: 80%, Marketing: 40%, Business: 20%
+
+## Session Presenter
+
+Steven Wright
+
+## Session Presenter Bio
+
+Steven is a freelance web developer and photographer who’s been geeking out with tech since the mid-90s. As a curious generalist, he thrives on tackling projects of all shapes and sizes — from small business to startups and enterprise. Freelancing since 2016, he loves nothing more than diving headfirst into unexpected challenges, blending creativity with a knack for solving problems.
 
 ## Session Details
 
@@ -1483,57 +1889,6 @@ Ariel Shulman
 ## Session Presenter Bio
 
 Ariel is a full stack developer at Illumex and a public speaker with a big passion for deep dives and understanding how things work. With over eight years of development experience, her stack includes TypeScript, React, Nextjs, Nestjs, Neo4j, PostgreSQL, and FastAPI.
-
-## Session Details
-
-### Date
-
-
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Not specified
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Creativity and coding: From invented problems to dependable solutions
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/creativity-and-coding-from-invented-problems-to-dependable-solutions/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-To build, or not to build? When do you decide to make something if a partial solution exists? Let’s explore small tasks to big projects with live coding, practical and frankly impractical examples. From Python to Puppeteer, printable PDFs to responsive web animations, and home-grown video production tools using AI and web tech, Steven will lift the lid on the methods behind much of what you see at WebExpo. This talk is designed for creative minds, welcoming to both developers and non-developers alike. Join Steven in embracing a bit of creativity, chaos, and inspired problem-solving.
-
-## Tags
-
-Backend Dev, Content, Frontend Dev, Future of Work, Marketing
-
-## Session Focused on
-
-Web Development: 80%, Design & UX: 80%, Marketing: 40%, Business: 20%
-
-## Session Presenter
-
-Steven Wright
-
-## Session Presenter Bio
-
-Steven is a freelance web developer and photographer who’s been geeking out with tech since the mid-90s. As a curious generalist, he thrives on tackling projects of all shapes and sizes — from small business to startups and enterprise. Freelancing since 2016, he loves nothing more than diving headfirst into unexpected challenges, blending creativity with a knack for solving problems.
 
 ## Session Details
 
@@ -1672,11 +2027,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-&#8220;I need to slow it down!&#8221;: How process-oriented facilitation can improve your leadership skills
+What is the ‘Jobs to Be Done’ framework and why should you care?
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/i-need-to-slow-it-down-how-process-oriented-facilitation-can-improve-your-leadership-skills/
+https://webexpo.net/prague2025/sessions/what-is-jobs-to-be-done-and-why-should-you-care-a-framework-to-build-empathy-and-drive-alignment/
 
 ## Session Type
 
@@ -1684,27 +2039,27 @@ Conference Talk
 
 ## Talk Description
 
-Get ready to take a dive with Tereza into the facilitation and communication skills designers, leaders, and facilitators use every day. Whether you’re in the middle of a design sprint, running a workshop, leading a 1:1, or navigating an agile ceremony, process-oriented facilitation can help you be more supportive and effective — even when the road gets rough. Tereza will look at how these skills help you navigate uncertainty, conflict, and change (Think: Covid, layoffs, team burnout, and more.).
+In this talk, Martina will share her personal journey from being a sceptic to becoming an advocate of the Jobs to Be Done (JTBD) framework. By breaking down the key concepts of JTBD and its value for team collaboration, she’ll show how this approach helps create a shared understanding of real user needs. With practical examples, including mapping an air travel experience, this session is ideal for designers and business leaders looking to foster empathy and drive alignment across their teams.
 
 
 
-With practical examples and straightforward techniques, Tereza will show you how to bring a bit of "slow leadership" into every interaction — not by pushing for quick wins but by creating a space where your team can genuinely thrive. This talk is for those in design, UX, product management, or anyone who wants to make a real impact. Not by "failing fast" or “breaking things,” but by building spaces where teams feel valued and work is made to last.
+
 
 ## Tags
 
-Business &amp; Growth, Design Thinking &amp; UX, Service Design &amp; CX, Sustainability &amp; Ethics
+Design Thinking &amp; UX, Research, Service Design &amp; CX
 
 ## Session Focused on
 
-Web Development: 0%, Design & UX: 100%, Marketing: 0%, Business: 100%
+Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 80%
 
 ## Session Presenter
 
-Tereza Kosnarová
+Martina Klimešová
 
 ## Session Presenter Bio
 
-Tereza Kosnarová is a service designer, facilitator, and certified accessibility specialist who approaches projects with a thoughtful, slow leadership style. Grounded in research and a deep understanding of user needs, she brings patience, empathy, and inclusivity to everything she does. Tereza’s workshops are built around active participation and open dialogue, making space for every voice and valuing quality over speed. Clients appreciate her strategic mindset and hands-on methods, as she creates spaces where teams feel supported, engaged, and empowered to make a real impact.
+Martina is a CX Manager at ČSOB with a passion for creating seamless customer experiences. She began her career at Kiwi.com and has since specialised in UX research and the Jobs to Be Done (JTBD) framework, driving user-focused innovations in banking and travel. Martina loves baking, drawing, and bookbinding. An explorer at heart, she’s happiest when discovering new places or refining her CX strategies. If you’re up for brainstorming JTBD or swapping recipes, feel free to connect!
 
 ## Session Details
 
@@ -1798,11 +2153,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Building privacy-centric identity solutions for the web
+Retention magic: Creative ways to keep your users coming back
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/building-identity-solutions-with-privacy-sandbox-apis/
+https://webexpo.net/prague2025/sessions/retention-magic-creative-ways-to-keep-your-users-coming-back/
 
 ## Session Type
 
@@ -1810,7 +2165,7 @@ Conference Talk
 
 ## Talk Description
 
-The digital landscape is changing, driven by growing privacy concerns. Join Natalia for a deep dive into user identity solutions based on privacy-preserving APIs, including FedCM, the Storage Access API, Related Website Sets, and more. In this talk, you’ll explore the role of third-party cookies in identity solutions, the privacy risks they pose, and new strategies for building privacy-centric identity solutions.
+Retention isn’t one-size-fits-all! In this talk, we’ll explore how identifying your target audience can make or break your retention efforts. Learn why the “best” tool might not be the best for you, why experimentation is key, and how data-driven insights can help you turn small user segments into big wins. Backed by real-world examples and surprising findings, this session will help marketers, product managers, and more to rethink how they keep users engaged.
 
 
 
@@ -1818,19 +2173,19 @@ The digital landscape is changing, driven by growing privacy concerns. Join Nata
 
 ## Tags
 
-Backend Dev, Frontend Dev, Sustainability &amp; Ethics
+Content, Data, Marketing, Performance
 
 ## Session Focused on
 
-Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 40%
+Web Development: 20%, Design & UX: 60%, Marketing: 100%, Business: 80%
 
 ## Session Presenter
 
-Natalia Markoborodova
+Adéla Keršlágerová
 
 ## Session Presenter Bio
 
-Natalia is a Developer Relations Engineer for Google’s Privacy Sandbox. She specialises in third-party cookies, managing user identity, and implementing anti-fraud solutions on the web.
+Adéla is a marketing leader at uLékaře.cz. She is passionate about exploring new formats and crafting engaging content for websites, social media, and digital channels. Starting as a Content Specialist, she has progressed to Head of Marketing, creating content strategies, traffic-boosting campaigns, editorial calendars, and leading a collaborative team.
 
 ## Session Details
 
@@ -1840,7 +2195,7 @@ Natalia is a Developer Relations Engineer for Google’s Privacy Sandbox. She sp
 
 ### Duration
 
-40 Minutes
+20 Minutes
 
 ### Specific Location
 
@@ -1912,11 +2267,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-The future is built, not bought: Rewiring organisations for continuous innovation
+Interface design for generative AI in 2025
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/the-future-is-built-not-bought-rewiring-organisations-for-continuous-innovation/
+https://webexpo.net/prague2025/sessions/interface-design-for-generative-ai-in-2025/
 
 ## Session Type
 
@@ -1924,11 +2279,7 @@ Conference Talk
 
 ## Talk Description
 
-Many companies are consumed by carefully crafted roadmaps, diligently solving known important problems. Yet, this approach may leave us vulnerable to the rapid shifts happening around us and failing to adapt can pose an existential threat.
-
-
-
-In this session, we’ll explore the critical question: Are you an innovator? How can you recognise the traits of innovation within your organisation? Drawing on research into successful innovators, we’ll uncover the patterns and mindsets that drive lasting change. Whether your organisation has lost its innovative edge or is striving to build it from scratch, we’ll discuss how to rewire a company for continuous innovation. Start building the future, rather than just responding to the present.
+In 2024, Lukáš designed interfaces for various projects that harness generative AI, making advanced technology accessible to non-engineers. At Alpha Industries, he crafted interfaces for AI avatars of famous personalities, and at Artmaster, he designed Artie — an AI that teaches music. In this talk, Lukáš will dive into using ComfyUI for autonomous workflows and discuss the designer's evolving role in the AI era, with insights on rapid prototyping and staying relevant in 2025.
 
 
 
@@ -1936,19 +2287,19 @@ In this session, we’ll explore the critical question: Are you an innovator? Ho
 
 ## Tags
 
-Automation, Business &amp; Growth, Future of Work, Research
+AI &amp; ML &amp; Bots, Content, Design Systems, Design Thinking &amp; UX, Research
 
 ## Session Focused on
 
-Web Development: 40%, Design & UX: 0%, Marketing: 0%, Business: 100%
+Web Development: 60%, Design & UX: 100%, Marketing: 40%, Business: 80%
 
 ## Session Presenter
 
-Martin Cízler
+Lukáš Pitter
 
 ## Session Presenter Bio
 
-Martin is a seasoned tech executive with over 20 years of experience building, growing and transforming engineering teams in the SaaS space. Currently at Make, Martin drives the mission of empowering the non-developers of the world to innovate by building software and automating work through the transformative power of visual no-code and AI. Before moving to the startup scene about 5 years ago, he played a pivotal role in the establishment and growth of the Microsoft Development Center in Prague. He is passionate about inspiring creativity in people so that they can experience the joy of continuous innovation.
+With over 25 years of experience in the design industry, Lukáš Pitter is the founder of 2FRESH, one of the top digital design agencies in the Czech Republic. He has a strong track record of delivering strategic design services to leading global brands, including Komerční banka, PepsiCo, HBO, O2, and MARS. In addition to his extensive industry experience, he has developed several design methodologies aimed at enhancing creativity and collaboration within teams. Currently, he’s a full-time designer at a stealth-mode Silicon Valley startup, focusing on mobile interfaces that democratise artistic creation with generative AI.
 
 ## Session Details
 
@@ -1971,11 +2322,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-What is the ‘Jobs to Be Done’ framework and why should you care?
+Building privacy-centric identity solutions for the web
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/what-is-jobs-to-be-done-and-why-should-you-care-a-framework-to-build-empathy-and-drive-alignment/
+https://webexpo.net/prague2025/sessions/building-identity-solutions-with-privacy-sandbox-apis/
 
 ## Session Type
 
@@ -1983,7 +2334,7 @@ Conference Talk
 
 ## Talk Description
 
-In this talk, Martina will share her personal journey from being a sceptic to becoming an advocate of the Jobs to Be Done (JTBD) framework. By breaking down the key concepts of JTBD and its value for team collaboration, she’ll show how this approach helps create a shared understanding of real user needs. With practical examples, including mapping an air travel experience, this session is ideal for designers and business leaders looking to foster empathy and drive alignment across their teams.
+The digital landscape is changing, driven by growing privacy concerns. Join Natalia for a deep dive into user identity solutions based on privacy-preserving APIs, including FedCM, the Storage Access API, Related Website Sets, and more. In this talk, you’ll explore the role of third-party cookies in identity solutions, the privacy risks they pose, and new strategies for building privacy-centric identity solutions.
 
 
 
@@ -1991,19 +2342,129 @@ In this talk, Martina will share her personal journey from being a sceptic to be
 
 ## Tags
 
-Design Thinking &amp; UX, Research, Service Design &amp; CX
+Backend Dev, Frontend Dev, Sustainability &amp; Ethics
 
 ## Session Focused on
 
-Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 80%
+Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 40%
 
 ## Session Presenter
 
-Martina Klimešová
+Natalia Markoborodova
 
 ## Session Presenter Bio
 
-Martina is a CX Manager at ČSOB with a passion for creating seamless customer experiences. She began her career at Kiwi.com and has since specialised in UX research and the Jobs to Be Done (JTBD) framework, driving user-focused innovations in banking and travel. Martina loves baking, drawing, and bookbinding. An explorer at heart, she’s happiest when discovering new places or refining her CX strategies. If you’re up for brainstorming JTBD or swapping recipes, feel free to connect!
+Natalia is a Developer Relations Engineer for Google’s Privacy Sandbox. She specialises in third-party cookies, managing user identity, and implementing anti-fraud solutions on the web.
+
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+6 practical lessons for starting a startup from a designer-turned-founder
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/6-practical-lessons-for-starting-a-startup-from-a-designer-turned-founder/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Thinking of starting your own startup? If Albert could do it, you can too. In this talk, he’ll share six real-world lessons to help you start building your own thing without losing your mind. You’ll go deep into the highs and lows of fundraising, marketing, design, product, hiring, and community building — all learned in the trenches, with no corporate spin. Come for the straight talk, leave 100% inspired and motivated.
+
+
+
+
+
+## Tags
+
+Business &amp; Growth, Design Thinking &amp; UX, Marketing
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 80%, Marketing: 100%, Business: 100%
+
+## Session Presenter
+
+Albert Zikmund
+
+## Session Presenter Bio
+
+Albert is a product designer turned startup founder. He’s worked hands-on and in leadership roles at agencies and tech companies worldwide. Now, as a founder, he’s out to show everyone “how it should be done”. When not speaking at conferences and building his startup, Albert enjoys cooking for his family, bouldering, and listening to the Christmas jazz playlist on Spotify (no matter the season).
+
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Building amazing front-end projects with Gemma: A state-of-the-art open model
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/building-amazing-front-end-projects-with-gemma-a-state-of-the-art-open-model/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+In this talk, you'll learn about Gemma, Google’s new family of open-source AI models. Join Teresa and discover how to use these lightweight models in your front-end projects. You'll explore their capabilities, benefits, and how they compare to Gemini — Google’s larger multimodal AI model. This talk is perfect for front-end developers who want to use AI to create innovative user experiences.
+
+
+
+
+
+## Tags
+
+AI &amp; ML &amp; Bots, Backend Dev, Business &amp; Growth, Frontend Dev, Future of Work
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 40%, Marketing: 80%, Business: 80%
+
+## Session Presenter
+
+Teresa Wu
+
+## Session Presenter Bio
+
+Teresa is a public speaker, Google Developer Expert (GDE), mentor, and software engineer who is passionate about front-end development and cloud technology. She has been working with many talented developers to craft various apps and projects for many years, exploring the world of multi-platform, the fun of continuous delivery, and how to successfully take products from development to release.
 
 ## Session Details
 
@@ -2114,61 +2575,6 @@ Zoltan Kollin
 ## Session Presenter Bio
 
 Zoltan is a design principal and design manager for IBM Cloud, located in Budapest, with over 15 years of experience in designing digital products and leading design teams. Coming from a UX designer background, his passion is talking and writing about the intersection of design and psychology.
-
-## Session Details
-
-### Date
-
-
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Not specified
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Building amazing front-end projects with Gemma: A state-of-the-art open model
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/building-amazing-front-end-projects-with-gemma-a-state-of-the-art-open-model/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-In this talk, you'll learn about Gemma, Google’s new family of open-source AI models. Join Teresa and discover how to use these lightweight models in your front-end projects. You'll explore their capabilities, benefits, and how they compare to Gemini — Google’s larger multimodal AI model. This talk is perfect for front-end developers who want to use AI to create innovative user experiences.
-
-
-
-
-
-## Tags
-
-AI &amp; ML &amp; Bots, Backend Dev, Business &amp; Growth, Frontend Dev, Future of Work
-
-## Session Focused on
-
-Web Development: 100%, Design & UX: 40%, Marketing: 80%, Business: 80%
-
-## Session Presenter
-
-Teresa Wu
-
-## Session Presenter Bio
-
-Teresa is a public speaker, Google Developer Expert (GDE), mentor, and software engineer who is passionate about front-end development and cloud technology. She has been working with many talented developers to craft various apps and projects for many years, exploring the world of multi-platform, the fun of continuous delivery, and how to successfully take products from development to release.
 
 ## Session Details
 
@@ -2305,6 +2711,61 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
+High-stakes flows: Designing for security and crypto’s unique challenges
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/high-stakes-flows-designing-for-security-and-cryptos-unique-challenges/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Markéta will guide you through designing flows where usability goes beyond making things “easier”—it becomes a critical element of security. Using examples from the crypto world, you’ll learn how to navigate complex flows and make new concepts accessible to newcomers. Join Markéta to explore how to tackle these challenges with a content-first design, map educational goals, and use user drop-off strategically to focus on those ready for the next step.
+
+
+
+
+
+## Tags
+
+Content, Design Thinking &amp; UX, Research
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 20%
+
+## Session Presenter
+
+Markéta Kaizlerová
+
+## Session Presenter Bio
+
+Markéta is a UX researcher with 8 years of experience uncovering insights to shape user-centered designs. At Trezor, she navigates the complexities of the crypto industry while bridging software, hardware, and firmware research in a single role. Passionate about demystifying crypto and making advanced security concepts accessible, she thrives on experimenting with new approaches and learning from each unique challenge.
+
+## Session Details
+
+### Date
+
+
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Not specified
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
 A deep dive into Kubernetes
 
 ## Session URL
@@ -2348,61 +2809,6 @@ Andrew is a Microsoft Data Platform MVP, Docker Captain, and a VMware vExpert. H
 ### Duration
 
 40 Minutes
-
-### Specific Location
-
-Not specified
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-6 practical lessons for starting a startup from a designer-turned-founder
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/6-practical-lessons-for-starting-a-startup-from-a-designer-turned-founder/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-Thinking of starting your own startup? If Albert could do it, you can too. In this talk, he’ll share six real-world lessons to help you start building your own thing without losing your mind. You’ll go deep into the highs and lows of fundraising, marketing, design, product, hiring, and community building — all learned in the trenches, with no corporate spin. Come for the straight talk, leave 100% inspired and motivated.
-
-
-
-
-
-## Tags
-
-Business &amp; Growth, Design Thinking &amp; UX, Marketing
-
-## Session Focused on
-
-Web Development: 0%, Design & UX: 80%, Marketing: 100%, Business: 100%
-
-## Session Presenter
-
-Albert Zikmund
-
-## Session Presenter Bio
-
-Albert is a product designer turned startup founder. He’s worked hands-on and in leadership roles at agencies and tech companies worldwide. Now, as a founder, he’s out to show everyone “how it should be done”. When not speaking at conferences and building his startup, Albert enjoys cooking for his family, bouldering, and listening to the Christmas jazz playlist on Spotify (no matter the season).
-
-## Session Details
-
-### Date
-
-
-
-### Duration
-
-20 Minutes
 
 ### Specific Location
 
@@ -2517,61 +2923,6 @@ Born blind and relying on screen readers 24/7, Lukáš combines his lived experi
 ### Duration
 
 25 Minutes
-
-### Specific Location
-
-Not specified
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Interface design for generative AI in 2025
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/interface-design-for-generative-ai-in-2025/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-In 2024, Lukáš designed interfaces for various projects that harness generative AI, making advanced technology accessible to non-engineers. At Alpha Industries, he crafted interfaces for AI avatars of famous personalities, and at Artmaster, he designed Artie — an AI that teaches music. In this talk, Lukáš will dive into using ComfyUI for autonomous workflows and discuss the designer's evolving role in the AI era, with insights on rapid prototyping and staying relevant in 2025.
-
-
-
-
-
-## Tags
-
-AI &amp; ML &amp; Bots, Content, Design Systems, Design Thinking &amp; UX, Research
-
-## Session Focused on
-
-Web Development: 60%, Design & UX: 100%, Marketing: 40%, Business: 80%
-
-## Session Presenter
-
-Lukáš Pitter
-
-## Session Presenter Bio
-
-With over 25 years of experience in the design industry, Lukáš Pitter is the founder of 2FRESH, one of the top digital design agencies in the Czech Republic. He has a strong track record of delivering strategic design services to leading global brands, including Komerční banka, PepsiCo, HBO, O2, and MARS. In addition to his extensive industry experience, he has developed several design methodologies aimed at enhancing creativity and collaboration within teams. Currently, he’s a full-time designer at a stealth-mode Silicon Valley startup, focusing on mobile interfaces that democratise artistic creation with generative AI.
-
-## Session Details
-
-### Date
-
-
-
-### Duration
-
-20 Minutes
 
 ### Specific Location
 
@@ -3079,7 +3430,7 @@ How to register for this workshop?
 
 
 
-This workshop is included in the conference ticket. The registration is on first come, first served basis (maximum capacity of 12 people).
+This workshop is included in the conference ticket. The registration is on first come, first served basis (maximum capacity of 50 people).
 
 ## Tags
 
