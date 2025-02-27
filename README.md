@@ -18,6 +18,7 @@ Run the data scrape in markdown format as below:
 
 ```bash
 python3.13 -m venv myenv
+source myenv/bin/activate
 python3 collate_content.py
 ```
 

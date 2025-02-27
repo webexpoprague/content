@@ -36,7 +36,7 @@ Mark Pollard
 
 ## Session Presenter Bio
 
-Mark Pollard is a strategist, author, and podcast host who founded the Southern Hemisphere’s first full-color hip hop magazine, Stealth, at age 20. He hosts the Sweathead podcast (1.6M listens) and has consulted for top brands like Meta, Twitter, and The Economist. His book, Strategy Is Your Words, raised $37k on Kickstarter and sold 8,000 copies. With 25+ countries taught, his work reaches hundreds of thousands of people every month.
+Mark is a strategist, author, and podcast host who founded Stealth — the Southern Hemisphere’s first full-colour hip-hop magazine — at age 20. He hosts the Sweathead podcast (1.6M listens) and has consulted for top brands like Meta, Twitter, and The Economist. His book, Strategy Is Your Words, raised $37K on Kickstarter and sold 8,000 copies. With trainings taught in over 25 countries already (and counting), his work reaches hundreds of thousands of people every month.
 
 ## Session Details
 
@@ -73,6 +73,10 @@ Conference Talk
 
 Mockups reflect an idealised version of the product: the perfect text size and faultless content, all taken during a perfect user journey. However, they often fall apart once confronted with real content, technical limitations, and the vast diversity of user needs. We call those scenarios “edge cases”. However, these aren't exceptions but an essential part of the user experience. This talk aims to redefine our approach to design by incorporating edge cases into the design process from the start. In doing so, we can build more robust, inclusive, and scalable products.
 
+
+
+
+
 ## Tags
 
 Design Systems, Design Thinking &amp; UX, Frontend Dev, Research, Service Design &amp; CX
@@ -93,7 +97,7 @@ Stéphanie is a UX researcher and strategist based in Luxembourg with over 13 ye
 
 ### Date
 
-
+May 28, 2025 2:00 pm
 
 ### Duration
 
@@ -101,7 +105,7 @@ Stéphanie is a UX researcher and strategist based in Luxembourg with over 13 ye
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -144,7 +148,7 @@ Tejas Kumar is an international keynote speaker, best-selling author, and the ho
 
 ### Date
 
-
+May 29, 2025 5:00 pm
 
 ### Duration
 
@@ -152,7 +156,7 @@ Tejas Kumar is an international keynote speaker, best-selling author, and the ho
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -199,7 +203,7 @@ Nadieh Bremer is a data visualisation designer with a background in astronomy an
 
 ### Date
 
-
+May 28, 2025 11:00 am
 
 ### Duration
 
@@ -207,7 +211,7 @@ Nadieh Bremer is a data visualisation designer with a background in astronomy an
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -352,7 +356,7 @@ May 30, 2025 9:30 am
 
 ### Specific Location
 
-Not specified
+MSD, FIVE Office Building
 
 ### General Localtion
 
@@ -361,7 +365,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Design patterns for search UX in 2025 
+Design patterns for search UX in 2025
 
 ## Session URL
 
@@ -399,7 +403,7 @@ Born in Minsk, Belarus, Vitaly studied computer science and mathematics in Germa
 
 ### Date
 
-
+May 29, 2025 10:00 am
 
 ### Duration
 
@@ -505,7 +509,7 @@ Creative professionals (designers, art directors, creative leads) – Those who 
 
 
 
-Entrepreneurs and small business owners – People building brands who need to develop and articulate strategic insights clearly.d senior designers, product leads, UX leads.
+Entrepreneurs and small business owners – People building brands who need to develop and articulate strategic insights clearly.
 
 
 
@@ -526,7 +530,7 @@ Mark Pollard
 
 ## Session Presenter Bio
 
-Mark Pollard is a strategist, author, and podcast host who founded the Southern Hemisphere’s first full-color hip hop magazine, Stealth, at age 20. He hosts the Sweathead podcast (1.6M listens) and has consulted for top brands like Meta, Twitter, and The Economist. His book, Strategy Is Your Words, raised $37k on Kickstarter and sold 8,000 copies. With 25+ countries taught, his work reaches hundreds of thousands of people every month.
+Mark is a strategist, author, and podcast host who founded Stealth — the Southern Hemisphere’s first full-colour hip-hop magazine — at age 20. He hosts the Sweathead podcast (1.6M listens) and has consulted for top brands like Meta, Twitter, and The Economist. His book, Strategy Is Your Words, raised $37K on Kickstarter and sold 8,000 copies. With trainings taught in over 25 countries already (and counting), his work reaches hundreds of thousands of people every month.
 
 ## Session Details
 
@@ -540,7 +544,7 @@ May 30, 2025 9:00 am
 
 ### Specific Location
 
-Not specified
+MSD, Riverview Building (Room 2)
 
 ### General Localtion
 
@@ -549,7 +553,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-TBA: Founder Story
+Scaling a bootstrapped cockroach startup &#8211; New growth way for founders with the help of AI
 
 ## Session URL
 
@@ -561,9 +565,15 @@ Conference Talk
 
 ## Talk Description
 
+In this talk, Jan will share his journey of launching and scaling companies like Socialbakers and Ravineo organically. He explores the mindset, execution strategies, and relentless work ethic required to grow a business from zero to millions in revenue. Jan will also highlight how AI can revolutionise startup growth, showcasing practical examples of leveraging AI tools to accelerate scaling efforts. Offering actionable advice, Jan will inspire aspiring founders to overcome fear, embrace challenges, and thrive without traditional funding.
+
+
+
+
+
 ## Tags
 
-Business &amp; Growth, Data, Future of Work, Marketing
+AI &amp; ML &amp; Bots, Business &amp; Growth, Future of Work, Marketing
 
 ## Session Focused on
 
@@ -581,7 +591,7 @@ Jan is a serial entrepreneur with 19 years of experience, known for founding Soc
 
 ### Date
 
-
+May 28, 2025 10:00 am
 
 ### Duration
 
@@ -644,7 +654,7 @@ Daniel has been on a relentless quest to build software so secure that even he m
 
 ### Date
 
-
+May 28, 2025 5:00 pm
 
 ### Duration
 
@@ -652,7 +662,7 @@ Daniel has been on a relentless quest to build software so secure that even he m
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -695,7 +705,7 @@ Nikki,  also known as "The User Research Resource Queen," is a blogger, podcaste
 
 ### Date
 
-
+May 29, 2025 2:00 pm
 
 ### Duration
 
@@ -703,7 +713,7 @@ Nikki,  also known as "The User Research Resource Queen," is a blogger, podcaste
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -754,7 +764,7 @@ Mariko is a  Chrome Developer Relations engineer. She spends time tracking and d
 
 ### Date
 
-
+May 29, 2025 2:00 pm
 
 ### Duration
 
@@ -762,7 +772,7 @@ Mariko is a  Chrome Developer Relations engineer. She spends time tracking and d
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -857,7 +867,7 @@ Joe is a UX consultant, author, and speaker. Everything he does is born from nea
 
 ### Date
 
-
+May 28, 2025 1:00 pm
 
 ### Duration
 
@@ -865,7 +875,7 @@ Joe is a UX consultant, author, and speaker. Everything he does is born from nea
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -916,7 +926,7 @@ Tammy has spent more than twenty years studying how people use the web. She’s 
 
 ### Date
 
-
+May 29, 2025 3:00 pm
 
 ### Duration
 
@@ -924,7 +934,7 @@ Tammy has spent more than twenty years studying how people use the web. She’s 
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -933,7 +943,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Talk focus on web performance
+One step ahead
 
 ## Session URL
 
@@ -945,15 +955,23 @@ Conference Talk
 
 ## Talk Description
 
-More details will be announced soon.
+As the web grows more powerful, so do user expectations. What feels fast today will be slow tomorrow, and meeting current performance standards will soon be the bare minimum. The real winners will be the apps that push beyond "fast enough" and strive for near-instantaneous performance.
+
+
+
+Fortunately, a wave of new web standards is emerging, allowing us to inch closer and closer to making instantaneous performance a reality. In this talk, Tim will explore some of the exciting new tools available right now, and how you can start using them to stay one step ahead of your users and provide performance that feels instantaneous.
+
+
+
+
 
 ## Tags
 
-Backend Dev, Frontend Dev, Performance
+Frontend Dev, Performance
 
 ## Session Focused on
 
-Web Development: 100%, Design & UX: 40%, Marketing: 0%, Business: 40%
+Web Development: 80%, Design & UX: 60%, Marketing: 0%, Business: 40%
 
 ## Session Presenter
 
@@ -961,15 +979,13 @@ Tim Kadlec
 
 ## Session Presenter Bio
 
-Tim is a web performance consultant and trainer focused on building a web everyone can use.
-
-He is the author of High Performance Images (O'Reilly, 2016) and Implementing Responsive Design: Building sites for an anywhere, everywhere web (New Riders, 2012). He writes about all things web at timkadlec.com.
+Tim is a principal product manager at Cloudflare, focused on building and improving web performance and observability. He’s also the author of High Performance Images (O'Reilly, 2016) and Implementing Responsive Design: Building sites for an anywhere, everywhere web (New Riders, 2012). He writes about all things web at timkadlec.com.
 
 ## Session Details
 
 ### Date
 
-
+May 29, 2025 4:00 pm
 
 ### Duration
 
@@ -977,7 +993,7 @@ He is the author of High Performance Images (O'Reilly, 2016) and Implementing Re
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -1024,7 +1040,7 @@ Lutz lives with his family in Cologne, Germany. In the early 2000s, he graduated
 
 ### Date
 
-
+May 29, 2025 12:00 pm
 
 ### Duration
 
@@ -1032,7 +1048,7 @@ Lutz lives with his family in Cologne, Germany. In the early 2000s, he graduated
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -1083,15 +1099,15 @@ Carmen Huidobro is a developer advocate and DevEd enthusiast. She thrives on lif
 
 ### Date
 
-
+May 28, 2025 3:00 pm
 
 ### Duration
 
-35 Minutes
+40 Minutes
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -1138,7 +1154,7 @@ Krasimir Tsonev is a coder with over 20 years of experience in web development a
 
 ### Date
 
-
+May 28, 2025 4:00 pm
 
 ### Duration
 
@@ -1146,7 +1162,7 @@ Krasimir Tsonev is a coder with over 20 years of experience in web development a
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -1283,7 +1299,7 @@ May 30, 2025 9:30 am
 
 ### Specific Location
 
-Not specified
+NN IT HUB Prague
 
 ### General Localtion
 
@@ -1330,7 +1346,7 @@ Zsuzsa is a UX Researcher, who has worked in UX since 2008. She’s had many dif
 
 ### Date
 
-
+May 28, 2025 4:00 pm
 
 ### Duration
 
@@ -1338,7 +1354,7 @@ Zsuzsa is a UX Researcher, who has worked in UX since 2008. She’s had many dif
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -1385,7 +1401,7 @@ Bramus is a Chrome Developer Relations engineer at Google, focusing on CSS, Web 
 
 ### Date
 
-
+May 28, 2025 12:00 pm
 
 ### Duration
 
@@ -1393,7 +1409,7 @@ Bramus is a Chrome Developer Relations engineer at Google, focusing on CSS, Web 
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -1440,7 +1456,7 @@ Jan wrote the first Czech bestseller about design process, has over 20 years of 
 
 ### Date
 
-
+May 29, 2025 11:00 am
 
 ### Duration
 
@@ -1448,7 +1464,7 @@ Jan wrote the first Czech bestseller about design process, has over 20 years of 
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -1495,7 +1511,7 @@ Rowdy Rabouw is a Google Developer Expert in web technologies with over 25 years
 
 ### Date
 
-
+May 29, 2025 1:00 pm
 
 ### Duration
 
@@ -1503,7 +1519,7 @@ Rowdy Rabouw is a Google Developer Expert in web technologies with over 25 years
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -1550,7 +1566,7 @@ Lorie Whitaker is a Principal UX Researcher at Zalando with over 17 years of exp
 
 ### Date
 
-
+May 28, 2025 3:00 pm
 
 ### Duration
 
@@ -1558,7 +1574,7 @@ Lorie Whitaker is a Principal UX Researcher at Zalando with over 17 years of exp
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -1605,7 +1621,7 @@ Shruti Balasa is a full stack web developer and a tech educator from India. She 
 
 ### Date
 
-
+May 28, 2025 10:00 am
 
 ### Duration
 
@@ -1613,7 +1629,7 @@ Shruti Balasa is a full stack web developer and a tech educator from India. She 
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -1666,62 +1682,7 @@ He’s the author of “The Databases of Money: Designing Payment Applications�
 
 ### Date
 
-
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Not specified
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-&#8220;I need to slow it down!&#8221;: How process-oriented facilitation can improve your leadership skills
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/i-need-to-slow-it-down-how-process-oriented-facilitation-can-improve-your-leadership-skills/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-Get ready to take a dive with Tereza into the facilitation and communication skills designers, leaders, and facilitators use every day. Whether you’re in the middle of a design sprint, running a workshop, leading a 1:1, or navigating an agile ceremony, process-oriented facilitation can help you be more supportive and effective — even when the road gets rough. Tereza will look at how these skills help you navigate uncertainty, conflict, and change (Think: Covid, layoffs, team burnout, and more.).
-
-
-
-With practical examples and straightforward techniques, Tereza will show you how to bring a bit of "slow leadership" into every interaction — not by pushing for quick wins but by creating a space where your team can genuinely thrive. This talk is for those in design, UX, product management, or anyone who wants to make a real impact. Not by "failing fast" or “breaking things,” but by building spaces where teams feel valued and work is made to last.
-
-## Tags
-
-Business &amp; Growth, Design Thinking &amp; UX, Service Design &amp; CX, Sustainability &amp; Ethics
-
-## Session Focused on
-
-Web Development: 0%, Design & UX: 100%, Marketing: 0%, Business: 100%
-
-## Session Presenter
-
-Tereza Kosnarová
-
-## Session Presenter Bio
-
-Tereza Kosnarová is a service designer, facilitator, and certified accessibility specialist who approaches projects with a thoughtful, slow leadership style. Grounded in research and a deep understanding of user needs, she brings patience, empathy, and inclusivity to everything she does. Tereza’s workshops are built around active participation and open dialogue, making space for every voice and valuing quality over speed. Clients appreciate her strategic mindset and hands-on methods, as she creates spaces where teams feel supported, engaged, and empowered to make a real impact.
-
-## Session Details
-
-### Date
-
-
+May 28, 2025 5:00 pm
 
 ### Duration
 
@@ -1729,11 +1690,13 @@ Tereza Kosnarová is a service designer, facilitator, and certified accessibilit
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
 Lucerna Palace, Prague, Czech Republic
+
+
 
 
 # Session title
@@ -1750,15 +1713,11 @@ Conference Talk
 
 ## Talk Description
 
-Many companies are consumed by carefully crafted roadmaps, diligently solving known important problems. Yet, this approach may leave us vulnerable to the rapid shifts happening around us and failing to adapt can pose an existential threat.
+Many companies are consumed by carefully crafted roadmaps, diligently solving known, important problems. Yet this approach may leave us vulnerable to the rapid shifts happening around us, and failing to adapt can pose an existential threat.
 
 
 
-In this session, we’ll explore the critical question: Are you an innovator? How can you recognise the traits of innovation within your organisation? Drawing on research into successful innovators, we’ll uncover the patterns and mindsets that drive lasting change. Whether your organisation has lost its innovative edge or is striving to build it from scratch, we’ll discuss how to rewire a company for continuous innovation. Start building the future, rather than just responding to the present.
-
-
-
-
+In this session, you’ll explore the critical questions: Are you an innovator? How can you recognise the traits of innovation within your organisation? Drawing on research into successful innovators, Martin will uncover the patterns and mindsets that drive lasting change. Whether your organisation has lost its innovative edge or is striving to build it from scratch, you’ll learn how to rewire a company for continuous innovation and start building the future — rather than just responding to the present.
 
 ## Tags
 
@@ -1774,13 +1733,13 @@ Martin Cízler
 
 ## Session Presenter Bio
 
-Martin is a seasoned tech executive with over 20 years of experience building, growing and transforming engineering teams in the SaaS space. Currently at Make, Martin drives the mission of empowering the non-developers of the world to innovate by building software and automating work through the transformative power of visual no-code and AI. Before moving to the startup scene about 5 years ago, he played a pivotal role in the establishment and growth of the Microsoft Development Center in Prague. He is passionate about inspiring creativity in people so that they can experience the joy of continuous innovation.
+Martin is a seasoned tech executive with over 20 years of experience building, growing, and transforming engineering teams in the SaaS space. Currently, in his role at Make, Martin is driving the mission of empowering the non-developers of the world to innovate by building software and automating work through the transformative power of visual no-code and AI. Before moving to the startup scene about five years ago, he played a pivotal role in establishing and expanding the Microsoft Development Center in Prague. Martin is passionate about inspiring creativity in people so that they can experience the joy of continuous innovation.
 
 ## Session Details
 
 ### Date
 
-
+May 29, 2025 1:00 pm
 
 ### Duration
 
@@ -1788,7 +1747,7 @@ Martin is a seasoned tech executive with over 20 years of experience building, g
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -1831,7 +1790,7 @@ Steven is a freelance web developer and photographer who’s been geeking out wi
 
 ### Date
 
-
+May 29, 2025 3:00 pm
 
 ### Duration
 
@@ -1839,7 +1798,7 @@ Steven is a freelance web developer and photographer who’s been geeking out wi
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -1894,7 +1853,7 @@ Ariel is a full stack developer at Illumex and a public speaker with a big passi
 
 ### Date
 
-
+May 29, 2025 12:00 pm
 
 ### Duration
 
@@ -1902,7 +1861,7 @@ Ariel is a full stack developer at Illumex and a public speaker with a big passi
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -1955,7 +1914,7 @@ As one of the two Certified Professionals in Web Accessibility (CPWA) in the Cze
 
 ### Date
 
-
+May 28, 2025 11:00 am
 
 ### Duration
 
@@ -1963,7 +1922,7 @@ As one of the two Certified Professionals in Web Accessibility (CPWA) in the Cze
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -2010,7 +1969,7 @@ Ricardo has been working in tech for over 35 years, helping customers to be succ
 
 ### Date
 
-
+May 29, 2025 10:00 am
 
 ### Duration
 
@@ -2018,7 +1977,7 @@ Ricardo has been working in tech for over 35 years, helping customers to be succ
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2065,7 +2024,7 @@ Martina is a CX Manager at ČSOB with a passion for creating seamless customer e
 
 ### Date
 
-
+May 28, 2025 11:00 am
 
 ### Duration
 
@@ -2073,7 +2032,7 @@ Martina is a CX Manager at ČSOB with a passion for creating seamless customer e
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2136,7 +2095,7 @@ Darko Bozhinovski is a programmer with many years of experience, primarily in we
 
 ### Date
 
-
+May 28, 2025 1:00 pm
 
 ### Duration
 
@@ -2144,7 +2103,7 @@ Darko Bozhinovski is a programmer with many years of experience, primarily in we
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2165,7 +2124,7 @@ Conference Talk
 
 ## Talk Description
 
-Retention isn’t one-size-fits-all! In this talk, we’ll explore how identifying your target audience can make or break your retention efforts. Learn why the “best” tool might not be the best for you, why experimentation is key, and how data-driven insights can help you turn small user segments into big wins. Backed by real-world examples and surprising findings, this session will help marketers, product managers, and more to rethink how they keep users engaged.
+Retention isn’t one-size-fits-all! In this talk, Adéla will explore how identifying your target audience can make or break your retention efforts. Learn why the “best” tool might not be the best for you, why experimentation is key, and how data-driven insights can help you turn small user segments into big wins. Backed by real-world examples and surprising findings, this session will help marketers, product managers, and many more rethink how they keep their users engaged.
 
 
 
@@ -2185,13 +2144,13 @@ Adéla Keršlágerová
 
 ## Session Presenter Bio
 
-Adéla is a marketing leader at uLékaře.cz. She is passionate about exploring new formats and crafting engaging content for websites, social media, and digital channels. Starting as a Content Specialist, she has progressed to Head of Marketing, creating content strategies, traffic-boosting campaigns, editorial calendars, and leading a collaborative team.
+Adéla is a marketing leader at uLékaře.cz. She is passionate about exploring new formats and crafting engaging content for websites, social media, and digital channels. She started out as a content specialist and has progressed to the Head of Marketing. In this position, she develops content strategies and traffic-boosting campaigns, creates editorial calendars, and leads a collaborative team.
 
 ## Session Details
 
 ### Date
 
-
+May 28, 2025 3:00 pm
 
 ### Duration
 
@@ -2199,70 +2158,13 @@ Adéla is a marketing leader at uLékaře.cz. She is passionate about exploring 
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
 Lucerna Palace, Prague, Czech Republic
 
 
-# Session title
-
-Evolving user interfaces: Voice, gesture, and beyond
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/evolving-user-interfaces-voice-gesture-and-beyond/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-The way we interact with technology is rapidly evolving beyond touchscreens and keyboards. In this talk, George will explore cutting-edge developments in user interfaces, including voice recognition, gesture control, and emerging technologies like haptic feedback and brain-computer interfaces. He’ll discuss how advancements in AI, sensor technology, and natural language processing enable more intuitive and immersive interactions with devices and services while also showcasing innovative case studies across industries like healthcare, gaming, automotive, and smart homes.&nbsp;
-
-
-
-You’ll gain insights into the design principles behind these interfaces, the challenges of ensuring accessibility and inclusivity, and the potential impact on user behaviour and expectations. The session will also consider future trends and how businesses can prepare for and leverage new interface technologies to enhance user engagement and stay competitive in a rapidly evolving market.
-
-
-
-
-
-## Tags
-
-Backend Dev, Design Systems, Design Thinking &amp; UX, Frontend Dev, Future of Work
-
-## Session Focused on
-
-Web Development: 80%, Design & UX: 100%, Marketing: 40%, Business: 80%
-
-## Session Presenter
-
-George Peter Hantzaras
-
-## Session Presenter Bio
-
-George is a distributed systems expert and a hands-on engineering leader. He is the Director of Engineering at MongoDB, focusing on implementing cloud-native technologies at enterprise scale. He is also the Ambassador of the Data in the Kubernetes community and the author of “The Platform Engineering Playbook” by Packt. More recently, he has been sharing his expertise as a speaker at global events like Kubecon, OpenSource Summit, Hashiconf, LeadDev, SaaStr, and more.
-
-## Session Details
-
-### Date
-
-
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Not specified
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
 
 
 # Session title
@@ -2305,7 +2207,7 @@ With over 25 years of experience in the design industry, Lukáš Pitter is the f
 
 ### Date
 
-
+May 28, 2025 5:00 pm
 
 ### Duration
 
@@ -2313,7 +2215,7 @@ With over 25 years of experience in the design industry, Lukáš Pitter is the f
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2360,7 +2262,7 @@ Natalia is a Developer Relations Engineer for Google’s Privacy Sandbox. She sp
 
 ### Date
 
-
+May 29, 2025 11:00 am
 
 ### Duration
 
@@ -2368,7 +2270,7 @@ Natalia is a Developer Relations Engineer for Google’s Privacy Sandbox. She sp
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2415,7 +2317,7 @@ Albert is a product designer turned startup founder. He’s worked hands-on and 
 
 ### Date
 
-
+May 29, 2025 4:00 pm
 
 ### Duration
 
@@ -2423,7 +2325,7 @@ Albert is a product designer turned startup founder. He’s worked hands-on and 
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2470,7 +2372,7 @@ Teresa is a public speaker, Google Developer Expert (GDE), mentor, and software 
 
 ### Date
 
-
+May 28, 2025 2:00 pm
 
 ### Duration
 
@@ -2478,7 +2380,7 @@ Teresa is a public speaker, Google Developer Expert (GDE), mentor, and software 
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2525,7 +2427,7 @@ Maciek is a security community manager at Patchstack. He's a huge fan of open so
 
 ### Date
 
-
+May 29, 2025 2:25 pm
 
 ### Duration
 
@@ -2533,7 +2435,7 @@ Maciek is a security community manager at Patchstack. He's a huge fan of open so
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2580,7 +2482,7 @@ Zoltan is a design principal and design manager for IBM Cloud, located in Budape
 
 ### Date
 
-
+May 29, 2025 5:00 pm
 
 ### Duration
 
@@ -2588,7 +2490,7 @@ Zoltan is a design principal and design manager for IBM Cloud, located in Budape
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -2639,7 +2541,7 @@ Karel is a consultant for agile transformations, a professional Scrum Trainer, a
 
 ### Date
 
-
+May 28, 2025 1:00 pm
 
 ### Duration
 
@@ -2647,7 +2549,7 @@ Karel is a consultant for agile transformations, a professional Scrum Trainer, a
 
 ### Specific Location
 
-Not specified
+Lucerna Cinema
 
 ### General Localtion
 
@@ -2694,15 +2596,15 @@ Web Development: 100%, Design & UX: 100%, Marketing: 100%, Business: 100%
 
 ### Date
 
-
+May 28, 2025 8:40 am
 
 ### Duration
 
-10 Minutes
+20 Minutes
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
@@ -2723,7 +2625,7 @@ Conference Talk
 
 ## Talk Description
 
-Markéta will guide you through designing flows where usability goes beyond making things “easier”—it becomes a critical element of security. Using examples from the crypto world, you’ll learn how to navigate complex flows and make new concepts accessible to newcomers. Join Markéta to explore how to tackle these challenges with a content-first design, map educational goals, and use user drop-off strategically to focus on those ready for the next step.
+Markéta will guide you through designing flows where usability goes beyond making things “easier” — it becomes a critical element of security. Using examples from the crypto world, you’ll learn how to navigate complex flows and make new concepts accessible to newcomers. Join Markéta to explore how to tackle these challenges with a content-first design, map educational goals, and use user drop-off strategically to focus on those ready for the next step.
 
 
 
@@ -2743,13 +2645,13 @@ Markéta Kaizlerová
 
 ## Session Presenter Bio
 
-Markéta is a UX researcher with 8 years of experience uncovering insights to shape user-centered designs. At Trezor, she navigates the complexities of the crypto industry while bridging software, hardware, and firmware research in a single role. Passionate about demystifying crypto and making advanced security concepts accessible, she thrives on experimenting with new approaches and learning from each unique challenge.
+Markéta is a UX researcher with eight years of experience uncovering insights to shape user-centred designs. At Trezor, she navigates the complexities of the crypto industry while bringing together software, hardware, and firmware research in a single role. Passionate about demystifying crypto and making advanced security concepts accessible, Markéta thrives on experimenting with new approaches and learning from each unique challenge.
 
 ## Session Details
 
 ### Date
 
-
+May 29, 2025 1:00 pm
 
 ### Duration
 
@@ -2757,7 +2659,7 @@ Markéta is a UX researcher with 8 years of experience uncovering insights to sh
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2804,7 +2706,7 @@ Andrew is a Microsoft Data Platform MVP, Docker Captain, and a VMware vExpert. H
 
 ### Date
 
-
+May 29, 2025 12:00 pm
 
 ### Duration
 
@@ -2812,7 +2714,7 @@ Andrew is a Microsoft Data Platform MVP, Docker Captain, and a VMware vExpert. H
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2821,7 +2723,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Just-in-time content design: Why timing is the key to better collaboration and better UI content
+Just-in-time content design: Why timing is the key to better collaboration and UI content
 
 ## Session URL
 
@@ -2841,7 +2743,7 @@ When content design is brought in late, you run the risk of it becoming a quick 
 
 ## Tags
 
-Content, Design Thinking &amp; UX
+Content, Design Systems
 
 ## Session Focused on
 
@@ -2859,7 +2761,7 @@ Erin is a seasoned content design manager specialising in user-centred content f
 
 ### Date
 
-
+May 29, 2025 5:00 pm
 
 ### Duration
 
@@ -2867,7 +2769,7 @@ Erin is a seasoned content design manager specialising in user-centred content f
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2918,7 +2820,7 @@ Born blind and relying on screen readers 24/7, Lukáš combines his lived experi
 
 ### Date
 
-
+May 29, 2025 2:00 pm
 
 ### Duration
 
@@ -2926,7 +2828,7 @@ Born blind and relying on screen readers 24/7, Lukáš combines his lived experi
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -2973,7 +2875,7 @@ Elis Laasik is an experienced UX/UI designer and developer working in the fintec
 
 ### Date
 
-
+May 28, 2025 5:20 pm
 
 ### Duration
 
@@ -2981,7 +2883,7 @@ Elis Laasik is an experienced UX/UI designer and developer working in the fintec
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -3002,11 +2904,15 @@ Premium Workshop
 
 ## Talk Description
 
-Accessibility is often put on the plate of developers. But, a lot of accessibility issues can be caught and avoided in the mockups and design phase, by following best practices such as WCAG guidelines. If you’ve never heard of it, you are in the right place! 
+Accessibility is often put on the plate of developers. But, a lot of accessibility issues can be caught and avoided in the mockups and design phase, by following best practices such as WCAG guidelines. If you’ve never heard of it, you are in the right place!&nbsp;
 
 
 
 In this workshop, we’ll explore how to identify and address design issues early on, ensuring accessibility from the start. Things like: are we achieving the right contrast ratio, and are colours being used effectively? But colours are just the tip of the iceberg!&nbsp; What about typography, is this text easy to read? Forms are also a crucial aspect of accessibility: I’ll teach you how to make them more inclusive, from error prevention to recovery and beyond. We’ll focus (haha pun intended) on essential elements like keyboard navigation, gesture controls, and drag-and-drop functionality—key factors in designing and documenting complex components for users with diverse disabilities. We’ll check screen reader usage and how to build and document a strong information architecture using headings, titles, and identifying landmarks. We’ll cover alternatives to images, what designers can do about that, and multimedia, audio, video content, to charts and graphs.&nbsp;
+
+
+
+
 
 
 
@@ -3015,10 +2921,6 @@ The goal of this 1 day workshop is to equip you with the theory, but also the to
 
 
 This is a hands-on workshop, we will work in Figma, in small groups, with different plugins, tools, and checklists. At the end of the workshop, you will get access to my slides, but also to checklists, cheat sheets and design tools to apply to your own designs.
-
-
-
-
 
 
 
@@ -3110,7 +3012,7 @@ May 30, 2025 9:30 am
 
 ### Specific Location
 
-Not specified
+MSD, Riverview Building (Room 1)
 
 ### General Localtion
 
@@ -3157,7 +3059,7 @@ Daniel has over eight years of experience in startups, with most of his time spe
 
 ### Date
 
-
+May 29, 2025 4:20 pm
 
 ### Duration
 
@@ -3165,7 +3067,7 @@ Daniel has over eight years of experience in startups, with most of his time spe
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -3212,7 +3114,7 @@ Adam is an experienced software engineer and the founder of NeoFables. He create
 
 ### Date
 
-
+May 28, 2025 1:20 pm
 
 ### Duration
 
@@ -3220,7 +3122,7 @@ Adam is an experienced software engineer and the founder of NeoFables. He create
 
 ### Specific Location
 
-Not specified
+Marble Hall
 
 ### General Localtion
 
@@ -3446,13 +3348,13 @@ Martin Krištof
 
 ## Session Presenter Bio
 
-Martin is a team lead and full-stack JavaScript developer specialising in React. He is trying to advance Heureka as a front-end group leader. Outside of his main job, he passes on his React and testing experience through trainings or online courses.
+Martin is a staff engineer in the prioritisation team at Productboard and a full-stack developer specialising in React. Beyond his primary role, he shares his expertise in React and testing through training sessions and online courses. In his free time, he enjoys spending time with his wife and kids, staying active with sports, indulging in good food, and listening to rock music.
 
 ## Session Details
 
 ### Date
 
-
+May 29, 2025 1:00 pm
 
 ### Duration
 
@@ -3547,7 +3449,7 @@ May 29, 2025 8:30 am
 
 ### Specific Location
 
-Not specified
+Lucerna Great Hall
 
 ### General Localtion
 
