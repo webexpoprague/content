@@ -220,6 +220,61 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
+Design patterns for search UX in 2025
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/vitaly-friedman-web-design-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+In many products, search is critical, yet too often it’s forgotten or overlooked. Many users rely heavily on search, and investing in good search experiences is almost always a very smart investment. So, how do people search and what do they expect from a first-class search experience in 2025? And what can you do to design better experiences for them? In this talk, Vitaly will explore how to design better autocomplete, deal with complex filters, improve sorting, build better search result pages — and much, much more. Roll up your sleeves: expect plenty of real-life examples, dos and don’ts, and a healthy dose of “Aha!”-moments.
+
+
+
+
+
+## Tags
+
+Design Systems, Design Thinking &amp; UX, Research
+
+## Session Focused on
+
+Web Development: 20%, Design & UX: 100%, Marketing: 0%, Business: 60%
+
+## Session Presenter
+
+Vitaly Friedman
+
+## Session Presenter Bio
+
+Born in Minsk, Belarus, Vitaly studied computer science and mathematics in Germany. After working as a freelance designer and developer for six years, he co-founded Smashing Magazine back in 2006, a leading online magazine for designers and developers. Vitaly is the author, co-author, and editor of Smashing books, a curator of Smashing Conferences, and a leading front-end and UX consultant, working with the European Parliament, Haufe-Lexware, Axel-Springer, and more.
+
+## Session Details
+
+### Date
+
+May 29, 2025 10:00 am
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
 Premium Workshop: Designing for complex UIs in 2025
 
 ## Session URL
@@ -236,11 +291,25 @@ Roll up your sleeves — it’s time to brush up your UX skills! How would you a
 
 
 
-In this workshop, you’ll learn how to deal with real-life UX challenges from the ground up. Get ready: you’ll sail uncharted waters, design truly complex interfaces and receive feedback from people around the world. Plus: you’ll get a UX certificate for all your hard work as well!
 
 
 
 
+
+
+
+
+
+https://youtube.com/shorts/pLhu7k1_ba8?feature=share
+
+
+
+
+
+
+
+
+In this workshop, you’ll learn how to deal with real-life UX challenges from the ground up. Get ready: you’ll sail uncharted waters, design truly complex interfaces and receive feedback from people around the world.
 
 
 
@@ -356,7 +425,7 @@ May 30, 2025 9:30 am
 
 ### Specific Location
 
-MSD, FIVE Office Building
+Wrike Office
 
 ### General Localtion
 
@@ -365,11 +434,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Design patterns for search UX in 2025
+Startup founder story
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/vitaly-friedman-web-design-2025/
+https://webexpo.net/prague2025/sessions/tomas-cupr-talk-2025/
 
 ## Session Type
 
@@ -377,7 +446,7 @@ Conference Talk
 
 ## Talk Description
 
-In many products, search is critical, yet too often it’s forgotten or overlooked. Many users rely heavily on search, and investing in good search experiences is almost always a very smart investment. So, how do people search and what do they expect from a first-class search experience in 2025? And what can you do to design better experiences for them? In this talk, Vitaly will explore how to design better autocomplete, deal with complex filters, improve sorting, build better search result pages — and much, much more. Roll up your sleeves: expect plenty of real-life examples, dos and don’ts, and a healthy dose of “Aha!”-moments.
+More details will be announced soon.
 
 
 
@@ -385,25 +454,25 @@ In many products, search is critical, yet too often it’s forgotten or overlook
 
 ## Tags
 
-Design Systems, Design Thinking &amp; UX, Research
+Business &amp; Growth, Future of Work
 
 ## Session Focused on
 
-Web Development: 20%, Design & UX: 100%, Marketing: 0%, Business: 60%
+Web Development: 0%, Design & UX: 0%, Marketing: 60%, Business: 100%
 
 ## Session Presenter
 
-Vitaly Friedman
+Tomáš Čupr
 
 ## Session Presenter Bio
 
-Born in Minsk, Belarus, Vitaly studied computer science and mathematics in Germany. After working as a freelance designer and developer for six years, he co-founded Smashing Magazine back in 2006, a leading online magazine for designers and developers. Vitaly is the author, co-author, and editor of Smashing books, a curator of Smashing Conferences, and a leading front-end and UX consultant, working with the European Parliament, Haufe-Lexware, Axel-Springer, and more.
+Tomáš began his entrepreneurial journey in 2010, quickly gaining recognition by successfully building and exiting two ventures in e-commerce and food delivery to Secret Escapes and Delivery Hero respectivelly. In 2014, he shifted his focus to online grocery retail, founding Rohlík with the vision of transforming the industry across Europe. Today, Rohlík operates in multiple European markets and has rapidly expanded its footprint, achieving unicorn status by 2021. Tomáš’s innovative approach gives Rohlík a competitive edge and paves the way for further international expansion.
 
 ## Session Details
 
 ### Date
 
-May 29, 2025 10:00 am
+May 28, 2025 1:00 pm
 
 ### Duration
 
@@ -412,6 +481,57 @@ May 29, 2025 10:00 am
 ### Specific Location
 
 Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Turn curiosity into data gold with TEDW questions
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/turn-curiosity-into-data-gold-with-tedw-questions/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+In this talk, Nikki will share the best formula for asking open-ended unbiased questions, regardless of what you are trying to learn. Although this is a tactic for user research, the TEDW model can help you ask deep and meaningful questions throughout your entire career (and even life!).
+
+## Tags
+
+Design Thinking &amp; UX, Research
+
+## Session Focused on
+
+Web Development: 20%, Design & UX: 100%, Marketing: 20%, Business: 60%
+
+## Session Presenter
+
+Nikki Anderson
+
+## Session Presenter Bio
+
+Nikki,  also known as "The User Research Resource Queen," is a blogger, podcaster, and founder of the User Research Academy, where she publishes weekly Substack content dedicated to helping user researchers conduct research more creatively and confidently.
+
+## Session Details
+
+### Date
+
+May 29, 2025 2:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema
 
 ### General Localtion
 
@@ -432,11 +552,21 @@ Premium Workshop
 
 ## Talk Description
 
-How are you going to help make an advertising campaign get inside people’s heads if you struggle to write words that get into your colleagues’ heads?
+How are you going to help make an advertising campaign get inside people’s heads if you struggle to write words that get into your colleagues’ heads? Words are a strategist’s currency but too many strategies are written in spite of their audience, not for their audience.
 
 
 
-Words are a strategist’s currency but too many strategies are written in spite of their audience, not for their audience.
+
+
+
+
+
+
+
+
+
+https://youtube.com/shorts/YKIkev5Vs9c
+
 
 
 
@@ -544,7 +674,7 @@ May 30, 2025 9:00 am
 
 ### Specific Location
 
-MSD, Riverview Building (Room 2)
+MSD, FIVE Office Building (Room 1)
 
 ### General Localtion
 
@@ -592,179 +722,6 @@ Jan is a serial entrepreneur with 19 years of experience, known for founding Soc
 ### Date
 
 May 28, 2025 10:00 am
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Lucerna Great Hall
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Whispers and shouts: Ensuring safety amidst LLM noise
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/daniel-cuthbert-web-security-2025/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-Robocop (1987) introduced us to a vision of the future where humanity and technology combined to serve, protect, and uphold justice. Murphy embodied what we strive for in AI today: precision, ethics, and a mission to protect.
-
-
-
-But ED-209? A cautionary tale of what happens when we prioritise power over control and ambition over accountability.
-
-
-
-We stand at a crossroads. AI can be our Murphy: protective, ethical, and safe. Or it can become ED-209: unchecked and dangerous. The choice is ours, and this talk offers a roadmap to ensure we march towards the former.
-
-
-
-
-
-## Tags
-
-AI &amp; ML &amp; Bots, Design Systems, Research, Security
-
-## Session Focused on
-
-Web Development: 80%, Design & UX: 60%, Marketing: 40%, Business: 40%
-
-## Session Presenter
-
-Daniel Cuthbert
-
-## Session Presenter Bio
-
-Daniel has been on a relentless quest to build software so secure that even he might struggle to hack it (but don't count on it). Self-diagnosed with an obsession for bugs and offensive operations, he's turned his penchant for poking holes into a crusade for making vendors shape up. By channelling his mischief into the OWASP ASVS and other cunning initiatives, he's been plotting to save the software world—one responsible vendor at a time.
-
-## Session Details
-
-### Date
-
-May 28, 2025 5:00 pm
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Lucerna Great Hall
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Turn curiosity into data gold with TEDW questions
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/turn-curiosity-into-data-gold-with-tedw-questions/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-In this talk, Nikki will share the best formula for asking open-ended unbiased questions, regardless of what you are trying to learn. Although this is a tactic for user research, the TEDW model can help you ask deep and meaningful questions throughout your entire career (and even life!).
-
-## Tags
-
-Design Thinking &amp; UX, Research
-
-## Session Focused on
-
-Web Development: 20%, Design & UX: 100%, Marketing: 20%, Business: 60%
-
-## Session Presenter
-
-Nikki Anderson
-
-## Session Presenter Bio
-
-Nikki,  also known as "The User Research Resource Queen," is a blogger, podcaster, and founder of the User Research Academy, where she publishes weekly Substack content dedicated to helping user researchers conduct research more creatively and confidently.
-
-## Session Details
-
-### Date
-
-May 29, 2025 2:00 pm
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Lucerna Cinema
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Works in all browsers! Interoperability beyond availability
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/works-in-all-browsers-interoperability-beyond-availability/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-The Web Platform Baseline project gives you a snapshot of the web features supported by all browsers and ready to be used TODAY. Mariko’s talk won’t just list what's possible across browsers, it will help you figure out what's best for your product with the tools available right now.&nbsp;
-
-
-
-Come and get answers to questions like: "Which features have old workarounds that impact performance?" "How do you combine the features to create modern experiences like an adaptable, resilient layout?" "What other modern UI patterns are now easy to implement?" Join Mariko as she shows you how The Web Platform Baseline can help guide you through the confusing world of building for the web.
-
-
-
-
-
-## Tags
-
-Design Systems, Frontend Dev
-
-## Session Focused on
-
-Web Development: 100%, Design & UX: 60%, Marketing: 0%, Business: 20%
-
-## Session Presenter
-
-Mariko Kosaka
-
-## Session Presenter Bio
-
-Mariko is a  Chrome Developer Relations engineer. She spends time tracking and documenting newly interoperable features to better guide web developers on the ever-evolving web of platform features.
-
-## Session Details
-
-### Date
-
-May 29, 2025 2:00 pm
 
 ### Duration
 
@@ -867,7 +824,129 @@ Joe is a UX consultant, author, and speaker. Everything he does is born from nea
 
 ### Date
 
-May 28, 2025 1:00 pm
+May 29, 2025 11:00 am
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Works in all browsers! Interoperability beyond availability
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/works-in-all-browsers-interoperability-beyond-availability/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+The Web Platform Baseline project gives you a snapshot of the web features supported by all browsers and ready to be used TODAY. Mariko’s talk won’t just list what's possible across browsers, it will help you figure out what's best for your product with the tools available right now.&nbsp;
+
+
+
+Come and get answers to questions like: "Which features have old workarounds that impact performance?" "How do you combine the features to create modern experiences like an adaptable, resilient layout?" "What other modern UI patterns are now easy to implement?" Join Mariko as she shows you how The Web Platform Baseline can help guide you through the confusing world of building for the web.
+
+
+
+
+
+## Tags
+
+Design Systems, Frontend Dev
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 60%, Marketing: 0%, Business: 20%
+
+## Session Presenter
+
+Mariko Kosaka
+
+## Session Presenter Bio
+
+Mariko is a  Chrome Developer Relations engineer. She spends time tracking and documenting newly interoperable features to better guide web developers on the ever-evolving web of platform features.
+
+## Session Details
+
+### Date
+
+May 29, 2025 2:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Whispers and shouts: Ensuring safety amidst LLM noise
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/daniel-cuthbert-web-security-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Robocop (1987) introduced us to a vision of the future where humanity and technology combined to serve, protect, and uphold justice. Murphy embodied what we strive for in AI today: precision, ethics, and a mission to protect.
+
+
+
+But ED-209? A cautionary tale of what happens when we prioritise power over control and ambition over accountability.
+
+
+
+We stand at a crossroads. AI can be our Murphy: protective, ethical, and safe. Or it can become ED-209: unchecked and dangerous. The choice is ours, and this talk offers a roadmap to ensure we march towards the former.
+
+
+
+
+
+## Tags
+
+AI &amp; ML &amp; Bots, Design Systems, Research, Security
+
+## Session Focused on
+
+Web Development: 80%, Design & UX: 60%, Marketing: 40%, Business: 40%
+
+## Session Presenter
+
+Daniel Cuthbert
+
+## Session Presenter Bio
+
+Daniel has been on a relentless quest to build software so secure that even he might struggle to hack it (but don't count on it). Self-diagnosed with an obsession for bugs and offensive operations, he's turned his penchant for poking holes into a crusade for making vendors shape up. By channelling his mischief into the OWASP ASVS and other cunning initiatives, he's been plotting to save the software world—one responsible vendor at a time.
+
+## Session Details
+
+### Date
+
+May 28, 2025 5:00 pm
 
 ### Duration
 
@@ -1002,11 +1081,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Digital intimacy: Feeling human in an artificial world
+Hidden risks of surveys
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/lutz-schmitt-ux-design-2025/
+https://webexpo.net/prague2025/sessions/zsuzsa-kovacs-ux-research-2025/
 
 ## Session Type
 
@@ -1014,33 +1093,33 @@ Conference Talk
 
 ## Talk Description
 
-We easily recognise the people we’re closest to – our partners, friends, family – the ones we seek true intimacy with. The internet helps us "stay in touch" even when apart, but it also raises doubts about authenticity nowadays and has us questioning if the other person is even human. Can an interaction with a robot feel just as intimate? And aren’t the challenges you face when building trust with your users similar?
+Surveys are quite a popular yet very dangerous research tool. Though surveys have been used successfully in scientific studies for a very long time, they can still be rather risky when it comes to fast pace learning about our users. It’s easy to think that surveys are really easy to do, but in fact, if done wrong, they can falsely prove all your hypotheses while providing the illusion of doing research. In this talk, Zsuzsa will walk you through the main risks of surveys and explain in detail what can go wrong.
 
 
 
-Join Lutz’s thought-provoking talk on intimacy, human connection, digital interaction, and what it all means for your work.
+
 
 ## Tags
 
-Business &amp; Growth, Design Thinking &amp; UX, Service Design &amp; CX, Sustainability &amp; Ethics
+Design Thinking &amp; UX, Marketing, Research
 
 ## Session Focused on
 
-Web Development: 40%, Design & UX: 100%, Marketing: 60%, Business: 80%
+Web Development: 0%, Design & UX: 80%, Marketing: 80%, Business: 60%
 
 ## Session Presenter
 
-Lutz Schmitt
+Zsuzsa Kovács
 
 ## Session Presenter Bio
 
-Lutz lives with his family in Cologne, Germany. In the early 2000s, he graduated as a designer and became an information architect. Today, he’s an independent consultant for UX and service design, with a knack for privacy. He’s the author of the book “The Perception of Time and the Influence of Design”.
+Zsuzsa is a UX Researcher, who has worked in UX since 2008. She’s had many different roles around building products but in every one, her main focus was involving users in the process early on and keeping them close. She enjoys talking to users, seeing products through their eyes, and understanding their point of view. Zsuzsa is interested in psychology, especially areas that affect research. She is also a co-organiser of the Amuse UX Conference.
 
 ## Session Details
 
 ### Date
 
-May 29, 2025 12:00 pm
+May 28, 2025 4:00 pm
 
 ### Duration
 
@@ -1048,66 +1127,7 @@ May 29, 2025 12:00 pm
 
 ### Specific Location
 
-Lucerna Great Hall
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Untangling your dependencies: A pattern for a well-knit JavaScript project
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/untangling-your-dependencies-a-pattern-for-a-well-knit-javascript-project/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-“Alright, I’ll just upgrade Typescript — aaaaaand everything is broken now.”
-
-
-
-Building a complex JavaScript project can feel like a tangled mess of yarn. Fear not, fellow developer! In this talk, Carmen will provide you with the tools and techniques to gently untangle your dependencies and knit a well-structured, maintainable codebase. Your basket of tools includes using the npm-why tool as your yarn needle, breaking down tasks into manageable stitches, strategically upgrading for progress, utilising branching techniques to keep your project from unravelling, and much more!
-
-
-
-Join Carmen as she unravels the secrets of dependency management, leaving you with a project that’s not only functional but beautifully maintainable, stitch by stitch.
-
-## Tags
-
-Backend Dev, Frontend Dev, Security
-
-## Session Focused on
-
-Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 20%
-
-## Session Presenter
-
-Carmen Huidobro
-
-## Session Presenter Bio
-
-Carmen Huidobro is a developer advocate and DevEd enthusiast. She thrives on lifting others up in their tech careers and loves a good CSS challenge. She’s always excited to talk about teaching tech, especialmente en Español, oder auf Deutsch.
-
-## Session Details
-
-### Date
-
-May 28, 2025 3:00 pm
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Lucerna Great Hall
+Lucerna Cinema
 
 ### General Localtion
 
@@ -1184,6 +1204,20 @@ Premium Workshop
 ## Talk Description
 
 React has become one of the most popular libraries for building user interfaces, with its ecosystem expanding year after year—new tools, patterns, and concepts are always emerging. This workshop dives into the latest trends in React development, equipping you with advanced skills to take your React applications to the next level. If you’re familiar with the basics but ready to learn more, this workshop is for you!
+
+
+
+
+
+
+
+
+
+
+
+
+https://youtube.com/shorts/Py1P3GP1IVQ
+
 
 
 
@@ -1308,11 +1342,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Hidden risks of surveys
+From startup to sustainability: Circularity in practice
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/zsuzsa-kovacs-ux-research-2025/
+https://webexpo.net/prague2025/sessions/from-startup-to-sustainability-circularity-in-practice/
 
 ## Session Type
 
@@ -1320,7 +1354,7 @@ Conference Talk
 
 ## Talk Description
 
-Surveys are quite a popular yet very dangerous research tool. Though surveys have been used successfully in scientific studies for a very long time, they can still be rather risky when it comes to fast pace learning about our users. It’s easy to think that surveys are really easy to do, but in fact, if done wrong, they can falsely prove all your hypotheses while providing the illusion of doing research. In this talk, Zsuzsa will walk you through the main risks of surveys and explain in detail what can go wrong.
+Embark on a journey from the vibrant world of startups to the transformative realm of sustainability and circularity. Michaela Kloudová, a seasoned entrepreneur, will share key lessons learned from her ventures, including Genster and the circular mall concept No Neke, using real market data to highlight pivotal moments. You’ll explore how to kickstart circularity in your own business, discover circular business models, and gain insights into the global trends being influenced by innovation and EU regulations. Michaela will also present inspiring examples of how Czech companies are embracing these opportunities, offering actionable advice for creating sustainable impact in today’s evolving market.
 
 
 
@@ -1328,19 +1362,19 @@ Surveys are quite a popular yet very dangerous research tool. Though surveys hav
 
 ## Tags
 
-Design Thinking &amp; UX, Marketing, Research
+Business &amp; Growth, Content, Future of Work, Marketing, Sustainability &amp; Ethics
 
 ## Session Focused on
 
-Web Development: 0%, Design & UX: 80%, Marketing: 80%, Business: 60%
+Web Development: 20%, Design & UX: 20%, Marketing: 100%, Business: 100%
 
 ## Session Presenter
 
-Zsuzsa Kovács
+Michaela Kloudová
 
 ## Session Presenter Bio
 
-Zsuzsa is a UX Researcher, who has worked in UX since 2008. She’s had many different roles around building products but in every one, her main focus was involving users in the process early on and keeping them close. She enjoys talking to users, seeing products through their eyes, and understanding their point of view. Zsuzsa is interested in psychology, especially areas that affect research. She is also a co-organiser of the Amuse UX Conference.
+Michaela is the CEO of INCIEN (Institute of Circular Economy), helping businesses build sustainable models that challenge the linear economy. She founded Genster, a styling startup that dressed 3,000+ men and hit €1M annual revenue, and co-founded AlimentyDětem.cz to support single parents. With corporate experience from Unilever, she now mentors entrepreneurs and speaks on business, sustainability, and innovation. Michaela also actively shares insights and stories on LinkedIn, inspiring change.
 
 ## Session Details
 
@@ -1354,7 +1388,7 @@ May 28, 2025 4:00 pm
 
 ### Specific Location
 
-Lucerna Cinema
+Marble Hall
 
 ### General Localtion
 
@@ -1418,6 +1452,175 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
+Digital intimacy: Feeling human in an artificial world
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/lutz-schmitt-ux-design-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+We easily recognise the people we’re closest to – our partners, friends, family – the ones we seek true intimacy with. The internet helps us "stay in touch" even when apart, but it also raises doubts about authenticity nowadays and has us questioning if the other person is even human. Can an interaction with a robot feel just as intimate? And aren’t the challenges you face when building trust with your users similar?
+
+
+
+Join Lutz’s thought-provoking talk on intimacy, human connection, digital interaction, and what it all means for your work.
+
+## Tags
+
+Business &amp; Growth, Design Thinking &amp; UX, Service Design &amp; CX, Sustainability &amp; Ethics
+
+## Session Focused on
+
+Web Development: 40%, Design & UX: 100%, Marketing: 60%, Business: 80%
+
+## Session Presenter
+
+Lutz Schmitt
+
+## Session Presenter Bio
+
+Lutz lives with his family in Cologne, Germany. In the early 2000s, he graduated as a designer and became an information architect. Today, he’s an independent consultant for UX and service design, with a knack for privacy. He’s the author of the book “The Perception of Time and the Influence of Design”.
+
+## Session Details
+
+### Date
+
+May 29, 2025 12:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+From fuzzy to focused: Aligning goals, hypothesis, and objectives for effective B2B research
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/lorie-whitaker-ux-research-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+In this talk, Lorie will share practical strategies drawn from her extensive experience in B2B research. Using real-life examples from different companies, including a few honest missteps, Lorie will help you avoid common pitfalls and ensure your own research is focused, actionable, and impactful. Designed for product managers, designers, and user researchers, this session will share valuable insights on how to align your goals, hypotheses, and objectives effectively, empowering you to make data-driven decisions that drive your B2B projects forward.
+
+
+
+
+
+## Tags
+
+Design Thinking &amp; UX, Research, Service Design &amp; CX
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 100%, Marketing: 0%, Business: 80%
+
+## Session Presenter
+
+Lorie Whitaker
+
+## Session Presenter Bio
+
+Lorie Whitaker is a Principal UX Researcher at Zalando with over 17 years of experience. For more than a decade, she has specialised in B2B user research at companies like GitLab, CapitalOne, and Okta. Lorie loves diving into strategic research, developing UX frameworks, and mentoring teams. When she’s not at work, you can find her gardening, cooking up new recipes, or learning German in beautiful Southern Germany!
+
+## Session Details
+
+### Date
+
+May 28, 2025 3:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Untangling your dependencies: A pattern for a well-knit JavaScript project
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/untangling-your-dependencies-a-pattern-for-a-well-knit-javascript-project/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+“Alright, I’ll just upgrade Typescript — aaaaaand everything is broken now.”
+
+
+
+Building a complex JavaScript project can feel like a tangled mess of yarn. Fear not, fellow developer! In this talk, Carmen will provide you with the tools and techniques to gently untangle your dependencies and knit a well-structured, maintainable codebase. Your basket of tools includes using the npm-why tool as your yarn needle, breaking down tasks into manageable stitches, strategically upgrading for progress, utilising branching techniques to keep your project from unravelling, and much more!
+
+
+
+Join Carmen as she unravels the secrets of dependency management, leaving you with a project that’s not only functional but beautifully maintainable, stitch by stitch.
+
+## Tags
+
+Backend Dev, Frontend Dev, Security
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 20%
+
+## Session Presenter
+
+Carmen Huidobro
+
+## Session Presenter Bio
+
+Carmen Huidobro is a developer advocate and DevEd enthusiast. She thrives on lifting others up in their tech careers and loves a good CSS challenge. She’s always excited to talk about teaching tech, especialmente en Español, oder auf Deutsch.
+
+## Session Details
+
+### Date
+
+May 28, 2025 3:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
 12 core design skills
 
 ## Session URL
@@ -1456,7 +1659,7 @@ Jan wrote the first Czech bestseller about design process, has over 20 years of 
 
 ### Date
 
-May 29, 2025 11:00 am
+May 28, 2025 1:00 pm
 
 ### Duration
 
@@ -1528,11 +1731,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-From fuzzy to focused: Aligning goals, hypothesis, and objectives for effective B2B research
+Marketing analytics: Incrementality and MMM
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/lorie-whitaker-ux-research-2025/
+https://webexpo.net/prague2025/sessions/marketing-analytics-incrementality-and-mmm/
 
 ## Session Type
 
@@ -1540,7 +1743,7 @@ Conference Talk
 
 ## Talk Description
 
-In this talk, Lorie will share practical strategies drawn from her extensive experience in B2B research. Using real-life examples from different companies, including a few honest missteps, Lorie will help you avoid common pitfalls and ensure your own research is focused, actionable, and impactful. Designed for product managers, designers, and user researchers, this session will share valuable insights on how to align your goals, hypotheses, and objectives effectively, empowering you to make data-driven decisions that drive your B2B projects forward.
+How do you uncover the true impact of your marketing activities? Is it even possible to measure the real effectiveness of marketing? Are you overwhelmed by the maze of KPIs, metrics, channels, and goals? Join Jaroslav on a journey to uncover the truth hiding in your marketing analytics – with humility, perspective, and the power of statistics combined with cutting-edge know-how and real-life examples.
 
 
 
@@ -1548,25 +1751,25 @@ In this talk, Lorie will share practical strategies drawn from her extensive exp
 
 ## Tags
 
-Design Thinking &amp; UX, Research, Service Design &amp; CX
+Business &amp; Growth, Data, Marketing
 
 ## Session Focused on
 
-Web Development: 0%, Design & UX: 100%, Marketing: 0%, Business: 80%
+Web Development: 20%, Design & UX: 0%, Marketing: 100%, Business: 60%
 
 ## Session Presenter
 
-Lorie Whitaker
+Jaroslav Slavičínský
 
 ## Session Presenter Bio
 
-Lorie Whitaker is a Principal UX Researcher at Zalando with over 17 years of experience. For more than a decade, she has specialised in B2B user research at companies like GitLab, CapitalOne, and Okta. Lorie loves diving into strategic research, developing UX frameworks, and mentoring teams. When she’s not at work, you can find her gardening, cooking up new recipes, or learning German in beautiful Southern Germany!
+Jaroslav is a marketing strategist currently serving as the Head of Digital Marketing at Seznam.cz, where he is responsible for the performance of marketing activities and budget planning across all Seznam services. Previously, he worked in the agency world, successfully managing numerous campaigns for major local and international brands.
 
 ## Session Details
 
 ### Date
 
-May 28, 2025 3:00 pm
+May 28, 2025 12:00 pm
 
 ### Duration
 
@@ -1574,7 +1777,7 @@ May 28, 2025 3:00 pm
 
 ### Specific Location
 
-Lucerna Cinema
+Marble Hall
 
 ### General Localtion
 
@@ -1697,8 +1900,6 @@ Lucerna Cinema
 Lucerna Palace, Prague, Czech Republic
 
 
-
-
 # Session title
 
 The future is built, not bought: Rewiring organisations for continuous innovation
@@ -1799,6 +2000,61 @@ May 29, 2025 3:00 pm
 ### Specific Location
 
 Lucerna Cinema
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+What is the ‘Jobs to Be Done’ framework and why should you care?
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/what-is-jobs-to-be-done-and-why-should-you-care-a-framework-to-build-empathy-and-drive-alignment/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+In this talk, Martina will share her personal journey from being a sceptic to becoming an advocate of the Jobs to Be Done (JTBD) framework. By breaking down the key concepts of JTBD and its value for team collaboration, she’ll show how this approach helps create a shared understanding of real user needs. With practical examples, including mapping an air travel experience, this session is ideal for designers and business leaders looking to foster empathy and drive alignment across their teams.
+
+
+
+
+
+## Tags
+
+Design Thinking &amp; UX, Research, Service Design &amp; CX
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 80%
+
+## Session Presenter
+
+Martina Klimešová
+
+## Session Presenter Bio
+
+Martina is a CX Manager at ČSOB with a passion for creating seamless customer experiences. She began her career at Kiwi.com and has since specialised in UX research and the Jobs to Be Done (JTBD) framework, driving user-focused innovations in banking and travel. Martina loves baking, drawing, and bookbinding. An explorer at heart, she’s happiest when discovering new places or refining her CX strategies. If you’re up for brainstorming JTBD or swapping recipes, feel free to connect!
+
+## Session Details
+
+### Date
+
+May 28, 2025 11:00 am
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Marble Hall
 
 ### General Localtion
 
@@ -1931,6 +2187,57 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
+Teaching resilience in a digital world: Lessons from the classroom
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/rethinking-education-bridging-it-well-being-and-real-world-skills/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Working with the next generation in an IT school offers a unique perspective on how young people engage with technology, problem-solving, and well-being. Even as you push them to think independently, use tech ethically, and adapt — they often face challenges that mirror those in the professional world. In this talk, Markéta shares real experiences from the classroom, exploring the struggles, successes, and unexpected lessons that resonate beyond education. Expect honest stories, insights on resilience, and a fresh perspective on navigating the ever-changing tech landscape.
+
+## Tags
+
+AI &amp; ML &amp; Bots, Business &amp; Growth, Future of Work, Sustainability &amp; Ethics
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 0%, Marketing: 0%, Business: 60%
+
+## Session Presenter
+
+Markéta Fibigerová
+
+## Session Presenter Bio
+
+Markéta is an innovator in education, an entrepreneur, and an IT expert. Named as one of the top 20 Czech innovators in 2020, she became a founding member of an IT company while still studying at Charles University. After more than 15+ years of hands-on experience in software development, she founded a secondary school in 2018, teaching all aspects of technology, well-being, and resilience. Markéta is also a passionate back-country skier, mountaineer and climber, mom of two teenagers and a devoted master to a hyperactive border collie.
+
+## Session Details
+
+### Date
+
+May 29, 2025 1:20 pm
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Lucerna Cinema
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
 Zero to shipped in 30 mins with gen AI!
 
 ## Session URL
@@ -1986,11 +2293,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-What is the ‘Jobs to Be Done’ framework and why should you care?
+Digital accessibility meets physical accessibility
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/what-is-jobs-to-be-done-and-why-should-you-care-a-framework-to-build-empathy-and-drive-alignment/
+https://webexpo.net/prague2025/sessions/digital-accessibility-meets-physical-accessibility/
 
 ## Session Type
 
@@ -1998,33 +2305,33 @@ Conference Talk
 
 ## Talk Description
 
-In this talk, Martina will share her personal journey from being a sceptic to becoming an advocate of the Jobs to Be Done (JTBD) framework. By breaking down the key concepts of JTBD and its value for team collaboration, she’ll show how this approach helps create a shared understanding of real user needs. With practical examples, including mapping an air travel experience, this session is ideal for designers and business leaders looking to foster empathy and drive alignment across their teams.
+The new accessibility law, the European Accessibility Act (EAA), not only covers online services and apps but also digital displays in self-service machines and terminals that are increasingly present in our public spaces.
 
 
 
-
+In this talk, Erik, Daniel, and Nathalie will talk about how to think about customer experiences over legal requirements, and what they’ve discovered during their testing sessions. They’ll highlight issues with digital screens and share concrete advice to bring into your own development, along with some great real-world examples. Daniel will also showcase ideas for touchscreens with CodePen demos in the Speakers’ Corner — so be sure to stop by!
 
 ## Tags
 
-Design Thinking &amp; UX, Research, Service Design &amp; CX
+Design Thinking &amp; UX, Frontend Dev, Sustainability &amp; Ethics
 
 ## Session Focused on
 
-Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 80%
+Web Development: 20%, Design & UX: 80%, Marketing: 60%, Business: 100%
 
 ## Session Presenter
 
-Martina Klimešová
+Erik Gustafsson Spagnoli
 
 ## Session Presenter Bio
 
-Martina is a CX Manager at ČSOB with a passion for creating seamless customer experiences. She began her career at Kiwi.com and has since specialised in UX research and the Jobs to Be Done (JTBD) framework, driving user-focused innovations in banking and travel. Martina loves baking, drawing, and bookbinding. An explorer at heart, she’s happiest when discovering new places or refining her CX strategies. If you’re up for brainstorming JTBD or swapping recipes, feel free to connect!
+Erik is a beer-and-rock-music-loving father of three with a passion for making accessibility a priority for organisations.
 
 ## Session Details
 
 ### Date
 
-May 28, 2025 11:00 am
+May 28, 2025 12:00 pm
 
 ### Duration
 
@@ -2032,7 +2339,7 @@ May 28, 2025 11:00 am
 
 ### Specific Location
 
-Marble Hall
+Lucerna Cinema
 
 ### General Localtion
 
@@ -2112,6 +2419,61 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
+Building smarter design systems with AI
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/building-smarter-design-systems-with-ai/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+In this talk, Andrew will discuss how AI is transforming the creation and management of design systems. He’ll explore how AI tools and technologies can be used to automate repetitive tasks, enhance consistency, and scale design efforts efficiently to achieve smarter, streamlined approaches to modern design.
+
+
+
+
+
+## Tags
+
+Design Systems, Design Thinking &amp; UX, Frontend Dev, Future of Work
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 100%, Marketing: 0%, Business: 40%
+
+## Session Presenter
+
+Andrew Žáček
+
+## Session Presenter Bio
+
+Andrew is a Senior Designer at Microsoft Teams (CMD) with over a decade of experience creating intuitive, human-centered designs. Passionate about innovation, he focuses on building smarter design systems powered by AI, streamlining workflows, and empowering teams. Andrew has worked with clients like IBM and the Czech government and is also the co-founder of the digital design studio, Mountain Lift.
+
+## Session Details
+
+### Date
+
+May 28, 2025 10:00 am
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Marble Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
 Retention magic: Creative ways to keep your users coming back
 
 ## Session URL
@@ -2163,8 +2525,6 @@ Marble Hall
 ### General Localtion
 
 Lucerna Palace, Prague, Czech Republic
-
-
 
 
 # Session title
@@ -2499,65 +2859,6 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-The path to end-to-end teams
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/the-path-to-end-to-end-teams/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-Anyone who has ever tried to coordinate the team backlogs of multiple teams working on a large product has already realised that managing dependencies is a fool's errand. Backlogs are queues, and queues are delays. Everyone is waiting on everyone; everything takes ages, and nothing is ever anyone’s fault.
-
-
-
-Yet, simply reorganising people into end-to-end teams can make a huge difference. In this talk, Karel will show you how to do it and what challenges await you, sharing the deep knowledge he has gained specialising in the transition to end-to-end teams for the past eight years of his agile consulting career.
-
-
-
-
-
-## Tags
-
-Business &amp; Growth, Future of Work
-
-## Session Focused on
-
-Web Development: 60%, Design & UX: 40%, Marketing: 0%, Business: 100%
-
-## Session Presenter
-
-Karel Smutný
-
-## Session Presenter Bio
-
-Karel is a consultant for agile transformations, a professional Scrum Trainer, and a passionate software developer. He’s left his mark on a hundred teams across dozens of companies over the last 15 years. Karel specialises in "descaling" (simplifying) organisations, building team responsibility, and technical excellence. He also runs ScrumDojo.cz, a place of immersive learning, and organises ScrumDojo Beer, one of the oldest and biggest agile community meetups.
-
-## Session Details
-
-### Date
-
-May 28, 2025 1:00 pm
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Lucerna Cinema
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
 WebExpo grand opening
 
 ## Session URL
@@ -2605,6 +2906,175 @@ May 28, 2025 8:40 am
 ### Specific Location
 
 Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Closing Remarks
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/closing-remarks-2025/
+
+## Session Type
+
+
+
+## Talk Description
+
+Šárka summarizes 2 days full of talks, workshops and discussions and reveals plans for 2026.
+
+
+
+
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Design Thinking &amp; UX, Frontend Dev, Future of Work
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 100%, Marketing: 100%, Business: 100%
+
+## Session Presenter
+
+Šárka Štrossová
+
+## Session Presenter Bio
+
+Šárka is the heart and soul of WebExpo. She’s been flitting around WebExpo since 2010 as part of its organizational team, but she officially began running the conference from March 2015. She is also co-founder of Machine Learning Prague Conference. She studied international business at the University of Economics in Prague during taking a job at EduFórum, where she organized events. She loves charts, coding, high heels, and soft serve ice cream from Světozor. And yes, in that exact order.
+
+## Session Details
+
+### Date
+
+May 29, 2025 5:50 pm
+
+### Duration
+
+10 Minutes
+
+### Specific Location
+
+Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Essential security skills for the modern full-stack dev
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/essential-security-skills-for-the-modern-full-stack-dev/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+As a modern full-stack developer, mastering security is no longer optional — it's essential. In this talk, Vojtěch will borrow from the best practices and terms from enterprise companies and show you how to apply them in your daily development life. Together, you’ll look beyond abstract language and explore how to find the boundary between negligence and prioritising relevant threats in your role. He’ll also share his insights about how to leverage AI to build more secure products and the importance of securing AI use cases.
+
+
+
+
+
+## Tags
+
+Backend Dev, Security
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 0%, Marketing: 20%, Business: 80%
+
+## Session Presenter
+
+Vojtěch Vondra
+
+## Session Presenter Bio
+
+Vojtěch leads the Entra Edge and Quality organisation in the Microsoft Development Center Prague. The team's focus is securing Microsoft's perimeter, protecting every authentication request for both consumers and enterprises, and building tooling to manage the largest scale outages and incidents. Microsoft Entra secures access for every user, application, and device across a company's environment and logins for all of Microsoft's offerings. Previously, Vojtěch led the product engineering organisation at Productboard.
+
+## Session Details
+
+### Date
+
+May 28, 2025 2:00 pm
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Lucerna Cinema
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+The path to end-to-end teams
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/the-path-to-end-to-end-teams/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Anyone who has ever tried to coordinate the team backlogs of multiple teams working on a large product has already realised that managing dependencies is a fool's errand. Backlogs are queues, and queues are delays. Everyone is waiting on everyone; everything takes ages, and nothing is ever anyone’s fault.
+
+
+
+Yet, simply reorganising people into end-to-end teams can make a huge difference. In this talk, Karel will show you how to do it and what challenges await you, sharing the deep knowledge he has gained specialising in the transition to end-to-end teams for the past eight years of his agile consulting career.
+
+
+
+
+
+## Tags
+
+Business &amp; Growth, Future of Work
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 40%, Marketing: 0%, Business: 100%
+
+## Session Presenter
+
+Karel Smutný
+
+## Session Presenter Bio
+
+Karel is a consultant for agile transformations, a professional Scrum Trainer, and a passionate software developer. He’s left his mark on a hundred teams across dozens of companies over the last 15 years. Karel specialises in "descaling" (simplifying) organisations, building team responsibility, and technical excellence. He also runs ScrumDojo.cz, a place of immersive learning, and organises ScrumDojo Beer, one of the oldest and biggest agile community meetups.
+
+## Session Details
+
+### Date
+
+May 29, 2025 10:00 am
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema
 
 ### General Localtion
 
@@ -2837,6 +3307,91 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
+How the right design process and research drive meaningful innovation
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/talk-2025-peter-angelov/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+The way you approach service or product design has an impact on:
+
+
+
+
+Stronger customer relationships
+
+
+
+Employee satisfaction
+
+
+
+Brand building
+
+
+
+Differentiation from the competition
+
+
+
+Cost efficiency in development and marketing
+
+
+
+
+
+
+
+
+In this talk, Peter will discuss the challenges many companies face when innovating their services and explore real-world examples to inspire better approaches. Whether you’re a designer, product or project manager, marketer, or stakeholder, this talk will provide valuable insights from a design agency and its clients — insights you can apply to improve your own projects and drive better results.
+
+
+
+
+
+## Tags
+
+Business &amp; Growth, Design Thinking &amp; UX, Research, Service Design &amp; CX
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 40%
+
+## Session Presenter
+
+Peter Angelov
+
+## Session Presenter Bio
+
+Peter has been an integral part of ui42 for over six years, contributing to the design of "PSE"— products, services and experiences. His expertise lies in prototyping, usability testing, and design systems. Throughout his career, he has worked on projects for renowned clients, including Swiss Re, Slovenská Sporiteľňa (SLSP), Orange, Telekom, Generali, ZSSK, Asseco, DXC Technology, and many others. Passionate about sharing knowledge, Peter regularly discusses design, online business, and customer care on LinkedIn and at CX workshops organised by ui42.
+
+## Session Details
+
+### Date
+
+May 28, 2025 10:20 am
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Marble Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
 Beyond design tools: Prototyping in code
 
 ## Session URL
@@ -2892,127 +3447,53 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Premium Workshop: Accessibility for designers &#8211; from mockups to documentation
+Dark patterns. Where does motivation end and illegal manipulation begin?
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/premium-workshop-accessibility-for-designers-from-mockups-to-documentation/
+https://webexpo.net/prague2025/sessions/dark-patterns-where-does-motivation-end-and-illegal-manipulation-begin/
 
 ## Session Type
 
-Premium Workshop
+Conference Talk
 
 ## Talk Description
 
-Accessibility is often put on the plate of developers. But, a lot of accessibility issues can be caught and avoided in the mockups and design phase, by following best practices such as WCAG guidelines. If you’ve never heard of it, you are in the right place!&nbsp;
+Forget boring legal jargon, ethics lectures, and the classic, “It depends.” As both a lawyer and a front-end designer, Karel will show you the clear line between motivation and illegal manipulation. You’ll learn how to identify dark patterns that break the law — based on multiple EU regulations. He’ll reveal where companies get fined, what new rules are coming, and how focusing solely on A/B testing numbers can land you in serious trouble. Walk away with bulletproof, legally-backed arguments (in plain English) for your team and leadership, created just for WebExpo. Plus, attendees who come in person will grab a special bonus.
 
 
 
-In this workshop, we’ll explore how to identify and address design issues early on, ensuring accessibility from the start. Things like: are we achieving the right contrast ratio, and are colours being used effectively? But colours are just the tip of the iceberg!&nbsp; What about typography, is this text easy to read? Forms are also a crucial aspect of accessibility: I’ll teach you how to make them more inclusive, from error prevention to recovery and beyond. We’ll focus (haha pun intended) on essential elements like keyboard navigation, gesture controls, and drag-and-drop functionality—key factors in designing and documenting complex components for users with diverse disabilities. We’ll check screen reader usage and how to build and document a strong information architecture using headings, titles, and identifying landmarks. We’ll cover alternatives to images, what designers can do about that, and multimedia, audio, video content, to charts and graphs.&nbsp;
-
-
-
-
-
-
-
-The goal of this 1 day workshop is to equip you with the theory, but also the tools to help you audit, design, and document accessible mockups for your products and services. And to communicate it better with your development teams.
-
-
-
-This is a hands-on workshop, we will work in Figma, in small groups, with different plugins, tools, and checklists. At the end of the workshop, you will get access to my slides, but also to checklists, cheat sheets and design tools to apply to your own designs.
-
-
-
-What will attendees learn?
-
-
-
-
-How to prevent fundamental accessibility issues in 4 areas: Visual design, interactions, navigation, and content availability.
-
-
-
-How to design mockups of components and pages that take accessibility guidelines into account.
-
-
-
-Understand what (future) accessibility issues designers can already preemptively fix in mockups.
-
-
-
-Develop new skills for reviewing designs, identifying accessibility problems in existing design mockups, and resolving them.
-
-
-
-Understand how to foster better team communication about accessibility by using design documentation.
-
-
-
-
-Who is the workshop for?
-
-
-
-
-Designers who want to learn more about accessibility and how to improve it.
-
-
-
-Designers who need to communicate accessibility best practices to their development teams.
-
-
-
-Coders who work with designers and want better communication around the topic of accessibility requirements.
-
-
-
-Project people (POs, PMs) who want to push accessibility on a project and need to have designers and developers collaborate on accessibility and interactions and need tools.
-
-
-
-
-What are the attendee requirements?
-
-
-
-
-You don’t need any specific accessibility knowledge to attend, but you will need to be familiar with using a design tool for the workshop. We will use Figma for the exercises.
-
-
-
-You’ll also need a computer (Mac or Windows) with the following app installed: tpgi.com/color-contrast-checker.
 
 
 ## Tags
 
-Design Thinking &amp; UX, Frontend Dev, Research
+Business &amp; Growth, Design Thinking &amp; UX, Frontend Dev, Marketing
 
 ## Session Focused on
 
-Web Development: 40%, Design & UX: 100%, Marketing: 20%, Business: 40%
+Web Development: 60%, Design & UX: 100%, Marketing: 100%, Business: 100%
 
 ## Session Presenter
 
-Stéphanie Walter
+Karel Navrátil
 
 ## Session Presenter Bio
 
-Stéphanie is a UX researcher and strategist based in Luxembourg with over 13 years of experience, specialised in enterprise UX, inclusive design, and accessibility. She teaches, speaks, and writes about design, UX research, cognitive biases, and the design-dev relationship, among other topics. She enjoys good tea, bike rides, and drawing illustrations. Her D&amp;D alignment is chaotic neutral, and she is better at keeping her teammates alive in video games than her plants, though she makes an effort. 🌱 Feel free to reach out to her with your research and design questions!
+Karel has been in the legal world for 10 years but has worked with front-end and design even longer. As an attorney at law, he specialises in websites and the online world. Thanks to his tech background, Karel translates complex EU online regulations into clear, practical insights — focusing on real-world solutions rather than just theory.
 
 ## Session Details
 
 ### Date
 
-May 30, 2025 9:30 am
+May 29, 2025 3:00 pm
 
 ### Duration
 
-480 Minutes
+40 Minutes
 
 ### Specific Location
 
-MSD, Riverview Building (Room 1)
+Marble Hall
 
 ### General Localtion
 
@@ -3123,6 +3604,305 @@ May 28, 2025 1:20 pm
 ### Specific Location
 
 Marble Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Learn or die: 11 steps to create a strong learning and growth culture in your company
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/learn-or-die-11-steps-to-create-a-strong-learning-and-growth-culture-in-your-company/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Get ready to move your company beyond basic Coursea and Udemy courses!&nbsp; To build strong learning systems that attract true talent, it’s imperative to establish mentor networks, create knowledge-sharing platforms, run cross-team exposure programs, and build communities of practice. In this talk, Marian will share 11 practical steps for transforming your company's learning culture, backed by specific KPIs and real-world implementation strategies. You'll learn exactly how to measure success – from tracking conference attendance rates to measuring knowledge-sharing effectiveness — along with actionable frameworks for companies, managers, and individuals.
+
+
+
+
+
+## Tags
+
+Business &amp; Growth, Future of Work, Performance
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 20%, Marketing: 20%, Business: 100%
+
+## Session Presenter
+
+Marian Kamenistak
+
+## Session Presenter Bio
+
+Marian is building Silicon Valley in Central Europe. He's the Founder and Chief Coach of the Engineering Leaders Community, which boasts more than a thousand members. Marian is an ex-Toptal, top 3% developer, an ex-principal architect from Silicon Valley, and a former VP of Engineering at a $1bn+ unicorn, who has mentored over 120+ engineering managers, directors, and CTOs.
+
+## Session Details
+
+### Date
+
+May 29, 2025 5:20 pm
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Marble Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Free Workshop: Build your AI marketing department
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/free-workshop-build-your-ai-marketing-department/
+
+## Session Type
+
+Free Workshop
+
+## Talk Description
+
+
+
+.workshopScheduled_label {
+    padding-left: 0.25rem;
+}
+#session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(1){
+    border-left: 1px solid var(--webx-ice-50);
+    border-right: 1px solid var(--webx-ice-50);
+}
+@media screen and (min-width: 782px) {
+    .grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 {
+        left: 12.5%;
+        position: relative;
+        border-left: 1px solid var(--webx-ice-50);
+    }
+}
+    #session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(3){
+        display:none;
+    }
+
+
+
+#session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(1) > div.workshopScheduled_detail.px-2 > p::after {
+    content: "TBC";
+}
+
+
+
+
+
+
+AI is not ChatGPT — especially if you want to gain real firepower for marketing instead of occasional text generation and brainstorming. But it is a great start. In this workshop, come prepared for Marek to change your entire perspective on what tools and language models you can use them. He’ll show you how to combine them to generate higher-quality outputs and the best ways to interconnect and automate them to minimise your work — all while improving the quality of your outputs in less time.
+
+
+
+
+
+
+
+What will attendees learn?
+
+
+
+Forget prompting in ChatGPT. You'll expand your toolkit with tools that are essential for AI marketing in 2025. You'll learn how to connect and use them to make your outputs way better. We'll walk through how to extract data from websites, clean it and enrich it. How to generate briefs and procedures. And how to bring it all together to produce a great output at the end. Not once, not randomly. But repeatedly, consistently and in bulk.
+
+
+
+Who is the workshop for?
+
+
+
+The workshop is not necessarily just for marketers. It's also for owners, sales... You can freely apply the principles and techniques in other areas than marketing. If you have a small marketing department, limited budget or a lack of time - this is the workshop for you. If you've been experimenting with language models in your work for a while and want to move forward - this is the workshop for you.
+
+
+
+What are the attendee requirements?
+
+
+
+Your own computer. Account in Firecrawl and Claude / ChatGPT. Installed desktop application for Claude would be an advantage. Accounts are sufficient even in the free version, but with the paid version you will be sure not to hit any limits.
+
+
+
+How to register for this workshop?
+
+
+
+This workshop is included in the conference ticket. The registration is on first come, first served basis (maximum capacity of 50 people).
+
+
+
+
+
+## Tags
+
+AI &amp; ML &amp; Bots, Content, Future of Work, Marketing
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 60%, Marketing: 100%, Business: 80%
+
+## Session Presenter
+
+Marek Šimkovský
+
+## Session Presenter Bio
+
+Marek is an experienced designer with over 12 years of expertise in design and marketing. As Lead Designer at House of Řezáč, he heads up a design team that has delivered successful digital projects for brands like TON, Konica Minolta, the city of Brno, and Masaryk University. He also creates content for House of Řezáč's educational programs, facilitating workshops on AI that have attracted more than 400 hundreds professionals from marketing, design, and various other fields.
+
+## Session Details
+
+### Date
+
+May 29, 2025 3:00 pm
+
+### Duration
+
+110 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Free Workshop: React Compiler in action!
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/free-workshop-react-compiler-in-action/
+
+## Session Type
+
+Free Workshop
+
+## Talk Description
+
+
+
+.workshopScheduled_label {
+    padding-left: 0.25rem;
+}
+#session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(1){
+    border-left: 1px solid var(--webx-ice-50);
+    border-right: 1px solid var(--webx-ice-50);
+}
+@media screen and (min-width: 782px) {
+    .grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 {
+        left: 12.5%;
+        position: relative;
+        border-left: 1px solid var(--webx-ice-50);
+    }
+}
+    #session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(3){
+        display:none;
+    }
+
+
+
+#session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(1) > div.workshopScheduled_detail.px-2 > p::after {
+    content: "TBC";
+}
+
+
+
+
+
+
+The React Compiler is meant to make developers' lives easier, allowing them to write business logic in applications and stop dealing with manual performance optimisation techniques like memoisation. But is this really the case? Does the React Compiler solve all problems and, if so, at what cost? Is it truly a game changer, or just a fad?
+
+
+
+
+
+
+
+In this hands-on workshop, Martin will explore how the React Compiler operates and what to expect from it. He’ll answer these questions using real-world examples. He’ll also show you how to integrate the compiler into an existing project and measure its impact.
+
+
+
+What will attendees learn?
+
+
+
+How to integrate and use the React Compiler and measure its impact.
+
+
+
+Who is the workshop for?
+
+
+
+React developers, JavaScript developers, and tech leaders.
+
+
+
+What are the attendee requirements?
+
+
+
+A computer and at least basic React knowledge.
+
+
+
+How to register for this workshop?
+
+
+
+This workshop is included in the conference ticket. The registration is on first come, first served basis (maximum capacity of 50 people).
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Frontend Dev, Performance
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 40%
+
+## Session Presenter
+
+Martin Krištof
+
+## Session Presenter Bio
+
+Martin is a staff engineer in the prioritisation team at Productboard and a full-stack developer specialising in React. Beyond his primary role, he shares his expertise in React and testing through training sessions and online courses. In his free time, he enjoys spending time with his wife and kids, staying active with sports, indulging in good food, and listening to rock music.
+
+## Session Details
+
+### Date
+
+May 29, 2025 1:00 pm
+
+### Duration
+
+110 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
 
 ### General Localtion
 
@@ -3249,58 +4029,53 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Free Workshop: React Compiler in action!
+Premium Workshop: Accessibility for designers &#8211; from mockups to documentation
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/free-workshop-react-compiler-in-action/
+https://webexpo.net/prague2025/sessions/premium-workshop-accessibility-for-designers-from-mockups-to-documentation/
 
 ## Session Type
 
-Free Workshop
+Premium Workshop
 
 ## Talk Description
 
-
-
-.workshopScheduled_label {
-    padding-left: 0.25rem;
-}
-#session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(1){
-    border-left: 1px solid var(--webx-ice-50);
-    border-right: 1px solid var(--webx-ice-50);
-}
-@media screen and (min-width: 782px) {
-    .grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 {
-        left: 12.5%;
-        position: relative;
-        border-left: 1px solid var(--webx-ice-50);
-    }
-}
-    #session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(3){
-        display:none;
-    }
+Accessibility is often put on the plate of developers. But, a lot of accessibility issues can be caught and avoided in the mockups and design phase, by following best practices such as WCAG guidelines. If you’ve never heard of it, you are in the right place!&nbsp;
 
 
 
-#session_schedule > div.session-schedule > div.grid.grid-cols-1.text-left.md\:grid-cols-4.md\:text-center.md\:-mx-\[1rem\].mb-2 > div:nth-child(1) > div.workshopScheduled_detail.px-2 > p::after {
-    content: "TBC";
-}
+In this workshop, we’ll explore how to identify and address design issues early on, ensuring accessibility from the start. Things like: are we achieving the right contrast ratio, and are colours being used effectively? 
 
 
 
 
 
 
-The React Compiler is meant to make developers' lives easier, allowing them to write business logic in applications and stop dealing with manual performance optimisation techniques like memoisation. But is this really the case? Does the React Compiler solve all problems and, if so, at what cost? Is it truly a game changer, or just a fad?
-
-
-
-In this hands-on workshop, Martin will explore how the React Compiler operates and what to expect from it. He’ll answer these questions using real-world examples. He’ll also show you how to integrate the compiler into an existing project and measure its impact.
 
 
 
 
+
+
+https://youtube.com/shorts/ahnhn3oxH7U?feature=share
+
+
+
+
+
+
+
+
+But colours are just the tip of the iceberg!&nbsp; What about typography, is this text easy to read? Forms are also a crucial aspect of accessibility: I’ll teach you how to make them more inclusive, from error prevention to recovery and beyond. We’ll focus (haha pun intended) on essential elements like keyboard navigation, gesture controls, and drag-and-drop functionality—key factors in designing and documenting complex components for users with diverse disabilities. We’ll check screen reader usage and how to build and document a strong information architecture using headings, titles, and identifying landmarks. We’ll cover alternatives to images, what designers can do about that, and multimedia, audio, video content, to charts and graphs.&nbsp;
+
+
+
+The goal of this 1 day workshop is to equip you with the theory, but also the tools to help you audit, design, and document accessible mockups for your products and services. And to communicate it better with your development teams.
+
+
+
+This is a hands-on workshop, we will work in Figma, in small groups, with different plugins, tools, and checklists. At the end of the workshop, you will get access to my slides, but also to checklists, cheat sheets and design tools to apply to your own designs.
 
 
 
@@ -3308,7 +4083,25 @@ What will attendees learn?
 
 
 
-How to integrate and use the React Compiler and measure its impact.
+
+How to prevent fundamental accessibility issues in 4 areas: Visual design, interactions, navigation, and content availability.
+
+
+
+How to design mockups of components and pages that take accessibility guidelines into account.
+
+
+
+Understand what (future) accessibility issues designers can already preemptively fix in mockups.
+
+
+
+Develop new skills for reviewing designs, identifying accessibility problems in existing design mockups, and resolving them.
+
+
+
+Understand how to foster better team communication about accessibility by using design documentation.
+
 
 
 
@@ -3316,7 +4109,21 @@ Who is the workshop for?
 
 
 
-React developers, JavaScript developers, and tech leaders.
+
+Designers who want to learn more about accessibility and how to improve it.
+
+
+
+Designers who need to communicate accessibility best practices to their development teams.
+
+
+
+Coders who work with designers and want better communication around the topic of accessibility requirements.
+
+
+
+Project people (POs, PMs) who want to push accessibility on a project and need to have designers and developers collaborate on accessibility and interactions and need tools.
+
 
 
 
@@ -3324,45 +4131,864 @@ What are the attendee requirements?
 
 
 
-A computer and at least basic React knowledge.
+
+You don’t need any specific accessibility knowledge to attend, but you will need to be familiar with using a design tool for the workshop. We will use Figma for the exercises.
 
 
 
-How to register for this workshop?
+You’ll also need a computer (Mac or Windows) with the following app installed: tpgi.com/color-contrast-checker.
 
-
-
-This workshop is included in the conference ticket. The registration is on first come, first served basis (maximum capacity of 50 people).
 
 ## Tags
 
-Backend Dev, Business &amp; Growth, Frontend Dev, Performance
+Design Thinking &amp; UX, Frontend Dev, Research
 
 ## Session Focused on
 
-Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 40%
+Web Development: 40%, Design & UX: 100%, Marketing: 20%, Business: 40%
 
 ## Session Presenter
 
-Martin Krištof
+Stéphanie Walter
 
 ## Session Presenter Bio
 
-Martin is a staff engineer in the prioritisation team at Productboard and a full-stack developer specialising in React. Beyond his primary role, he shares his expertise in React and testing through training sessions and online courses. In his free time, he enjoys spending time with his wife and kids, staying active with sports, indulging in good food, and listening to rock music.
+Stéphanie is a UX researcher and strategist based in Luxembourg with over 13 years of experience, specialised in enterprise UX, inclusive design, and accessibility. She teaches, speaks, and writes about design, UX research, cognitive biases, and the design-dev relationship, among other topics. She enjoys good tea, bike rides, and drawing illustrations. Her D&amp;D alignment is chaotic neutral, and she is better at keeping her teammates alive in video games than her plants, though she makes an effort. 🌱 Feel free to reach out to her with your research and design questions!
 
 ## Session Details
 
 ### Date
 
-May 29, 2025 1:00 pm
+May 30, 2025 9:30 am
 
 ### Duration
 
-110 Minutes
+480 Minutes
+
+### Specific Location
+
+MSD, FIVE Office Building (Room 2)
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+🇨🇿 Live recording of the podcast “Vzhůru Dolů” (in Czech)
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/live-recording-of-the-podcast-vzhuru-dolu-in-czech-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+You’re invited to join the live recording of the Czech podcast “Vzhůru Dolů”, hosted by Martin Michálek and Robin Pokorný. Delve into discussions on web development, technology, and the key takeaways from the first day of the WebExpo Conference.
+
+
+
+This session is in Czech.
+
+## Tags
+
+Backend Dev, Frontend Dev, Performance
+
+## Session Focused on
+
+Web Development: 80%, Design & UX: 80%, Marketing: 40%, Business: 40%
+
+## Session Presenter
+
+Martin Michálek
+
+## Session Presenter Bio
+
+Martin je konzultant rychlosti webu s více než dvacetiletou praxí vývojáře a nadšením pro moderní frontend. Autor blogu Vzhůru dolů a několika knih. Se zrychlováním pomáhá Livesportu, iRozhlasu a desítkám menších webů, nyní s kolegy pod značkou PageSpeed.cz.
+
+## Session Details
+
+### Date
+
+April 22, 2024 6:00 pm
+
+### Duration
+
+60 Minutes
 
 ### Specific Location
 
 Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Discomfort Zone
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/discomfort-zone-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Life isn’t all rainbows, unicorns or idealistic LinkedIn success stories. Sometimes things go south. Come to the Discomfort Zone to discuss taboo topics with Riki Fridrich and René Napravil.
+
+
+
+
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Design Thinking &amp; UX, Frontend Dev, Future of Work
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Riki Fridrich
+
+## Session Presenter Bio
+
+For the last 20 years, Riki has been writing frontend code, mostly Javascript. In his spare time, he likes cooking and going for long walks while listening to podcasts. He hates JQuery.
+
+## Session Details
+
+### Date
+
+May 28, 2025 10:00 am
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Discussion: Accessibility in practice &#8211; why customer experience trumps legal requirements
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/discussion-accessibility-in-practice/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+The panel discussion will address the practical aspects of accessibility, emphasising why customer experience is more impactful than legal compliance alone.
+
+
+
+
+
+## Tags
+
+Business &amp; Growth, Future of Work, Service Design &amp; CX, Sustainability &amp; Ethics
+
+## Session Focused on
+
+Web Development: 20%, Design & UX: 80%, Marketing: 0%, Business: 80%
+
+## Session Presenter
+
+Radek Pavlíček
+
+## Session Presenter Bio
+
+Radek is a renowned accessibility and assistive technology expert with more than 20 years of experience helping others to make their products and services accessible.
+
+Radek is a member of the International Association of Accessibility Professionals and a Certified Professional in Web Accessibility.
+
+## Session Details
+
+### Date
+
+May 28, 2025 1:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Mentor café: Meet &amp; chat
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/mentor-hour-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Looking for expert advice or just a friendly chat with someone who’s been there, and done that? Drop by the Mentor Café and meet top industry professionals who are happy to share their insights, experiences, and maybe even a few insider tips. Whether you have a burning question, need guidance on your career, or just want to expand your network, this is the perfect place to connect.
+
+
+
+Our mentors are happy to help with:
+
+
+
+👋 Jana: #UX #ProductDesign #Discovery #UsabilityTesting #DesignProcess #Mentoring
+
+
+
+👋 Viktor: Leadership #Management #People #Process #OperationalModel #EmpoweredTeams #PublicSpeaking #Communities
+
+
+
+👋 Dominik: #Backend #Microservices #NodeJS #TypeScript #PostgreSQL #RabbitMQ #SoftwareArchitecture
+
+
+
+
+
+
+
+Not sure how to start the conversation? No problem! Here are some Icebreaker questions you can ask:
+
+
+
+Professional questions
+
+
+
+
+Has there been a defining “aha!” moment in your career?
+
+
+
+What skills in your field are most valuable in today’s job market?
+
+
+
+How do you stay up to date with industry trends and new technologies?
+
+
+
+What frameworks or tools do you use to make better decisions?
+
+
+
+How do you handle failure or setbacks in your work?
+
+
+
+
+
+
+
+
+Personal / Lighthearted questions
+
+
+
+
+If you weren’t in your current career, what would you love to be doing instead?
+
+
+
+Have you ever had a travel experience that completely changed your perspective?
+
+
+
+What’s the most random or unexpected thing that brings you joy?
+
+
+
+Do you have a favourite productivity hack or daily ritual?
+
+
+
+If you could invent a piece of technology to make your life easier, what would it be?
+
+
+
+
+Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
+
+
+
+
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Design Thinking &amp; UX, Frontend Dev, Future of Work
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 60%, Marketing: 60%, Business: 60%
+
+## Session Presenter
+
+Jana Korbičková
+
+## Session Presenter Bio
+
+Jana helps designers deal with the real challenges of the design process in agile development – tight deadlines, changes in priorities, and the struggle between using hotfixes over strategic decisions. Based on her experiences working on projects at Jobs Round the Corner, Jobs, Seduo, Slevomat, and small businesses, she regularly shares both her successful experiences and lessons learned. Let’s talk about your challenges and find the best way to tackle them.
+
+## Session Details
+
+### Date
+
+May 28, 2025 10:40 am
+
+### Duration
+
+80 Minutes
+
+### Specific Location
+
+Lucerna Café
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Discomfort Zone: Creating a tier list for web developers
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/discomfort-zone-2025-7/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Life isn’t all rainbows, unicorns or idealistic LinkedIn success stories. Sometimes things go south. Come to the Discomfort Zone to discuss taboo topics with Riki Fridrich and Tomáš Litera.
+
+
+
+So let’s zoom in on one of those uncomfortable moments that might hit close to home:
+
+
+
+Let’s end the day with some fun. We’ll take on all the biggest topics in web development — React, Agile, UX designers, and more — and rank them on a tier list. S-tier or F-tier? Fantastic or garbage? You’ll help us decide. Bring your hot takes! We might even let you add your own favourites to the board.
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Design Thinking &amp; UX, Frontend Dev
+
+## Session Focused on
+
+Web Development: 80%, Design & UX: 80%, Marketing: 0%, Business: 40%
+
+## Session Presenter
+
+Riki Fridrich
+
+## Session Presenter Bio
+
+For the last 20 years, Riki has been writing frontend code, mostly Javascript. In his spare time, he likes cooking and going for long walks while listening to podcasts. He hates JQuery.
+
+## Session Details
+
+### Date
+
+May 28, 2025 5:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Discomfort Zone: So…you want to become a manager
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/discomfort-zone-2025-6/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Life isn’t all rainbows, unicorns or idealistic LinkedIn success stories. Sometimes things go south. Come to the Discomfort Zone to discuss taboo topics with Riki Fridrich and Michael Žabka.
+
+
+
+So let’s zoom in on one of those uncomfortable moments that might hit close to home:
+
+
+
+As a senior developer, you’ve seen it all. Projects go off the rails all the time, not due to bad code but bad management. And every time, you think: “I could do this so much better. Maybe it’s time to prove it!” Michael Žabka took the plunge, and he’s ready to share what he learned — no sugarcoating. Come listen to his advice, before you find out the hard way.
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Frontend Dev, Future of Work
+
+## Session Focused on
+
+Web Development: 80%, Design & UX: 0%, Marketing: 0%, Business: 40%
+
+## Session Presenter
+
+Riki Fridrich
+
+## Session Presenter Bio
+
+For the last 20 years, Riki has been writing frontend code, mostly Javascript. In his spare time, he likes cooking and going for long walks while listening to podcasts. He hates JQuery.
+
+## Session Details
+
+### Date
+
+May 28, 2025 4:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Discomfort Zone: Working from home — a career killer?
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/discomfort-zone-2025-5/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Life isn’t all rainbows, unicorns or idealistic LinkedIn success stories. Sometimes things go south. Come to the Discomfort Zone to discuss taboo topics with Riki Fridrich and Radek Vokál.
+
+
+
+So let’s zoom in on one of those uncomfortable moments that might hit close to home:
+
+
+
+OK, the pandemic sucked, but it gave us remote work — and we're not giving that up without a fight. No more long commutes to the office, pants are optional…what’s not to love? But what if the bosses are actually right this time? Is working from home slowly wrecking your career? Radek Vokál thinks so. Come join the debate and see if he can convince you to ditch the sweatpants and show up at the office IRL.
+
+
+
+
+
+## Tags
+
+Business &amp; Growth, Future of Work
+
+## Session Focused on
+
+Web Development: 40%, Design & UX: 40%, Marketing: 40%, Business: 100%
+
+## Session Presenter
+
+Riki Fridrich
+
+## Session Presenter Bio
+
+For the last 20 years, Riki has been writing frontend code, mostly Javascript. In his spare time, he likes cooking and going for long walks while listening to podcasts. He hates JQuery.
+
+## Session Details
+
+### Date
+
+May 28, 2025 2:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Discomfort Zone: How to survive the jump from corporate to small biz
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/discomfort-zone-2025-4/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Life isn’t all rainbows, unicorns or idealistic LinkedIn success stories. Sometimes things go south. Come to the Discomfort Zone to discuss taboo topics with Riki Fridrich and Martin Cízler.
+
+
+
+So let’s zoom in on one of those uncomfortable moments that might hit close to home:
+
+
+
+Tired of being a cog in the corporate machine? Sick of pointless processes and feeling invisible? Thinking about jumping ship to something smaller, leaner, more meaningful? Before you make the leap, come listen to Martin Cízler’s experience. He’ll reveal the skills you’ll need, the compromises you’ll make, and the hidden challenges that might just break you. Let's see if you still think it’s worth it after this discussion.
+
+## Tags
+
+Business &amp; Growth, Future of Work
+
+## Session Focused on
+
+Web Development: 40%, Design & UX: 40%, Marketing: 40%, Business: 80%
+
+## Session Presenter
+
+Riki Fridrich
+
+## Session Presenter Bio
+
+For the last 20 years, Riki has been writing frontend code, mostly Javascript. In his spare time, he likes cooking and going for long walks while listening to podcasts. He hates JQuery.
+
+## Session Details
+
+### Date
+
+May 28, 2025 3:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Discomfort Zone
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/discomfort-zone-2025-3/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Life isn’t all rainbows, unicorns or idealistic LinkedIn success stories. Sometimes things go south. Come to the Discomfort Zone to discuss taboo topics with Riki Fridrich and Michael Hrádek.
+
+
+
+
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Design Thinking &amp; UX, Frontend Dev, Future of Work
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Riki Fridrich
+
+## Session Presenter Bio
+
+For the last 20 years, Riki has been writing frontend code, mostly Javascript. In his spare time, he likes cooking and going for long walks while listening to podcasts. He hates JQuery.
+
+## Session Details
+
+### Date
+
+May 28, 2025 12:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Discomfort Zone: Legacy versus fresh
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/discomfort-zone-2025-2/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Life isn’t all rainbows, unicorns or idealistic LinkedIn success stories. Sometimes things go south. Come to the Discomfort Zone to discuss taboo topics with Riki Fridrich.
+
+
+
+So let’s zoom in on one of those uncomfortable moments that might hit close to home:
+
+
+
+All mature organisations are running a portfolio of legacy applications. There is always a brilliant idea to restart from scratch because this time all will be perfect. What are the benefits and drawbacks of such a decision?
+
+
+
+
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Frontend Dev
+
+## Session Focused on
+
+Web Development: 80%, Design & UX: 0%, Marketing: 0%, Business: 60%
+
+## Session Presenter
+
+Riki Fridrich
+
+## Session Presenter Bio
+
+For the last 20 years, Riki has been writing frontend code, mostly Javascript. In his spare time, he likes cooking and going for long walks while listening to podcasts. He hates JQuery.
+
+## Session Details
+
+### Date
+
+May 28, 2025 11:00 am
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Talk for tech leaders
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/talk-for-tech-leaders/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+More details will be announced soon.
+
+## Tags
+
+Business &amp; Growth, Future of Work
+
+## Session Focused on
+
+Web Development: 20%, Design & UX: 40%, Marketing: 60%, Business: 100%
+
+## Session Presenter
+
+Speaker
+
+## Session Presenter Bio
+
+
+
+## Session Details
+
+### Date
+
+May 29, 2025 11:00 am
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Talk focus on marketing
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/talk-focus-on-marketing/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+More details will be announced soon.
+
+## Tags
+
+Business &amp; Growth, Marketing
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 100%, Business: 80%
+
+## Session Presenter
+
+Speaker
+
+## Session Presenter Bio
+
+
+
+## Session Details
+
+### Date
+
+May 28, 2025 3:20 pm
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Marble Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Talk focus on security
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/talk-focus-on-security/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+More details will be announced soon.
+
+
+
+
+
+## Tags
+
+Backend Dev, Frontend Dev, Security
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Speaker
+
+## Session Presenter Bio
+
+
+
+## Session Details
+
+### Date
+
+May 28, 2025 2:20 pm
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Lucerna Cinema
 
 ### General Localtion
 
@@ -3391,11 +5017,11 @@ Book your class here:
 
 
 
-Welcome your second day at the WebExpo Conference with a yoga session. Engage in physical and breathing exercises for everyday practice in front of your desk. Allow your body and mind to relax after the first busy day and get energised for day two of the exciting program. 
+Welcome your second day at the WebExpo Conference with a yoga session. Engage in physical and breathing exercises for everyday practice in front of your desk. Allow your body and mind to relax after the first busy day and get energised for day two of the exciting program.&nbsp;
 
 
 
-🎫 Secure your spot by purchasing a yoga ticket in advance. Capacity is limited to 12 people.
+🎫 Secure your spot by purchasing a yoga ticket in advance. Capacity is limited to keep the session personal and focused.
 
 
 
@@ -3450,6 +5076,1535 @@ May 29, 2025 8:30 am
 ### Specific Location
 
 Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Mentor café: Meet &amp; chat
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/mentor-hour-2025-6/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Looking for expert advice or just a friendly chat with someone who’s been there, and done that? Drop by the Mentor Café and meet top industry professionals who are happy to share their insights, experiences, and maybe even a few insider tips. Whether you have a burning question, need guidance on your career, or just want to expand your network, this is the perfect place to connect.
+
+
+
+
+
+
+
+Not sure how to start the conversation? No problem! Here are some Icebreaker questions you can ask:
+
+
+
+Professional questions
+
+
+
+
+Has there been a defining “aha!” moment in your career?
+
+
+
+What skills in your field are most valuable in today’s job market?
+
+
+
+How do you stay up to date with industry trends and new technologies?
+
+
+
+What frameworks or tools do you use to make better decisions?
+
+
+
+How do you handle failure or setbacks in your work?
+
+
+
+
+
+
+
+
+Personal / Lighthearted questions
+
+
+
+
+If you weren’t in your current career, what would you love to be doing instead?
+
+
+
+Have you ever had a travel experience that completely changed your perspective?
+
+
+
+What’s the most random or unexpected thing that brings you joy?
+
+
+
+Do you have a favourite productivity hack or daily ritual?
+
+
+
+If you could invent a piece of technology to make your life easier, what would it be?
+
+
+
+
+Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
+
+## Tags
+
+AI &amp; ML &amp; Bots, Business &amp; Growth, Design Thinking &amp; UX, Frontend Dev, Future of Work
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 60%, Marketing: 60%, Business: 60%
+
+## Session Presenter
+
+Anna Bohoněk
+
+## Session Presenter Bio
+
+Anna is a seasoned professional and co-founder of the Workplace Design Institute. She has spent the last five years in high-growth tech startups, using her diverse background to spearhead marketing, business development and sales initiatives. Known for her creativity, Anna excels in innovative technology use, prompt engineering, and no-code automation. She serves on the non-executive board of Meditorial, advises the micro teambuilding solution MeetyMeety, and shares her insights about generative AI applications and use cases as a European Leadership Academic Institute lecturer.
+
+## Session Details
+
+### Date
+
+May 29, 2025 2:40 pm
+
+### Duration
+
+80 Minutes
+
+### Specific Location
+
+Lucerna Café
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Mentor café: Meet &amp; chat
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/mentor-hour-2025-5/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Looking for expert advice or just a friendly chat with someone who’s been there, and done that? Drop by the Mentor Café and meet top industry professionals who are happy to share their insights, experiences, and maybe even a few insider tips. Whether you have a burning question, need guidance on your career, or just want to expand your network, this is the perfect place to connect.
+
+
+
+Our mentors are happy to help with:
+
+
+
+👋 Anton: #TeamManagement #TeamCollaboration #BrandLedGrowth #DataDrivenDecision #ProcessOptimisation #Leadership
+
+
+
+👋 Peter: #AI #TeamManagement #ScalingTeams #MachineLearning #NLP #MarketingAI #GenerativeAI
+
+
+
+
+
+
+
+Not sure how to start the conversation? No problem! Here are some Icebreaker questions you can ask:
+
+
+
+Professional questions
+
+
+
+
+Has there been a defining “aha!” moment in your career?
+
+
+
+What skills in your field are most valuable in today’s job market?
+
+
+
+How do you stay up to date with industry trends and new technologies?
+
+
+
+What frameworks or tools do you use to make better decisions?
+
+
+
+How do you handle failure or setbacks in your work?
+
+
+
+
+
+
+
+
+Personal / Lighthearted questions
+
+
+
+
+If you weren’t in your current career, what would you love to be doing instead?
+
+
+
+Have you ever had a travel experience that completely changed your perspective?
+
+
+
+What’s the most random or unexpected thing that brings you joy?
+
+
+
+Do you have a favourite productivity hack or daily ritual?
+
+
+
+If you could invent a piece of technology to make your life easier, what would it be?
+
+
+
+
+Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
+
+## Tags
+
+AI &amp; ML &amp; Bots, Business &amp; Growth, Data, Design Thinking &amp; UX, Future of Work
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 60%, Marketing: 60%, Business: 60%
+
+## Session Presenter
+
+Anton Antoniuk
+
+## Session Presenter Bio
+
+With over a decade of experience leading design teams, Anton specializes in brand-led growth, team development, and workflow optimization. His background in advertising agencies gives him a deep understanding of the design process, allowing him to streamline workflows and drive impactful results. Focused on innovation and efficiency, Anton enhances team collaboration while ensuring smooth, effective processes that elevate brand presence and performance.
+
+## Session Details
+
+### Date
+
+May 29, 2025 12:40 pm
+
+### Duration
+
+80 Minutes
+
+### Specific Location
+
+Lucerna Café
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Mentor café: Meet &amp; chat
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/mentor-hour-2025-4/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Looking for expert advice or just a friendly chat with someone who’s been there, and done that? Drop by the Mentor Café and meet top industry professionals who are happy to share their insights, experiences, and maybe even a few insider tips. Whether you have a burning question, need guidance on your career, or just want to expand your network, this is the perfect place to connect.
+
+
+
+Our mentors are happy to help with:
+
+
+
+👋 Honza: #UXCareers #HiringTips #JobSearch #UXMentorship #UXLeadership #UX #ProductDesign #DesignProcess #Discovery #DesignTeam #LearningUX
+
+
+
+👋 Robert: #MachineLearning, #RecommendationSystems, #EcommerceChat, #DataForAI
+
+
+
+👋 Kateřina: #Communities #CommunitiesOfPractice #Collaboration #Engagement #Branding
+
+
+
+
+
+
+
+Not sure how to start the conversation? No problem! Here are some Icebreaker questions you can ask:
+
+
+
+Professional questions
+
+
+
+
+Has there been a defining “aha!” moment in your career?
+
+
+
+What skills in your field are most valuable in today’s job market?
+
+
+
+How do you stay up to date with industry trends and new technologies?
+
+
+
+What frameworks or tools do you use to make better decisions?
+
+
+
+How do you handle failure or setbacks in your work?
+
+
+
+
+
+
+
+
+Personal / Lighthearted questions
+
+
+
+
+If you weren’t in your current career, what would you love to be doing instead?
+
+
+
+Have you ever had a travel experience that completely changed your perspective?
+
+
+
+What’s the most random or unexpected thing that brings you joy?
+
+
+
+Do you have a favourite productivity hack or daily ritual?
+
+
+
+If you could invent a piece of technology to make your life easier, what would it be?
+
+
+
+
+Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
+
+## Tags
+
+AI &amp; ML &amp; Bots, Business &amp; Growth, Data, Design Thinking &amp; UX, Future of Work
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 60%, Marketing: 60%, Business: 60%
+
+## Session Presenter
+
+Honza Murin
+
+## Session Presenter Bio
+
+Honza offers tips and tricks for UX job seekers, drawing from his experience as a hiring manager and leader of UX teams designing job search portals. He also co-organizes UX Summer Camp, an intensive week-long course that helps people kickstart their UX careers. Connect with him for practical advice to boost your UX career.
+
+## Session Details
+
+### Date
+
+May 29, 2025 10:40 am
+
+### Duration
+
+80 Minutes
+
+### Specific Location
+
+Lucerna Café
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Mentor café: Meet &amp; chat
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/mentor-hour-2025-2/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Looking for expert advice or just a friendly chat with someone who’s been there, and done that? Drop by the Mentor Café and meet top industry professionals who are happy to share their insights, experiences, and maybe even a few insider tips. Whether you have a burning question, need guidance on your career, or just want to expand your network, this is the perfect place to connect.
+
+
+
+Our mentors are happy to help with:
+
+
+
+👋 Daria: Education #AIdev #ProductManagement
+
+
+
+👋 Michal: #Backend #SoftwareArchitecture #TeamLead #LowLevel #Efficiency #Readability
+
+
+
+👋 Milan: #DesignLeadership #DesignStrategy #UXMaturity #EarlyDiscovery #DesignerGrowth #DesignOps
+
+
+
+
+
+
+
+Not sure how to start the conversation? No problem! Here are some Icebreaker questions you can ask:
+
+
+
+Professional questions
+
+
+
+
+Has there been a defining “aha!” moment in your career?
+
+
+
+What skills in your field are most valuable in today’s job market?
+
+
+
+How do you stay up to date with industry trends and new technologies?
+
+
+
+What frameworks or tools do you use to make better decisions?
+
+
+
+How do you handle failure or setbacks in your work?
+
+
+
+
+
+
+
+
+Personal / Lighthearted questions
+
+
+
+
+If you weren’t in your current career, what would you love to be doing instead?
+
+
+
+Have you ever had a travel experience that completely changed your perspective?
+
+
+
+What’s the most random or unexpected thing that brings you joy?
+
+
+
+Do you have a favourite productivity hack or daily ritual?
+
+
+
+If you could invent a piece of technology to make your life easier, what would it be?
+
+
+
+
+Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
+
+## Tags
+
+AI &amp; ML &amp; Bots, Backend Dev, Business &amp; Growth, Design Thinking &amp; UX, Future of Work
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 60%, Marketing: 60%, Business: 60%
+
+## Session Presenter
+
+Daria Hvizdalova
+
+## Session Presenter Bio
+
+Daria bridges the gap between technology and nonprofits, specialising in the intersection of applied AI and education. She provides expert guidance on navigating learning and development (L&amp;D) options to help you (and your team) enhance your AI skills.
+
+## Session Details
+
+### Date
+
+May 28, 2025 12:40 pm
+
+### Duration
+
+80 Minutes
+
+### Specific Location
+
+Lucerna Café
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Mentor café: Meet &amp; chat
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/mentor-hour-2025-3/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Looking for expert advice or just a friendly chat with someone who’s been there, and done that? Drop by the Mentor Café and meet top industry professionals who are happy to share their insights, experiences, and maybe even a few insider tips. Whether you have a burning question, need guidance on your career, or just want to expand your network, this is the perfect place to connect.
+
+
+
+Our mentors are happy to help with:
+
+
+
+👋 Šárka: #BusinessGrowth #Leadership #Mentoring #WomenInTech #CareerTransition #LifelongLearning #TechEducation #CommunityBuilding #PublicSpeaking #SingleMother #ProjectManagement #ProgramManagement #Innovation #StrategicThinking #Neurodiversity
+
+
+
+👋 Jakub: ProductDiscovery #DesignThinking #ProductDesign #UserResearch #DesignProcess #Workshops #ServiceDesign #ProductStrategy
+
+
+
+👋 Timothy: Leadership #Management #Mentoring #Coaching #ETL #Typescript #Nodejs #MongoDB #Elasticsearch #Scrum #Agile #Guitar
+
+
+
+
+
+
+
+Not sure how to start the conversation? No problem! Here are some Icebreaker questions you can ask:
+
+
+
+Professional questions
+
+
+
+
+Has there been a defining “aha!” moment in your career?
+
+
+
+What skills in your field are most valuable in today’s job market?
+
+
+
+How do you stay up to date with industry trends and new technologies?
+
+
+
+What frameworks or tools do you use to make better decisions?
+
+
+
+How do you handle failure or setbacks in your work?
+
+
+
+
+
+
+
+
+Personal / Lighthearted questions
+
+
+
+
+If you weren’t in your current career, what would you love to be doing instead?
+
+
+
+Have you ever had a travel experience that completely changed your perspective?
+
+
+
+What’s the most random or unexpected thing that brings you joy?
+
+
+
+Do you have a favourite productivity hack or daily ritual?
+
+
+
+If you could invent a piece of technology to make your life easier, what would it be?
+
+
+
+
+Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
+
+## Tags
+
+Business &amp; Growth, Data, Design Thinking &amp; UX, Frontend Dev, Future of Work, Service Design &amp; CX
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 60%, Marketing: 60%, Business: 60%
+
+## Session Presenter
+
+Šárka Kohoutová
+
+## Session Presenter Bio
+
+Šárka is a driving force for women in tech, empowering them through mentoring and leadership programs. With extensive experience in program management, she fuels business growth by fostering innovation and strategic thinking. As a community builder and public speaker, she inspires and supports attendees in their professional journeys. As a single mother, Šárka is also able to offer valuable insights for navigating career challenges. Driven by her passion for lifelong learning, she also actively champions initiatives like DigiGirlz and Women in Tech.
+
+## Session Details
+
+### Date
+
+May 28, 2025 2:40 pm
+
+### Duration
+
+80 Minutes
+
+### Specific Location
+
+Lucerna Café
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Kids’ corner &amp; parents’ lounge
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/kids-corner-amp-parents-lounge-2025-4/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+
+
+
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Au Pairs
+
+## Session Presenter Bio
+
+Kind and qualified au pairs from Sto skupin.
+
+## Session Details
+
+### Date
+
+May 29, 2025 5:30 pm
+
+### Duration
+
+30 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+3D Printing workshop &amp; kids&#8217; corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/3d-printing-workshop-kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025-2/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Workshop: During the 3D printing workshop (not only for children), Tomáš will explain what 3D printing is, how a 3D printer looks like and how it works. Tomáš will also show how to create a printable model and finally print it. Tomáš prepared for you one more cool thing – he will show you how to make a “real” robotic arm out of cardboard. Required age: 9+
+
+
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Tomáš Kapler
+
+## Session Presenter Bio
+
+Tomáš Kapler is well-known to the public, especially for the CoroVent ventilator project, which he founded and managed at the beginning of the pandemic. He is helping people and companies understand, how they can use artificial intelligence, especially gen AI, for their personal and business growth. Tomáš is also a big fan of 3D technologies and modern scientific education of children, for example, he works at the Education Office of the European Space Agency.
+
+## Session Details
+
+### Date
+
+May 29, 2025 4:00 pm
+
+### Duration
+
+90 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Scratch programming workshop &amp; kids&#8217; corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/scratch-programming-workshop-kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025-2/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Workshop: In Scratch, children will try to create animations and simple games using block programming. Required age: 6+
+
+
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Jakub Balada
+
+## Session Presenter Bio
+
+Jakub co-founded Apify, a web automation startup, and teaches agile methodologies at the University of Economics and the University of South Bohemia. He's also behind several initiatives, such as the non-profit project Hlídač shopů, the Studnice Fest, and the Hacker camp. Jakub also teaches computer science and robotics at a primary school and he will be bringing this experience to some of the youngest participants at WebExpo Kids this year again.
+
+## Session Details
+
+### Date
+
+May 29, 2025 2:15 pm
+
+### Duration
+
+90 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+AI creation factory workshop &amp; kids’ corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/kids-ai-creation-factory-workshop-kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025-2/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Workshop: At the AI workshop, kids will have a chance to explore several generative AI tools. They will learn how to generate images using Midjourney and Ideogram, try out chatting with ChatGPT and Copilot chatbots, and train a machine learning model using Teachable Machine. Required age: 8+
+
+
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Tomáš Kapler
+
+## Session Presenter Bio
+
+Tomáš Kapler is well-known to the public, especially for the CoroVent ventilator project, which he founded and managed at the beginning of the pandemic. He is helping people and companies understand, how they can use artificial intelligence, especially gen AI, for their personal and business growth. Tomáš is also a big fan of 3D technologies and modern scientific education of children, for example, he works at the Education Office of the European Space Agency.
+
+## Session Details
+
+### Date
+
+May 29, 2025 12:30 pm
+
+### Duration
+
+90 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Kids’ corner &amp; parents’ lounge
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/kids-corner-amp-parents-lounge-2025-3/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Au Pairs
+
+## Session Presenter Bio
+
+Kind and qualified au pairs from Sto skupin.
+
+## Session Details
+
+### Date
+
+May 29, 2025 12:00 pm
+
+### Duration
+
+30 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Programming LEGO BOOST and LEGO SPIKE &amp; kids&#8217; corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/programming-lego-boost-kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025-2/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Workshop: With LEGO BOOST and LEGO SPIKE, we will not only build robots, but then we will make them moving with the help of motors and sensors controlled by simple commands. Required age: 5+
+
+
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+
+
+
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Jakub Balada
+
+## Session Presenter Bio
+
+Jakub co-founded Apify, a web automation startup, and teaches agile methodologies at the University of Economics and the University of South Bohemia. He's also behind several initiatives, such as the non-profit project Hlídač shopů, the Studnice Fest, and the Hacker camp. Jakub also teaches computer science and robotics at a primary school and he will be bringing this experience to some of the youngest participants at WebExpo Kids this year again.
+
+## Session Details
+
+### Date
+
+May 29, 2025 10:30 am
+
+### Duration
+
+90 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Kids’ corner &amp; parents’ lounge
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/kids-corner-amp-parents-lounge-2025-2/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Au Pairs
+
+## Session Presenter Bio
+
+Kind and qualified au pairs from Sto skupin.
+
+## Session Details
+
+### Date
+
+May 28, 2025 5:30 pm
+
+### Duration
+
+30 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+3D Printing workshop &amp; kids&#8217; corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/3d-printing-workshop-kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Workshop: During the 3D printing workshop (not only for children), Tomáš will explain what 3D printing is, how a 3D printer looks like and how it works. Tomáš will also show how to create a printable model and finally print it. Tomáš prepared for you one more cool thing – he will show you how to make a “real” robotic arm out of cardboard. Required age: 9+
+
+
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Tomáš Kapler
+
+## Session Presenter Bio
+
+Tomáš Kapler is well-known to the public, especially for the CoroVent ventilator project, which he founded and managed at the beginning of the pandemic. He is helping people and companies understand, how they can use artificial intelligence, especially gen AI, for their personal and business growth. Tomáš is also a big fan of 3D technologies and modern scientific education of children, for example, he works at the Education Office of the European Space Agency.
+
+## Session Details
+
+### Date
+
+May 28, 2025 4:00 pm
+
+### Duration
+
+90 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Programming LEGO BOOST and LEGO SPIKE &amp; kids&#8217; corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/programming-lego-boost-kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Workshop: With LEGO BOOST and LEGO SPIKE, we will not only build robots, but then we will make them moving with the help of motors and sensors controlled by simple commands. Required age: 5+
+
+
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Jakub Balada
+
+## Session Presenter Bio
+
+Jakub co-founded Apify, a web automation startup, and teaches agile methodologies at the University of Economics and the University of South Bohemia. He's also behind several initiatives, such as the non-profit project Hlídač shopů, the Studnice Fest, and the Hacker camp. Jakub also teaches computer science and robotics at a primary school and he will be bringing this experience to some of the youngest participants at WebExpo Kids this year again.
+
+## Session Details
+
+### Date
+
+May 28, 2025 2:15 pm
+
+### Duration
+
+90 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+AI creation factory workshop &amp; kids’ corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/kids-ai-creation-factory-workshop-kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Workshop: At the AI workshop, kids will have a chance to explore several generative AI tools. They will learn how to generate images using Midjourney and Ideogram, try out chatting with ChatGPT and Copilot chatbots, and train a machine learning model using Teachable Machine. Required age: 8+
+
+
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Tomáš Kapler
+
+## Session Presenter Bio
+
+Tomáš Kapler is well-known to the public, especially for the CoroVent ventilator project, which he founded and managed at the beginning of the pandemic. He is helping people and companies understand, how they can use artificial intelligence, especially gen AI, for their personal and business growth. Tomáš is also a big fan of 3D technologies and modern scientific education of children, for example, he works at the Education Office of the European Space Agency.
+
+## Session Details
+
+### Date
+
+May 28, 2025 12:30 pm
+
+### Duration
+
+90 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Kids’ corner &amp; parents’ lounge
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/kids-corner-amp-parents-lounge-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Au Pairs
+
+## Session Presenter Bio
+
+Kind and qualified au pairs from Sto skupin.
+
+## Session Details
+
+### Date
+
+May 28, 2025 12:00 pm
+
+### Duration
+
+30 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Kids&#8217; corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025-2/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+
+
+
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Au Pairs
+
+## Session Presenter Bio
+
+Kind and qualified au pairs from Sto skupin.
+
+## Session Details
+
+### Date
+
+May 29, 2025 9:45 am
+
+### Duration
+
+45 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Scratch programming workshop &amp; kids&#8217; corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/scratch-programming-workshop-kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Workshop: In Scratch, children will try to create animations and simple games using block programming. Required age: 6+
+
+
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Jakub Balada
+
+## Session Presenter Bio
+
+Jakub co-founded Apify, a web automation startup, and teaches agile methodologies at the University of Economics and the University of South Bohemia. He's also behind several initiatives, such as the non-profit project Hlídač shopů, the Studnice Fest, and the Hacker camp. Jakub also teaches computer science and robotics at a primary school and he will be bringing this experience to some of the youngest participants at WebExpo Kids this year again.
+
+## Session Details
+
+### Date
+
+May 28, 2025 10:30 am
+
+### Duration
+
+90 Minutes
+
+### Specific Location
+
+WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Kids&#8217; corner with au pairs &amp; lounge area for parents with babies
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Kids' Corner: If your children are two years or older, they can hang out in our play space with our very own on-site au pairs while you attend talks.
+
+
+
+The Parents’ Coffee Lounge: The perfect hang-out spot for parents with babies and toddlers to rest and have a chat over a cup of coffee. There will be changing facilities and a microwave ready to use.
+
+
+
+WebExpo Tip: Every WebExpo ticket comes with a second free adult entrance to the kids’ and partners' areas, so you can bring the whole family! You can pick up your Parent/Family member badge at any Info Points (the free ticket is not valid for the conference sessions).
+
+
+
+
+
+## Tags
+
+WebExpo Kids
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 0%, Business: 0%
+
+## Session Presenter
+
+Au Pairs
+
+## Session Presenter Bio
+
+Kind and qualified au pairs from Sto skupin.
+
+## Session Details
+
+### Date
+
+May 28, 2025 8:00 am
+
+### Duration
+
+150 Minutes
+
+### Specific Location
+
+WebExpo Kids
 
 ### General Localtion
 

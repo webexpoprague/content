@@ -12,6 +12,53 @@ https://webexpo.net/
 
 
 
+div#countdown {
+    max-width: 630px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    border: #eff4f7 solid 2px;
+    border-radius: 12px;
+    /* position: sticky; */
+    top: 20px;
+    z-index: 1000;
+    height: 40px;
+    overflow: hidden;
+    scale: 1;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+span#countdownHeading {
+    padding: 0;
+}
+
+div#countdown .clock {min-height: auto;display: flex;}
+
+div#countdown .time {padding: 0 2px;height: 100%;line-height: normal;}
+@media (max-width: 768px) {
+    div#countdown {
+        flex-direction: column;
+        height: auto;
+    }
+    div#countdown .heading {
+        margin: 0;
+        text-align: center;
+    }
+    div#countdown br{
+        display:none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
   WebExpo
   
     Conference
@@ -31,17 +78,13 @@ https://webexpo.net/
 
 
 
-
-
-
-
 WHAT IS WEBEXPO?
 
 
 
+
+
 Step into the future of tech with WebExpo
-
-
 
 
 
@@ -63,9 +106,9 @@ SPEAKERS
 
 
 
+
+
 Experts in web-dev, UX &amp; UI, design, AI, data, performance, product, marketing, and more
-
-
 
 
 
@@ -281,7 +324,7 @@ Bundle Ticket – May 28–30 🏆
 
 
 
-3 Days of Ultimate Learning, Practise and New Connections
+3 Days of Ultimate Learning, Practice and New Connections
 
 
 
@@ -633,9 +676,9 @@ THANKS TO OUR PARTNERS
 
 
 
+
+
 We couldn't do this alone
-
-
 
 
 
@@ -663,20 +706,13 @@ https://webexpo.net/prague2025/workshops/
 ## Content
 
 
-Workshops
-
-
-
-Get hands-on at WebExpo Workshops run by the best experts in the business
-
-
-
-Deepen your knowledge and strengthen your professional skills at this year’s premium and free workshops run by top speakers from around the world. Don’t miss the chance to work with other professionals and exchange ideas after the session over refreshments.
+PREMIUM WORKSHOPS
 
 
 
 
-PREMIUM WORKSHOPS - MAY 30
+
+Highly interactive workshops run on May 30
 
 
 
@@ -690,14 +726,19 @@ Immerse yourself in hands-on and highly interactive learning with international 
 
 
 
-FREE WORKSHOPS - MAY 29
+
+
+CONFERENCE WORKSHOPS
+
+
+
+
+
+Included in the Conference ticket - May 29
 
 
 
 Enhance your experience with two-hour practical sessions included with your WebExpo Conference ticket.
-
-
-
 
 
 
@@ -1443,7 +1484,7 @@ https://webexpo.net/prague2025/venue-parties/
 ## Content
 
 
-in the heart of Prague
+IN THE HEART OF PRAGUE
 
 
 
@@ -1451,7 +1492,7 @@ in the heart of Prague
 
 
 
-The venue
+Our venue: Lucerna Palace
 
 
 
@@ -1467,7 +1508,7 @@ WebExpo tip: Join us for a venue orientation tour for attendees. and visit all t
 
 
 
-How do I get to Lucerna Palace?
+How do I get to WebExpo?
 
 
 
@@ -1539,13 +1580,13 @@ If you are driving, please look for paid parking and be aware of parking zones.
 
 
 
-6 HALLS WITH Rich PROGRAM
+6 HALLS OF ACTION
 
 
 
 
 
-CONFERENCE SESSIONS in Lucerna
+Conference sessions in Lucerna
 
 
 
@@ -1625,13 +1666,13 @@ WebExpo Kids
 
 
 
-PERFECT SPOTS FOR NETWORKING
+PERFECT FOR NETWORKING
 
 
 
 
 
-MEET AND MINGLE
+Meet and mingle
 
 
 
@@ -1655,7 +1696,7 @@ Lucerna Gallery
 
 
 
-Lucerna Cafe
+Lucerna Café
 
 
 
@@ -1669,7 +1710,9 @@ Lucerna Cafe
 
 
 
-WebExpo Parties
+WEBEXPO PARTIES
+
+
 
 
 
@@ -1681,13 +1724,15 @@ WebExpo doesn’t stop when the talks are over for the day. The fun continues ev
 
 
 
-For Kids
+
+
+FOR KIDS
 
 
 
 
 
-EDUTAINMENT for even the YOUNGEST attendees
+Edutainment for even the youngest attendees
 
 
 
