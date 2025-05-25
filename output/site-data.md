@@ -56,6 +56,9 @@ div#countdown .time {padding: 0 2px;height: 100%;line-height: normal;}
 
 
 
+.is-layout-constrained.wp-block-cover-is-layout-constrained {
+ position: static; /* hack fix from wordpresspress 6.72 to 6.8 upgrade */
+}
 
 
 
@@ -119,6 +122,10 @@ Experts in web-dev, UX &amp; UI, design, AI, data, performance, product, marketi
 
 
 View More Speakers
+
+
+
+
 
 
 
@@ -530,7 +537,7 @@ Don’t wait – spaces for premium workshops are limited, so check them out tod
 
 
 
-3 BIG PARTIES
+3 RELAXED PARTIES
 
 
 
@@ -540,7 +547,7 @@ Talk tech, catch up with old friends, make new ones!
 
 
 
-The Warm-Up Party kicks things off on May 27th with two more big events on May 28th and 29th. All conference tickets include entry to our parties so be sure to join us after the day’s talks to chat and mingle.
+The Warm-Up Party kicks things off on May 27th with two more big events on May 28th and 29th. All conference tickets include entry to our parties, so be sure to join us after the day’s talks to chat and mingle.
 
 
 

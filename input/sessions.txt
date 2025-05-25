@@ -9,7 +9,7 @@ https://webexpo.net/prague2025/sessions/turn-curiosity-into-data-gold-with-tedw-
 https://webexpo.net/prague2025/sessions/strategy-masterclass-learn-and-practice-the-most-fun-parts-of-advertising-strategy/
 https://webexpo.net/prague2025/sessions/jan-rezab-talk-2025/
 https://webexpo.net/prague2025/sessions/joe-natoli-ux-design-2025/
-https://webexpo.net/prague2025/sessions/works-in-all-browsers-interoperability-beyond-availability/
+https://webexpo.net/prague2025/sessions/mastering-layouts-with-tailwind-css-flex-grid-and-beyond/
 https://webexpo.net/prague2025/sessions/daniel-cuthbert-web-security-2025/
 https://webexpo.net/prague2025/sessions/connecting-the-dots-between-site-speed-user-happiness-business-success/
 https://webexpo.net/prague2025/sessions/tim-kadlec-web-performance-2025/
@@ -24,14 +24,15 @@ https://webexpo.net/prague2025/sessions/untangling-your-dependencies-a-pattern-f
 https://webexpo.net/prague2025/sessions/12-core-design-skills/
 https://webexpo.net/prague2025/sessions/rowdy-rabouw-web-development-2025/
 https://webexpo.net/prague2025/sessions/marketing-analytics-incrementality-and-mmm/
-https://webexpo.net/prague2025/sessions/mastering-layouts-with-tailwind-css-flex-grid-and-beyond/
 https://webexpo.net/prague2025/sessions/payments-how-to-design-payment-applications-in-python/
+https://webexpo.net/prague2025/sessions/survival-kit-for-advertising-jungle/
 https://webexpo.net/prague2025/sessions/the-future-is-built-not-bought-rewiring-organisations-for-continuous-innovation/
 https://webexpo.net/prague2025/sessions/creativity-and-coding-from-invented-problems-to-dependable-solutions/
 https://webexpo.net/prague2025/sessions/what-is-jobs-to-be-done-and-why-should-you-care-a-framework-to-build-empathy-and-drive-alignment/
+https://webexpo.net/prague2025/sessions/lost-in-the-hospital-how-not-to-design-wayfinding-for-better-cx/
 https://webexpo.net/prague2025/sessions/conquering-react-concurrency/
 https://webexpo.net/prague2025/sessions/accessibility-uncovered-typical-mistakes-that-go-beyond-the-standards/
-https://webexpo.net/prague2025/sessions/rethinking-education-bridging-it-well-being-and-real-world-skills/
+https://webexpo.net/prague2025/sessions/from-gut-feeling-to-growth-setting-killer-kpis-for-marketing/
 https://webexpo.net/prague2025/sessions/zero-to-shipped-in-30-mins-with-genai/
 https://webexpo.net/prague2025/sessions/digital-accessibility-meets-physical-accessibility/
 https://webexpo.net/prague2025/sessions/future-proof-your-ui-building-with-web-components/
@@ -45,7 +46,7 @@ https://webexpo.net/prague2025/sessions/how-the-wordpress-ecosystem-handles-secu
 https://webexpo.net/prague2025/sessions/from-badges-to-value-designing-meaningful-gamified-experiences/
 https://webexpo.net/prague2025/sessions/webexpo-grand-opening-2/
 https://webexpo.net/prague2025/sessions/closing-remarks-2025/
-https://webexpo.net/prague2025/sessions/essential-security-skills-for-the-modern-full-stack-dev/
+https://webexpo.net/prague2025/sessions/rethinking-education-bridging-it-well-being-and-real-world-skills/
 https://webexpo.net/prague2025/sessions/the-path-to-end-to-end-teams/
 https://webexpo.net/prague2025/sessions/high-stakes-flows-designing-for-security-and-cryptos-unique-challenges/
 https://webexpo.net/prague2025/sessions/a-deep-dive-into-kubernetes/
@@ -60,6 +61,7 @@ https://webexpo.net/prague2025/sessions/learn-or-die-11-steps-to-create-a-strong
 https://webexpo.net/prague2025/sessions/free-workshop-build-your-ai-marketing-department/
 https://webexpo.net/prague2025/sessions/free-workshop-react-compiler-in-action/
 https://webexpo.net/prague2025/sessions/free-workshop-the-art-of-nailing-the-job-crafting-jobs-to-be-done-that-work/
+https://webexpo.net/prague2025/sessions/free-workshop-screen-reader-crash-course/
 https://webexpo.net/prague2025/sessions/premium-workshop-accessibility-for-designers-from-mockups-to-documentation/
 https://webexpo.net/prague2025/sessions/live-recording-of-the-podcast-vzhuru-dolu-in-czech-2025/
 https://webexpo.net/prague2025/sessions/discomfort-zone-2025/
@@ -71,9 +73,7 @@ https://webexpo.net/prague2025/sessions/discomfort-zone-2025-5/
 https://webexpo.net/prague2025/sessions/discomfort-zone-2025-4/
 https://webexpo.net/prague2025/sessions/discomfort-zone-2025-3/
 https://webexpo.net/prague2025/sessions/discomfort-zone-2025-2/
-https://webexpo.net/prague2025/sessions/talk-for-tech-leaders/
-https://webexpo.net/prague2025/sessions/talk-focus-on-marketing/
-https://webexpo.net/prague2025/sessions/talk-focus-on-security/
+https://webexpo.net/prague2025/sessions/practical-frontend-architecture-beyond-the-buzzwords/
 https://webexpo.net/prague2025/sessions/2025-morning-body-update-rise-and-shine-with-sun-salutations/
 https://webexpo.net/prague2025/sessions/mentor-hour-2025-6/
 https://webexpo.net/prague2025/sessions/mentor-hour-2025-5/
@@ -94,3 +94,5 @@ https://webexpo.net/prague2025/sessions/kids-corner-amp-parents-lounge-2025/
 https://webexpo.net/prague2025/sessions/kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025-2/
 https://webexpo.net/prague2025/sessions/scratch-programming-workshop-kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025/
 https://webexpo.net/prague2025/sessions/kids-corner-with-au-pairs-lounge-area-for-parents-with-babies-2025/
+https://webexpo.net/prague2025/sessions/what-nobody-else-is-telling-you-in-the-web-industry/
+https://webexpo.net/prague2025/sessions/how-to-speak-engineer/

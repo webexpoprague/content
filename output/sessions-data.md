@@ -126,7 +126,33 @@ Conference Talk
 
 ## Talk Description
 
-In this talk, Tejas explores AI-enabled user experience beyond chatbots through "generative UI", teaching attendees how to create more native experiences using generative AI.
+In this talk, Tejas explores AI-enabled user experience beyond chatbots through “Generative UI”, teaching attendees how to create more native experiences using generative AI. Specifically, we will explore:
+
+
+
+
+How to process real-time streaming workloads from language models in user interfaces, including partial JSON
+
+
+
+Vibe coding and how it fits into developer workflows
+
+
+
+Model Context Protocol and the future of coding automation
+
+
+
+
+
+
+
+
+This talk will help developers leverage AI in their daily workflows to move faster than ever before.
+
+
+
+
 
 ## Tags
 
@@ -148,7 +174,7 @@ Tejas Kumar is an international keynote speaker, best-selling author, and the ho
 
 ### Date
 
-May 29, 2025 5:00 pm
+May 28, 2025 12:00 pm
 
 ### Duration
 
@@ -434,7 +460,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Startup founder story
+Leading the company into the AI era. Learnings, success stories and failures.
 
 ## Session URL
 
@@ -446,7 +472,7 @@ Conference Talk
 
 ## Talk Description
 
-More details will be announced soon.
+This talk will explore the journey of integrating AI into the core of the company’s operations. Tomáš will share key learnings, highlight real success stories that brought tangible value, and openly discuss the challenges and failures he and his team faced along the way. Attendees will gain practical insights into what it truly takes to lead a company into the AI era.
 
 
 
@@ -454,7 +480,7 @@ More details will be announced soon.
 
 ## Tags
 
-Business &amp; Growth, Future of Work
+AI &amp; ML &amp; Bots, Business &amp; Growth, Future of Work
 
 ## Session Focused on
 
@@ -841,11 +867,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Works in all browsers! Interoperability beyond availability
+Flex, Grid, and beyond: Mastering layouts with Tailwind CSS
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/works-in-all-browsers-interoperability-beyond-availability/
+https://webexpo.net/prague2025/sessions/mastering-layouts-with-tailwind-css-flex-grid-and-beyond/
 
 ## Session Type
 
@@ -853,11 +879,7 @@ Conference Talk
 
 ## Talk Description
 
-The Web Platform Baseline project gives you a snapshot of the web features supported by all browsers and ready to be used TODAY. Mariko’s talk won’t just list what's possible across browsers, it will help you figure out what's best for your product with the tools available right now.&nbsp;
-
-
-
-Come and get answers to questions like: "Which features have old workarounds that impact performance?" "How do you combine the features to create modern experiences like an adaptable, resilient layout?" "What other modern UI patterns are now easy to implement?" Join Mariko as she shows you how The Web Platform Baseline can help guide you through the confusing world of building for the web.
+Explore advanced layout techniques using Tailwind CSS, focusing on Flexbox, Grid, and other modern layout tools. In this talk, Shruti will demonstrate how to build complex, responsive designs efficiently with Tailwind’s utility-first classes. Learn practical tips for painlessly creating everyday layouts with ease — all while making them responsive.
 
 
 
@@ -865,25 +887,25 @@ Come and get answers to questions like: "Which features have old workarounds tha
 
 ## Tags
 
-Design Systems, Frontend Dev
+Design Systems, Design Thinking &amp; UX, Frontend Dev
 
 ## Session Focused on
 
-Web Development: 100%, Design & UX: 60%, Marketing: 0%, Business: 20%
+Web Development: 100%, Design & UX: 80%, Marketing: 0%, Business: 0%
 
 ## Session Presenter
 
-Mariko Kosaka
+Shruti Balasa
 
 ## Session Presenter Bio
 
-Mariko is a  Chrome Developer Relations engineer. She spends time tracking and documenting newly interoperable features to better guide web developers on the ever-evolving web of platform features.
+Shruti Balasa is a full stack web developer and a tech educator from India. She likes to make web development simple for beginners through her courses, Youtube tutorials, and ebooks. She’s currently co-building VoxPop — the simplest website builder ever. Shruti chooses to work only four to five hours a day so she can cook healthy meals and spend quality time with her family.
 
 ## Session Details
 
 ### Date
 
-May 29, 2025 2:00 pm
+May 28, 2025 10:00 am
 
 ### Duration
 
@@ -891,7 +913,7 @@ May 29, 2025 2:00 pm
 
 ### Specific Location
 
-Lucerna Great Hall
+Lucerna Cinema
 
 ### General Localtion
 
@@ -1174,11 +1196,11 @@ Krasimir Tsonev is a coder with over 20 years of experience in web development a
 
 ### Date
 
-May 28, 2025 4:00 pm
+May 29, 2025 5:00 pm
 
 ### Duration
 
-40 Minutes
+45 Minutes
 
 ### Specific Location
 
@@ -1333,7 +1355,7 @@ May 30, 2025 9:30 am
 
 ### Specific Location
 
-NN IT HUB Prague
+NN Digital Hub
 
 ### General Localtion
 
@@ -1435,7 +1457,7 @@ Bramus is a Chrome Developer Relations engineer at Google, focusing on CSS, Web 
 
 ### Date
 
-May 28, 2025 12:00 pm
+May 28, 2025 4:00 pm
 
 ### Duration
 
@@ -1786,61 +1808,6 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Flex, Grid, and beyond: Mastering layouts with Tailwind CSS
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/mastering-layouts-with-tailwind-css-flex-grid-and-beyond/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-Explore advanced layout techniques using Tailwind CSS, focusing on Flexbox, Grid, and other modern layout tools. In this talk, Shruti will demonstrate how to build complex, responsive designs efficiently with Tailwind’s utility-first classes. Learn practical tips for painlessly creating everyday layouts with ease — all while making them responsive.
-
-
-
-
-
-## Tags
-
-Design Systems, Design Thinking &amp; UX, Frontend Dev
-
-## Session Focused on
-
-Web Development: 100%, Design & UX: 80%, Marketing: 0%, Business: 0%
-
-## Session Presenter
-
-Shruti Balasa
-
-## Session Presenter Bio
-
-Shruti Balasa is a full stack web developer and a tech educator from India. She likes to make web development simple for beginners through her courses, Youtube tutorials, and ebooks. She’s currently co-building VoxPop — the simplest website builder ever. Shruti chooses to work only four to five hours a day so she can cook healthy meals and spend quality time with her family.
-
-## Session Details
-
-### Date
-
-May 28, 2025 10:00 am
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Lucerna Cinema
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
 Payments: How to design payment applications in Python
 
 ## Session URL
@@ -1886,6 +1853,61 @@ He’s the author of “The Databases of Money: Designing Payment Applications�
 ### Date
 
 May 28, 2025 5:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+Survival kit for advertising jungle
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/survival-kit-for-advertising-jungle/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Kateřina and Vladimír will share 10 practical tips on how to survive in the advertising jungle. With the growing complexity of marketing, it's getting harder to navigate from brief to campaign goal and the risk of getting lost during the process is ever-growing. As they have lived in this jungle for the last 10 years, they have created the survival kit to help you reach your goals and get as effective and creative as possible.
+
+
+
+
+
+## Tags
+
+Business &amp; Growth, Content, Marketing
+
+## Session Focused on
+
+Web Development: 0%, Design & UX: 0%, Marketing: 100%, Business: 40%
+
+## Session Presenter
+
+Kateřina Huňová
+
+## Session Presenter Bio
+
+Kateřina is an Executive Creative Director at the advertising agency Zaraguza. Her clients include brands such as Škoda Auto, Porsche, Burger King, and Kozel. She has received numerous Czech and international awards, including Cannes Young Lions, the Grand Prix at ADC Czech Awards, and the Euro Effie. Additionally, she is a lecturer at Tomáš Baťa University, where she teaches integrated marketing communication. Outside of advertising, she is a sci-fi author of the novel Sladké sny, and she is currently finishing her second book in the same genre.
+
+## Session Details
+
+### Date
+
+May 29, 2025 11:00 am
 
 ### Duration
 
@@ -2063,6 +2085,61 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
+Lost in the hospital: How (not) to design wayfinding for better CX
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/lost-in-the-hospital-how-not-to-design-wayfinding-for-better-cx/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+Imagine you're dealing with a serious health issue, feeling stressed and anxious, and on top of that, you find yourself lost in a hospital where the signs are more confusing than helpful. Unfortunately, this isn’t just a hypothetical scenario — almost half of patients face similar challenges in Czech hospitals. In this talk, Ladislava and Michaela will walk you through the results of hospital walkthroughs, eye-tracking studies, and virtual reality testing to uncover why people get lost in hospitals and how it critically impacts their overall customer experience (CX). They will share practical insights into effectively connecting digital and physical navigation, demonstrating how clear, intuitive, and user-centred design not only enhances orientation but significantly transforms their entire patient journey. Join them to learn why effective wayfinding goes beyond reaching a desired destination — it’s fundamentally about empathy towards people.
+
+
+
+
+
+## Tags
+
+Design Thinking &amp; UX, Mobility, Research, Service Design &amp; CX
+
+## Session Focused on
+
+Web Development: 20%, Design & UX: 100%, Marketing: 80%, Business: 80%
+
+## Session Presenter
+
+Ladislava Zbiejczuk Suchá
+
+## Session Presenter Bio
+
+Ladislava leads a study program focused on service design at Masaryk University. She has a background in sociology and information science and more than 15 years of experience in user research and design in various contexts, with a strong focus on improving public services.
+
+## Session Details
+
+### Date
+
+May 29, 2025 4:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Cinema
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
 Conquering React concurrency
 
 ## Session URL
@@ -2187,11 +2264,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Teaching resilience in a digital world: Lessons from the classroom
+From gut feeling to growth: Setting killer KPIs for marketing
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/rethinking-education-bridging-it-well-being-and-real-world-skills/
+https://webexpo.net/prague2025/sessions/from-gut-feeling-to-growth-setting-killer-kpis-for-marketing/
 
 ## Session Type
 
@@ -2199,29 +2276,33 @@ Conference Talk
 
 ## Talk Description
 
-Working with the next generation in an IT school offers a unique perspective on how young people engage with technology, problem-solving, and well-being. Even as you push them to think independently, use tech ethically, and adapt — they often face challenges that mirror those in the professional world. In this talk, Markéta shares real experiences from the classroom, exploring the struggles, successes, and unexpected lessons that resonate beyond education. Expect honest stories, insights on resilience, and a fresh perspective on navigating the ever-changing tech landscape.
+Strategic KPI planning. Aligning short &amp; long-term goals in marketing. Don’t let your marketing team head in the wrong direction. Only to be surprised when the results don’t match your expectations. This session dives into how to effectively set and align short-term and long-term KPIs to ensure clarity, accountability, and real business impact. Featuring case studies from internal teams and agency collaborations.
+
+
+
+
 
 ## Tags
 
-AI &amp; ML &amp; Bots, Business &amp; Growth, Future of Work, Sustainability &amp; Ethics
+Business &amp; Growth, Data, Marketing, Performance
 
 ## Session Focused on
 
-Web Development: 60%, Design & UX: 0%, Marketing: 0%, Business: 60%
+Web Development: 0%, Design & UX: 0%, Marketing: 100%, Business: 100%
 
 ## Session Presenter
 
-Markéta Fibigerová
+Tomáš Schwarz
 
 ## Session Presenter Bio
 
-Markéta is an innovator in education, an entrepreneur, and an IT expert. Named as one of the top 20 Czech innovators in 2020, she became a founding member of an IT company while still studying at Charles University. After more than 15+ years of hands-on experience in software development, she founded a secondary school in 2018, teaching all aspects of technology, well-being, and resilience. Markéta is also a passionate back-country skier, mountaineer and climber, mom of two teenagers and a devoted master to a hyperactive border collie.
+Tomáš is a performance-driven marketing strategist and the co-founder of Upster, a digital agency focused on scalable growth. He specialises in data-backed strategies, performance marketing, and business acceleration. With a strong analytical mindset and a passion for measurable results, Tomáš helps brands grow faster and smarter — combining data insights, digital tools, and creative execution to maximize ROI.
 
 ## Session Details
 
 ### Date
 
-May 29, 2025 1:20 pm
+May 28, 2025 3:20 pm
 
 ### Duration
 
@@ -2229,7 +2310,7 @@ May 29, 2025 1:20 pm
 
 ### Specific Location
 
-Lucerna Cinema
+Marble Hall
 
 ### General Localtion
 
@@ -2922,7 +3003,7 @@ https://webexpo.net/prague2025/sessions/closing-remarks-2025/
 
 ## Session Type
 
-
+Conference Talk
 
 ## Talk Description
 
@@ -2952,11 +3033,11 @@ Web Development: 100%, Design & UX: 100%, Marketing: 100%, Business: 100%
 
 ### Date
 
-May 29, 2025 5:50 pm
+May 29, 2025 5:45 pm
 
 ### Duration
 
-10 Minutes
+5 Minutes
 
 ### Specific Location
 
@@ -2969,11 +3050,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Essential security skills for the modern full-stack dev
+Teaching resilience in a digital world: Lessons from the classroom
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/essential-security-skills-for-the-modern-full-stack-dev/
+https://webexpo.net/prague2025/sessions/rethinking-education-bridging-it-well-being-and-real-world-skills/
 
 ## Session Type
 
@@ -2981,33 +3062,29 @@ Conference Talk
 
 ## Talk Description
 
-As a modern full-stack developer, mastering security is no longer optional — it's essential. In this talk, Vojtěch will borrow from the best practices and terms from enterprise companies and show you how to apply them in your daily development life. Together, you’ll look beyond abstract language and explore how to find the boundary between negligence and prioritising relevant threats in your role. He’ll also share his insights about how to leverage AI to build more secure products and the importance of securing AI use cases.
-
-
-
-
+Working with the next generation in an IT school offers a unique perspective on how young people engage with technology, problem-solving, and well-being. Even as you push them to think independently, use tech ethically, and adapt — they often face challenges that mirror those in the professional world. In this talk, Markéta shares real experiences from the classroom, exploring the struggles, successes, and unexpected lessons that resonate beyond education. Expect honest stories, insights on resilience, and a fresh perspective on navigating the ever-changing tech landscape.
 
 ## Tags
 
-Backend Dev, Security
+AI &amp; ML &amp; Bots, Business &amp; Growth, Future of Work, Sustainability &amp; Ethics
 
 ## Session Focused on
 
-Web Development: 100%, Design & UX: 0%, Marketing: 20%, Business: 80%
+Web Development: 60%, Design & UX: 0%, Marketing: 0%, Business: 60%
 
 ## Session Presenter
 
-Vojtěch Vondra
+Markéta Fibigerová
 
 ## Session Presenter Bio
 
-Vojtěch leads the Entra Edge and Quality organisation in the Microsoft Development Center Prague. The team's focus is securing Microsoft's perimeter, protecting every authentication request for both consumers and enterprises, and building tooling to manage the largest scale outages and incidents. Microsoft Entra secures access for every user, application, and device across a company's environment and logins for all of Microsoft's offerings. Previously, Vojtěch led the product engineering organisation at Productboard.
+Markéta is an innovator in education, an entrepreneur, and an IT expert. Named as one of the top 20 Czech innovators in 2020, she became a founding member of an IT company while still studying at Charles University. After more than 15+ years of hands-on experience in software development, she founded a secondary school in 2018, teaching all aspects of technology, well-being, and resilience. Markéta is also a passionate back-country skier, mountaineer and climber, mom of two teenagers and a devoted master to a hyperactive border collie.
 
 ## Session Details
 
 ### Date
 
-May 28, 2025 2:00 pm
+May 29, 2025 1:20 pm
 
 ### Duration
 
@@ -3095,7 +3172,7 @@ Conference Talk
 
 ## Talk Description
 
-Markéta will guide you through designing flows where usability goes beyond making things “easier” — it becomes a critical element of security. Using examples from the crypto world, you’ll learn how to navigate complex flows and make new concepts accessible to newcomers. Join Markéta to explore how to tackle these challenges with a content-first design, map educational goals, and use user drop-off strategically to focus on those ready for the next step.
+Markéta will guide you through a case study where usability goes beyond simply making things “easier”—it becomes a critical element of security. Join her to explore how to address these challenges with a content-first design approach, map educational goals, and strategically leverage user drop-off to focus on those ready to take the next step. Through a detailed look at the design process for one of the trickiest features she’s encountered, you’ll learn how to navigate complex flows and guide users with confidence.
 
 
 
@@ -3107,7 +3184,7 @@ Content, Design Thinking &amp; UX, Research
 
 ## Session Focused on
 
-Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 20%
+Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 0%
 
 ## Session Presenter
 
@@ -3361,7 +3438,7 @@ Business &amp; Growth, Design Thinking &amp; UX, Research, Service Design &amp; 
 
 ## Session Focused on
 
-Web Development: 0%, Design & UX: 100%, Marketing: 20%, Business: 40%
+Web Development: 0%, Design & UX: 80%, Marketing: 20%, Business: 60%
 
 ## Session Presenter
 
@@ -3534,7 +3611,7 @@ Daniel Do
 
 ## Session Presenter Bio
 
-Daniel has over eight years of experience in startups, with most of his time spent in modern product management. He’s worked in SaaS companies across industries, from retail and web scraping to automation and hospitality. His expertise is product strategy, product discovery, and team collaboration. Daniel currently works in Mews, where he helps thousands of hotels to manage their reservations.
+Daniel Do has over eight years of experience working with startups and scale-ups in modern product management across industries from retail and web scraping to automation and hospitality. He specialises in high-impact product strategy, product discovery, and team collaboration. Daniel currently works as a senior product manager at Mews and he's also a startup advisor and mentor.
 
 ## Session Details
 
@@ -3722,7 +3799,7 @@ What will attendees learn?
 
 
 
-Forget prompting in ChatGPT. You'll expand your toolkit with tools that are essential for AI marketing in 2025. You'll learn how to connect and use them to make your outputs way better. We'll walk through how to extract data from websites, clean it and enrich it. How to generate briefs and procedures. And how to bring it all together to produce a great output at the end. Not once, not randomly. But repeatedly, consistently and in bulk.
+Forget prompting in ChatGPT. Get ready to expand your toolkit with all the essentials you need for AI marketing in 2025. In this workshop, Marek will not only give you the top AI tools, he’ll also show you how to connect and use them effectively to make your outputs way better. You’ll learn how to extract data from websites, clean it, and enrich it while discovering how to generate briefs and procedures. And most importantly, you’ll walk away with the knowledge of how to bring all these elements together to produce high-quality outputs. Not once, not randomly — but repeatedly, consistently, and in bulk.
 
 
 
@@ -3730,7 +3807,7 @@ Who is the workshop for?
 
 
 
-The workshop is not necessarily just for marketers. It's also for owners, sales... You can freely apply the principles and techniques in other areas than marketing. If you have a small marketing department, limited budget or a lack of time - this is the workshop for you. If you've been experimenting with language models in your work for a while and want to move forward - this is the workshop for you.
+The workshop is not just for marketers. It’s also for product owners, sales, or anyone looking to gain the principles and techniques to improve their brand and marketing efforts. If you have a small team, a limited budget, a lack of time, or just want to move your gen AI experimentation to the next level — this is the workshop for you.
 
 
 
@@ -3738,7 +3815,7 @@ What are the attendee requirements?
 
 
 
-Your own computer. Account in Firecrawl and Claude / ChatGPT. Installed desktop application for Claude would be an advantage. Accounts are sufficient even in the free version, but with the paid version you will be sure not to hit any limits.
+Please bring your own computer and come ready with a Firecrawl account and an account set up in either Claude or ChatGPT. (Hint: Installing the desktop application for Claude will be an advantage.) It’s fine if these accounts are a free version, but paid subscriptions will ensure you don’t hit any limits.
 
 
 
@@ -4029,6 +4106,101 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
+Free Workshop: Screen reader crash course
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/free-workshop-screen-reader-crash-course/
+
+## Session Type
+
+Free Workshop
+
+## Talk Description
+
+Meet Daniel who uses a screen reader. Screen reader is a program that reads out elements and text on screen when navigating programs, apps or websites. To do that properly it depends on well written semantic code, ALT-texts and clear labelling. Testing with a screen reader is vital to ensure you have a WCAG compliant website or app. All operating systems nowadays have built in screen readers, for Android it is called TalkBack and for iOS it is VoiceOver. Everyone can do simple testing with their phone to find issues.
+
+
+
+
+
+
+
+
+
+
+
+What will attendees learn?
+
+
+
+How a real user uses the screen reader on a mobile phone. Get to know the basics and how to get started in testing with a screen reader. Learn some of the things to listen for.
+
+
+
+Who is the workshop for?
+
+
+
+Developers, QA-testers and any role working with digital products.
+
+
+
+What are the attendee requirements?
+
+
+
+An Android or iPhone device is&nbsp;good to&nbsp;bring, but you will still learn by listening.
+
+
+
+How to register for this workshop?
+
+
+
+This workshop is included in the conference ticket. The registration is on first come, first served basis (maximum capacity of 50 people).
+
+
+
+
+
+## Tags
+
+Backend Dev, Design Thinking &amp; UX, Frontend Dev, Service Design &amp; CX
+
+## Session Focused on
+
+Web Development: 100%, Design & UX: 60%, Marketing: 40%, Business: 80%
+
+## Session Presenter
+
+Daniel Göransson
+
+## Session Presenter Bio
+
+Daniel is a blind front-end developer and an accessibility specialist that enjoys going to movies, playing sports and gaming.
+
+## Session Details
+
+### Date
+
+May 29, 2025 10:00 am
+
+### Duration
+
+45 Minutes
+
+### Specific Location
+
+Lucerna Cinema Small Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
 Premium Workshop: Accessibility for designers &#8211; from mockups to documentation
 
 ## Session URL
@@ -4194,6 +4366,10 @@ You’re invited to join the live recording of the Czech podcast “Vzhůru Dol�
 
 This session is in Czech.
 
+
+
+
+
 ## Tags
 
 Backend Dev, Frontend Dev, Performance
@@ -4214,7 +4390,7 @@ Martin je konzultant rychlosti webu s více než dvacetiletou praxí vývojáře
 
 ### Date
 
-April 22, 2024 6:00 pm
+May 28, 2025 6:00 pm
 
 ### Duration
 
@@ -4231,7 +4407,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Discomfort Zone
+Discomfort Zone: Are you worth it?
 
 ## Session URL
 
@@ -4247,11 +4423,19 @@ Life isn’t all rainbows, unicorns or idealistic LinkedIn success stories. Some
 
 
 
+So let’s zoom in on one of those uncomfortable moments that might hit close to home:
+
+
+
+When you ask for a raise, do you know what you're worth, or are you just hoping for the best? How can you even get a raise when there's so much pressure to replace us with Indian workers or AI? Czech developers are no longer considered cheap labour, so what's next for us? René Napravil will tell you how to find your price and maybe even raise it.
+
+
+
 
 
 ## Tags
 
-Backend Dev, Business &amp; Growth, Design Thinking &amp; UX, Frontend Dev, Future of Work
+Backend Dev, Business &amp; Growth, Frontend Dev, Future of Work
 
 ## Session Focused on
 
@@ -4298,7 +4482,33 @@ Conference Talk
 
 ## Talk Description
 
-The panel discussion will address the practical aspects of accessibility, emphasising why customer experience is more impactful than legal compliance alone.
+When it comes to accessibility, legal compliance is only the beginning. What truly makes a difference is how people experience your website or app, especially those who rely on it the most.
+
+
+
+In this panel, we’ll move beyond checklists and standards to explore real-world accessibility from the perspectives of those who work with it — and live with it — every day.
+
+
+
+You’ll hear from:
+
+
+
+
+Daniel, a blind front-end developer and accessibility specialist who brings both professional insight and personal experience. He knows what works and what doesn’t when it comes to accessible design.
+
+
+
+Michaela, a design researcher and strategist with extensive experience bridging the gap between designers, developers, institutions, and end users. She'll share what helps (or hinders) inclusive design from taking root in teams and projects.
+
+
+
+Lukáš, who was born blind and relies on screen readers 24/7. He combines deep technical knowledge with the lived experience of a user and teaches developers how to build digital products that are accessible by default.
+
+
+
+
+Join us for a grounded and practical conversation about what accessibility really means and how prioritising user experience leads to better, more inclusive results for everyone.
 
 
 
@@ -4310,7 +4520,7 @@ Business &amp; Growth, Future of Work, Service Design &amp; CX, Sustainability &
 
 ## Session Focused on
 
-Web Development: 20%, Design & UX: 80%, Marketing: 0%, Business: 80%
+Web Development: 20%, Design & UX: 80%, Marketing: 80%, Business: 80%
 
 ## Session Presenter
 
@@ -4343,7 +4553,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Mentor café: Meet &amp; chat
+Mentor Café: Meet &amp; chat
 
 ## Session URL
 
@@ -4443,7 +4653,11 @@ Come say hi, share a coffee, and spark a conversation that could change your per
 
 
 
+👋 Jana Korbičková, Product Designer &amp; Mentor @AlmaCareer_CZSK📆 Wednesday, May 28 at 10:40 am👉 https://t.co/fUmTTQcoc2#UX #ProductDesign #UsabilityTesting pic.twitter.com/Nm758ANC0v&mdash; WebExpo Conference - May 28-30, 2025 (@webexpo) May 20, 2025 
 
+
+
+👋 Dominik Kadera, Staff Engineer @make_hq📆 Wednesday, May 28 at 10:40 am👉 https://t.co/fUmTTQcoc2#SoftwareArchitecture #Microservices #NodeJS pic.twitter.com/LQL76bs8My&mdash; WebExpo Conference - May 28-30, 2025 (@webexpo) May 20, 2025 
 
 ## Tags
 
@@ -4722,7 +4936,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Discomfort Zone
+Discomfort Zone: How to survive the re-org shuffle
 
 ## Session URL
 
@@ -4738,11 +4952,19 @@ Life isn’t all rainbows, unicorns or idealistic LinkedIn success stories. Some
 
 
 
+So let’s zoom in on one of those uncomfortable moments that might hit close to home:
+
+
+
+Why can't companies stick to the org chart? Why do they have to reorganise every few months? Michael Hrádek’s been through the chaos many times, he’s ridden the wave and been crushed by it. He’ll explain why it happens, how to brace for impact, and even share tricks to turn a re-org into a career boost.
+
+
+
 
 
 ## Tags
 
-Backend Dev, Business &amp; Growth, Design Thinking &amp; UX, Frontend Dev, Future of Work
+Business &amp; Growth, Future of Work
 
 ## Session Focused on
 
@@ -4797,7 +5019,7 @@ So let’s zoom in on one of those uncomfortable moments that might hit close to
 
 
 
-All mature organisations are running a portfolio of legacy applications. There is always a brilliant idea to restart from scratch because this time all will be perfect. What are the benefits and drawbacks of such a decision?
+Today, every mature organisation is now running a portfolio of legacy applications, built up over many years. Whenever the topic of modernisation comes up, someone always brings up the brilliant idea to restart from scratch because “this time it will all turn out perfect”. But what are the benefits and drawbacks of such a decision?
 
 
 
@@ -4840,11 +5062,11 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Talk for tech leaders
+Practical frontend architecture: Beyond the buzzwords
 
 ## Session URL
 
-https://webexpo.net/prague2025/sessions/talk-for-tech-leaders/
+https://webexpo.net/prague2025/sessions/practical-frontend-architecture-beyond-the-buzzwords/
 
 ## Session Type
 
@@ -4852,117 +5074,15 @@ Conference Talk
 
 ## Talk Description
 
-More details will be announced soon.
+Software architecture often hides behind buzzwords and abstract concepts that feel disconnected from our daily work. Patterns like clean architecture, domains, or ports and adapters look great in examples, but we often get stuck once we start implementing them.
+
+
+
+In this talk, Tomáš will cut through the noise and show you practical real-world examples and patterns that will help you deliver better code. Using examples from his day-to-day job, as well as from his side projects, he’ll show you how to implement some of these architectural patterns in practice and build more robust and maintainable applications.
 
 ## Tags
 
-Business &amp; Growth, Future of Work
-
-## Session Focused on
-
-Web Development: 20%, Design & UX: 40%, Marketing: 60%, Business: 100%
-
-## Session Presenter
-
-Speaker
-
-## Session Presenter Bio
-
-
-
-## Session Details
-
-### Date
-
-May 29, 2025 11:00 am
-
-### Duration
-
-40 Minutes
-
-### Specific Location
-
-Lucerna Cinema
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Talk focus on marketing
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/talk-focus-on-marketing/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-More details will be announced soon.
-
-## Tags
-
-Business &amp; Growth, Marketing
-
-## Session Focused on
-
-Web Development: 0%, Design & UX: 0%, Marketing: 100%, Business: 80%
-
-## Session Presenter
-
-Speaker
-
-## Session Presenter Bio
-
-
-
-## Session Details
-
-### Date
-
-May 28, 2025 3:20 pm
-
-### Duration
-
-20 Minutes
-
-### Specific Location
-
-Marble Hall
-
-### General Localtion
-
-Lucerna Palace, Prague, Czech Republic
-
-
-# Session title
-
-Talk focus on security
-
-## Session URL
-
-https://webexpo.net/prague2025/sessions/talk-focus-on-security/
-
-## Session Type
-
-Conference Talk
-
-## Talk Description
-
-More details will be announced soon.
-
-
-
-
-
-## Tags
-
-Backend Dev, Frontend Dev, Security
+Backend Dev, Frontend Dev
 
 ## Session Focused on
 
@@ -4970,11 +5090,11 @@ Web Development: 100%, Design & UX: 0%, Marketing: 0%, Business: 0%
 
 ## Session Presenter
 
-Speaker
+Tomáš Pustelník
 
 ## Session Presenter Bio
 
-
+Tomáš is a self-taught front-end engineer with over 10 years of experience building web apps. He is a huge advocate for HTML, CSS, and accessibility and currently spends most of his time with React. Both at work and on personal projects, he constantly looks for ways to improve his skills and write better software. Tomáš also shares what he’s learned about software engineering on his blog and social media.
 
 ## Session Details
 
@@ -5084,7 +5204,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Mentor café: Meet &amp; chat
+Mentor Café: Meet &amp; chat
 
 ## Session URL
 
@@ -5097,6 +5217,22 @@ Conference Talk
 ## Talk Description
 
 Looking for expert advice or just a friendly chat with someone who’s been there, and done that? Drop by the Mentor Café and meet top industry professionals who are happy to share their insights, experiences, and maybe even a few insider tips. Whether you have a burning question, need guidance on your career, or just want to expand your network, this is the perfect place to connect.
+
+
+
+Our mentors are happy to help with:
+
+
+
+👋 Johana: #FounderAdvisory #GenAIAdoption #AdaptiveLeadership #AIProductivity #OrganisationalChange #ScalingCulture #FutureOfWork
+
+
+
+👋 Ondra: WebDevelopment #JavaScript #Deno #WebComponents #Roguelike
+
+
+
+👋 Martin: #DesignStrategy #DesignExecution #RevenueDrivenDesign #MonetisationExperience #DesignForMillions #BusinessNeeds #DesignDevelopmentSales #UserExpectations
 
 
 
@@ -5143,7 +5279,7 @@ Personal / Lighthearted questions
 
 
 
-If you weren’t in your current career, what would you love to be doing instead?
+If you weren’t in your current career, what would you love to be doing instead? 
 
 
 
@@ -5176,11 +5312,11 @@ Web Development: 60%, Design & UX: 60%, Marketing: 60%, Business: 60%
 
 ## Session Presenter
 
-Anna Bohoněk
+Johana Vamberská
 
 ## Session Presenter Bio
 
-Anna is a seasoned professional and co-founder of the Workplace Design Institute. She has spent the last five years in high-growth tech startups, using her diverse background to spearhead marketing, business development and sales initiatives. Known for her creativity, Anna excels in innovative technology use, prompt engineering, and no-code automation. She serves on the non-executive board of Meditorial, advises the micro teambuilding solution MeetyMeety, and shares her insights about generative AI applications and use cases as a European Leadership Academic Institute lecturer.
+Johana is an advisor in organisational change and GenAI strategy, working with founders and senior leaders to navigate transformation through adaptive leadership, strategic communication, and an AI-first mindset. She designs tailored GenAI workshops that turn business priorities into actionable capabilities and advises on leadership effectiveness and organisational resilience. A former startup founder and Oxford graduate, she brings a deep cross-sector perspective to rapidly changing industries. Her clients include MAKE, Fidurock, D.A.S., Continental, Meditorial, and GASK.
 
 ## Session Details
 
@@ -5203,7 +5339,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Mentor café: Meet &amp; chat
+Mentor Café: Meet &amp; chat
 
 ## Session URL
 
@@ -5228,6 +5364,10 @@ Our mentors are happy to help with:
 
 
 👋 Peter: #AI #TeamManagement #ScalingTeams #MachineLearning #NLP #MarketingAI #GenerativeAI
+
+
+
+👋 Olga: #UXWriting #ContentDesign #UXWResources #ImpostorSyndrome
 
 
 
@@ -5297,9 +5437,17 @@ If you could invent a piece of technology to make your life easier, what would i
 
 Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
 
+
+
+👋 Anton Antoniuk, Head of Creative Design at @wrike📆 Thursday, May 29 at 12:40 pm👉 https://t.co/1AaEhdSpPb#TeamManagement #DataDrivenDecision #ProcessOptimisation pic.twitter.com/Dv6Fe2vY07&mdash; WebExpo Conference - May 28-30, 2025 (@webexpo) May 20, 2025 
+
+
+
+👋 Peter Krejzl, Senior Director of Research at @emplifi_io📆 Thursday, May 29 at 12:40 pm👉 https://t.co/1AaEhdSpPb#AI #MachineLearning #TeamManagement pic.twitter.com/cyGcrsFFf6&mdash; WebExpo Conference - May 28-30, 2025 (@webexpo) May 20, 2025 
+
 ## Tags
 
-AI &amp; ML &amp; Bots, Business &amp; Growth, Data, Design Thinking &amp; UX, Future of Work
+AI &amp; ML &amp; Bots, Business &amp; Growth, Content, Data, Design Thinking &amp; UX, Future of Work
 
 ## Session Focused on
 
@@ -5334,7 +5482,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Mentor café: Meet &amp; chat
+Mentor Café: Meet &amp; chat
 
 ## Session URL
 
@@ -5432,6 +5580,14 @@ If you could invent a piece of technology to make your life easier, what would i
 
 Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
 
+
+
+👋 Robert Mráz, CTO &amp; AI Evangelist at @ui42📆 Thursday, May 29 at 10:40 am👉 https://t.co/msk8sv8SJq#MachineLearning #RecommendationSystems #DataForAI pic.twitter.com/xZGoS5KcOG&mdash; WebExpo Conference - May 28-30, 2025 (@webexpo) May 20, 2025 
+
+
+
+👋 Kateřina Hošová, Community Ambassador &amp; Manager at @MSDInvents📆 Thursday, May 29 at 10:40 am👉 https://t.co/msk8sv8SJq#Collaboration #Engagement #Branding pic.twitter.com/aseNk9uHIZ&mdash; WebExpo Conference - May 28-30, 2025 (@webexpo) May 20, 2025 
+
 ## Tags
 
 AI &amp; ML &amp; Bots, Business &amp; Growth, Data, Design Thinking &amp; UX, Future of Work
@@ -5469,7 +5625,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Mentor café: Meet &amp; chat
+Mentor Café: Meet &amp; chat
 
 ## Session URL
 
@@ -5567,6 +5723,14 @@ If you could invent a piece of technology to make your life easier, what would i
 
 Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
 
+
+
+👋 Michal Artazov, Team Leader &amp; Lead Backend Developer @signageOS📆 Wednesday, May 28 at 12:40 pm👉 https://t.co/CK92vEAbPE#SoftwareArchitecture #Efficiency #Readability pic.twitter.com/P3uZYsp1Lb&mdash; WebExpo Conference - May 28-30, 2025 (@webexpo) May 20, 2025 
+
+
+
+👋 Milan Chvojka, Head of Design at @2freshcz📆 Wednesday, May 28 at 12:40 pm👉 https://t.co/CK92vEAbPE#DesignLeadership #DesignStrategy #UXMaturity pic.twitter.com/s9blAPFyll&mdash; WebExpo Conference - May 28-30, 2025 (@webexpo) May 20, 2025 
+
 ## Tags
 
 AI &amp; ML &amp; Bots, Backend Dev, Business &amp; Growth, Design Thinking &amp; UX, Future of Work
@@ -5604,7 +5768,7 @@ Lucerna Palace, Prague, Czech Republic
 
 # Session title
 
-Mentor café: Meet &amp; chat
+Mentor Café: Meet &amp; chat
 
 ## Session URL
 
@@ -5628,11 +5792,11 @@ Our mentors are happy to help with:
 
 
 
-👋 Jakub: ProductDiscovery #DesignThinking #ProductDesign #UserResearch #DesignProcess #Workshops #ServiceDesign #ProductStrategy
+👋 Jakub: #ProductDiscovery #DesignThinking #ProductDesign #UserResearch #DesignProcess #Workshops #ServiceDesign #ProductStrategy
 
 
 
-👋 Timothy: Leadership #Management #Mentoring #Coaching #ETL #Typescript #Nodejs #MongoDB #Elasticsearch #Scrum #Agile #Guitar
+👋 Timothy: #Leadership #Scrum #Typescript #Nodejs #Microservices #Databases #SoftwareArchitecture
 
 
 
@@ -5701,6 +5865,10 @@ If you could invent a piece of technology to make your life easier, what would i
 
 
 Come say hi, share a coffee, and spark a conversation that could change your perspective—or even your path.
+
+
+
+👋 Jakub Rybář, Senior Product Designer at @ataccama📆 Wednesday, May 28 at 2:40 pm👉 https://t.co/d8dR4GMsS7#ProductDiscovery #UserResearch #ProductStrategy pic.twitter.com/dNwShkDKs5&mdash; WebExpo Conference - May 28-30, 2025 (@webexpo) May 20, 2025 
 
 ## Tags
 
@@ -6605,6 +6773,120 @@ May 28, 2025 8:00 am
 ### Specific Location
 
 WebExpo Kids
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+What nobody else is telling you in the web industry
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/what-nobody-else-is-telling-you-in-the-web-industry/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+We often focus on the latest techniques and tooling, trying to optimise our workflows and processes. However, in the end, every single person has their own goals and ambitions, and too often our individual goals are left far behind the company goals and the product development roadmap.
+
+
+
+In this session, Vitaly will be exploring some things that he wished he’d known when he was just in his 20s. How to find out about the company’s culture before getting there? How to negotiate your salary? How to get promotions? How to argue with senior management? What are the warning signs to keep in mind? We’ll look into all of it — in a frank, open-minded and friendly conversation that will help you manage some difficult situations in your company, and moving forward to your ambitions and your goals.
+
+
+
+
+
+## Tags
+
+Business &amp; Growth, Design Thinking &amp; UX, Future of Work
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 80%, Marketing: 60%, Business: 100%
+
+## Session Presenter
+
+Vitaly Friedman
+
+## Session Presenter Bio
+
+Born in Minsk, Belarus, Vitaly studied computer science and mathematics in Germany. After working as a freelance designer and developer for six years, he co-founded Smashing Magazine back in 2006, a leading online magazine for designers and developers. Vitaly is the author, co-author, and editor of Smashing books, a curator of Smashing Conferences, and a leading front-end and UX consultant, working with the European Parliament, Haufe-Lexware, Axel-Springer, and more.
+
+## Session Details
+
+### Date
+
+May 29, 2025 2:00 pm
+
+### Duration
+
+40 Minutes
+
+### Specific Location
+
+Lucerna Great Hall
+
+### General Localtion
+
+Lucerna Palace, Prague, Czech Republic
+
+
+# Session title
+
+How to speak engineer (without being one)
+
+## Session URL
+
+https://webexpo.net/prague2025/sessions/how-to-speak-engineer/
+
+## Session Type
+
+Conference Talk
+
+## Talk Description
+
+You don’t need to write code to lead in tech, but you do need to speak the language. In today’s hybrid, engineering-driven environments, the ability to collaborate across disciplines is more valuable than ever. In this keynote, Šárka Kohoutová shares how non-technical leaders can build trust, drive alignment, and deliver real impact - without writing a single line of code. Drawing from 18 years at Microsoft and a career spent bridging business and tech, she’ll unpack how to translate strategy into systems, feedback into features, and “Can you explain that in plain English?” into a superpower. Expect practical frameworks, real-world stories, and a few laughs along the way.
+
+
+
+
+
+## Tags
+
+Backend Dev, Business &amp; Growth, Frontend Dev, Future of Work
+
+## Session Focused on
+
+Web Development: 60%, Design & UX: 0%, Marketing: 0%, Business: 100%
+
+## Session Presenter
+
+Šárka Kohoutová
+
+## Session Presenter Bio
+
+Šárka is a driving force for women in tech, empowering them through mentoring and leadership programs. With extensive experience in program management, she fuels business growth by fostering innovation and strategic thinking. As a community builder and public speaker, she inspires and supports attendees in their professional journeys. As a single mother, Šárka is also able to offer valuable insights for navigating career challenges. Driven by her passion for lifelong learning, she also actively champions initiatives like DigiGirlz and Women in Tech.
+
+## Session Details
+
+### Date
+
+May 28, 2025 2:00 pm
+
+### Duration
+
+20 Minutes
+
+### Specific Location
+
+Lucerna Cinema
 
 ### General Localtion
 
